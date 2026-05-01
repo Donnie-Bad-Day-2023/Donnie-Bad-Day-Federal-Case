@@ -1,0 +1,514 @@
+
+=== PAGE 1 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 1 of 15
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+
+GALVESTON DIVISION
+DONALD LYNN THOMPSON, JR.,
+Plaintiff,
+v. Civil Action No.: 3:25-CV-00253
+
+MATAGORDA COUNTY, et al.,
+
+MUNIN INN UD OD
+
+Defendants.
+MATAGORDA COUNTY DEFENDANTS’ MOTION TO DISMISS
+The Matagorda County Defendants! move to dismiss Plaintiff’s Original Complaint
+pursuant to Federal Rule of Civil Procedure 12(b)(6).
+I. INTRODUCTION
+Plaintiff Donald Lynn Thompson, Jr. (“Plaintiff’ or “Thompson”) alleges civil rights
+violations in this suit against Matagorda County and various county officials. Specifically, Plaintiff
+contends that he was improperly arrested by Deputy Raymond Gonzales for driving with an
+expired registration and detained for 18 hours. PI.’s Original Pet. {J 19-20. Plaintiff then claims
+that Magistrate Judge Jason Sanders impermissibly entered a disposition of “time served” without
+properly advising Plaintiff of his rights. Jd. j 21-22. Finally, Plaintiff alleges that his civil rights
+were violated in the vehicle tow hearing. He claims that Judge Mark Finlay erroneously denied his
+request for certain video evidence to be produced, that County Attorney Jennifer Chau objected to
+
+certain lines of questioning, and that Records Clerk Michaela Riley imposed administrative
+
+' Matagorda County, Texas; Jennifer Chau, the Matagorda County Attorney; Judge Jason Sanders, Justice of the Peace
+Precinct 1; Judge Mark Finlay, Justice of the Peace Precinct 4; Raymond Gonzales, Matagorda County Sheriff's
+Deputy; unknown John and Jane Does alleged to be employed by the Matagorda County Sheriff's Department;
+Michaela Riley, alleged to be a Records Clerk with the Matagorda County Sheriff’s Office; the Matagorda County
+Sheriff's Department; and the Matagorda County Attorney’s Office.
+
+1
+
+
+=== PAGE 2 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 2 of 15
+
+barriers to accessing the evidence despite his indigency. Jd. 23-29. Plaintiff brings suit under
+42 U.S.C. §§ 1983, 1985(3), and 1986 against Matagorda County and various county officers. He
+requests $3.2 million in damages.
+
+Plaintiff’s claims suffer from a host of legal deficiencies and should be dismissed for a
+number of reasons:
+
+1) Plaintiff fails to state a claim under Section 1983 as a matter of law because an officer
+may legally arrest an individual for driving with an expired car registration.
+
+2) Matagorda County’s judges, prosecutor, officers, and record clerks are entitled to
+immunity, and Plaintiff has not identified a valid waiver of that immunity.
+
+3) Plaintiff fails to state a claim for malicious prosecution because there was probable
+cause to initiate the prosecution.
+
+4) Plaintiff fails to state a claim for conspiracy under 42 U.S.C. §§ 1985(3) and 1986
+because there was no underlying deprivation of constitutional rights and because
+Plaintiff provides no evidence of a “meeting of the minds.”
+5) Plaintiff fails to allege a pattern or practice sufficient to establish Monell liability.
+The Matagorda County Defendants respectfully request that the Court dismiss Plaintiff’s
+claims in their entirety.
+Il. LEGAL STANDARD
+Pursuant to Fed. R. Civ. P. 12(b)(6), a claim may be dismissed because of a “failure to state
+a claim upon which relief can be granted.” A complaint must contain a “short and plain statement
+of the claim showing that the pleader is entitled to relief” to give the defendant “fair notice” of
+what the claims are and the grounds upon which they rest. See Fed. R. Civ. P. 8(a)(2); Bell Atlantic
+Corp. v. Twombly, 550 U.S. 544, 555 (2007). “A plaintiffs obligation to provide the ‘grounds’ of
+his ‘entitlement to relief’ requires more than labels and conclusions, and a formulaic recitation of
+the elements of a cause of action will not do . . ..” Jd. at 555 (internal citations omitted). Legal
+
+conclusions “must be supported by factual allegations.” Ashcroft v. Iqbal, 556 U.S. 662, 679
+
+
+=== PAGE 3 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 3 of 15
+
+(2009). To survive a motion to dismiss, a complaint must contain sufficient factual allegations,
+
+accepted as true, “‘to state a claim to relief that is plausible on its face.’”” Jd. at 678 (quoting
+Twombly, 550 U.S. at 570). “Where a complaint pleads facts that are ‘merely consistent with’ a
+defendant’s liability, it ‘stops short of the line between possibility and plausibility of ‘entitlement
+
+to relief.’”” Jd. (quoting Twombly, 550 U.S. at 557). Conclusory allegations shall not be accepted
+as true. Kaiser Aluminum & Chem. Sales, Inc. v. Avondale Shipyards, Inc., 677 F.2d 1045, 1050
+(5th Cir, 1982).
+Til. ARGUMENT AND AUTHORITIES
+A. Plaintiff fails to state a claim under Section 1983 as a matter of law because an
+officer may legally arrest an individual for driving with an expired car
+registration.
+
+Plaintiff’s Complaint hinges on his assertion that he was impermissibly arrested for driving
+with an expired registration. However, this assertion is unsubstantiated by law. A person may
+legally be arrested for driving with an expired registration. See, e.g., Jaycox v. Pyle, No. 6:18-CV-
+00016, 2021 WL 1140865 (S.D. Tex. Mar. 25, 2021) (“The failure to display proper vehicle
+registration through a valid registration sticker and two proper license plates are lawful grounds
+for arrest under Texas law.”) (citing Tex. Transp. Code Ann. § 502.473); Hodnett v. State, No. 05-
+01-01323-CR, 2002 WL 31845821 (Tex. App.—Dallas Dec. 20, 2002, pet. ref’d) (“Having an
+expired registration sticker is a traffic offense. When an officer has probable cause to believe a
+person is committing an offense, even a traffic offense, an officer can reasonably arrest that
+person.”); Dominguez-Ramil v. State, No. 14-22-00648-CR, 2024 WL 118488 (Tex. App.—
+Houston [14th Dist.] Jan. 11, 2024, no pet.) (noting that the officer “had probable cause to arrest
+
+appellant for expired registration and failure to carry liability insurance...”); Blake v. State, No.
+
+14-00-01373-CR, 2002 WL 517174 (Tex. App—Houston [14th Dist.] Apr. 4, 2002, no pet.)
+
+
+=== PAGE 4 ===
+Case 3:25-cv-00253 Document29_ Filed 01/29/26 in TXSD Page 4 of 15
+
+(noting that the officer had probable cause to arrest the appellant when the expired registration was
+confirmed).
+
+Plaintiff does not allege that he was not driving with an expired registration; instead, he
+attacks the legality of the arrest. He states that “[uJnder Texas Transportation Code § 543.003, the
+offense of expired registration is a Class C misdemeanor that does not authorize custodial arrest.
+The statute requires that the officer issue a citation and release the individual upon a written
+promise to appear.” Pl.’s Original Pet. 19. However, this is an incorrect recitation of the statute.
+Section 543.003 states the procedure for when an officer arrests a person for a violation and does
+not take a person before a magistrate. See Tex. Transp. Code § 543.003. Indeed, in the very section
+that Plaintiff cites, the statute acknowledges that an officer may make an arrest under this subtitle.
+Because Plaintiff’s arrest was lawful, Plaintiff fails to state a claim for the deprivation of his civil
+rights; any claims based on the illegality of his arrest should be dismissed.
+
+Similarly, Plaintiff asserts that certain individuals barred access to body camera and dash
+camera footage. These claims should likewise be dismissed. Even if Plaintiff was erroneously
+prohibited from accessing this evidence, it would not have aided in his defense because the
+officer’s actions, as pled by Plaintiff, were legal.
+
+B. Matagorda County’s judges, prosecutor, and officers are immune from suit and
+liability.
+
+When a government employee is sued in his official capacity, and the government entity
+employer is also named as a defendant, “[t]he official-capacity claims and the claims against the
+governmental entity essentially merge.” Turney v. Houma Mun. Fire & Police Civil Serv. Bd., 229
+F.3d 478, 485 (Sth Cir. 2000). Courts thus typically dismiss official-capacity claims against
+government employees in a case where the government-entity employer is also sued. See, e.g. U.S.
+
+ex rel Bias v. Tangipahoa Par. Sch. Bd., 816 F.3d 315, 322 (Sth Cir. 2016).
+
+
+=== PAGE 5 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 5 of 15
+
+For the reasons above, Plaintiff’s claims against the County (and, therefore, the official
+capacity claims against various individuals) should be dismissed. Plaintiff fails to allege any facts
+regarding what any County employee did in their individual, as opposed to official capacity,
+justifying an individual-capacity claim against any County employee. For the reasons below, the
+claims against the individual employees should be dismissed as well.
+
+1. Plaintiff's claims against Judges Jason Sanders and Mark Finlay are barred by
+judicial immunity.
+
+Judges Sanders and Finlay are entitled to absolute immunity for their judicial conduct.
+Judges have absolute immunity for judicial acts performed in judicial proceedings. Mays v.
+Sudderth, 97 F.3d 107, 110 (Sth Cir. 1996). “A judge will not be deprived of immunity because the
+action he took was in error, was done maliciously, or was in excess of his authority; rather, he will
+be subject to liability only when he has acted in the ‘clear absence of all jurisdiction.’” Stump v.
+Sparkman, 435 U.S. 349, 356-57 (1978); see also Burns v. Reed, 500 U.S. 478, 479 (1991)
+(“[A]bsolute immunity is designed to free the judicial process, rather than every litigation-
+inducing conduct, from harassment and intimidation.”). Even in suits brought under Section 1983,
+absolute immunity applies when judges take judicial actions within their jurisdiction. Mays v.
+Sudderth, 97 F.3d 107, 111 (Sth Cir. 1996). To overcome the presumption of judicial immunity, the
+plaintiff must show that the judge’s actions are nonjudicial or are taken “in the complete absence
+ofall jurisdiction.” Harry vy. Lauderdale Cnty., 212 Fed. Appx. 344, 347 (Si Giz 2007). Judicial
+acts are “normally performed by a judge” and affect parties who “dealt with the judge in his judicial
+capacity.” Id.
+
+Here, Judges Sanders and Finlay were performing judicial acts within their jurisdiction.
+Plaintiff objects to Judge Sanders’ “conduct[ing] a magistration” and “enter[ing] a disposition of
+
+‘time served””. Pl.’s Original Pet. § 21. However, these actions are inherently judicial acts that are
+
+
+=== PAGE 6 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 6 of 15
+
+normally performed by a judge and that affect parties who deal with the judge in his judicial
+capacity. Judge Sanders, a magistrate judge, had the authority to hear the evidence against Plaintiff,
+(sean oe feommimen, enter a judgment of conviction.
+
+Likewise, Judge Finlay’s actions were judicial in nature. Plaintiff complains about the way
+in which Judge Finlay conducted the hearing, ruled on evidence, and decided motions. Pl.’s
+Original Pet. § 23-27. These actions, too, are inherently performed by a judge in his judicial
+capacity. Although Plaintiff contends that the judges’ conduct “was performed in a[]... non-judicial
+capacity,” it is clear that hearing evidence, making evidentiary rulings, and making legal rulings
+are judicial acts. See id. p. 23. Judicial immunity is not waived simply because one party
+
+disapproves of the way in which judicial proceedings are conducted. Because Judges Sanders and
+
+Finlay took judicial actions within their jurisdiction) they are entitled to absolute immunity.
+
+Plaintiff's claims against Matagorda County Attorney Jennifer Chau are barred by
+prosecutorial immunity.
+
+Attorney Jennifer Chau is immune from suit under the doctrine of prosecutorial immunity.
+
+Prosecutors have absolute immunity from liability when performing prosecutorial function:
+
+Charleston v. Pate, 194 S.W.3d 89 (Tex. App.—Texarkana 2006, no pet.); see Imbler v.Pachtman,
+424 US. 409, 416 (1976) (noting that prosecutors are immune from liability for “acts done as part
+of their traditional official functions”).
+
+Here, Plaintiff complains that Ms. Chau made certain legal arguments and relied on certain
+testimony at his hearing. These are clearly acts done as part of the prosecutor’s traditional official
+functions and not, as Plaintiff contends, merely “administrative” or “investigative.” See Pl.’s
+Original Pet. p. 23. Additionally, Plaintiff complaints that Ms. Chau improperly withheld video
+
+evidence from him. However, even presuming that this video evidence was improperly withheld
+
+and would have shown what Plaintiff alleged, the video evidence would not have been exculpatory
+
+
+=== PAGE 7 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 7 of 15
+
+because the deputy’s actions, as pled by Plaintiff, were legal. See supra Part III.A. Because Plaintiff
+complains of actions undertaken in furtherance of her role as a prosecutor, Ms. Chau is entitled to
+prosecutorial immunity.
+
+3. Plaintiff's claims against Deputy Raymond Gonzales and Records Clerk Michaela
+Riley are barred by qualified immunity.
+
+Plaintiff also brings claims against various state officials in their individual capacities.
+However, these claims fail because the officials are entitled to qualified immunity. Thomas v. State,
+294 F. Supp. 3d 576, 606 (N.D. Tex. 2018), report and recommendation adopted, No. 3:17-CV-
+0348-N-BH, 2018 WL 1254926 (N.D. Tex. Mar. 12, 2018) (“A governmental employee who is
+sued under § 1983 or § 1985 may assert the affirmative defense of qualified immunity.”). Qualified
+immunity protects state officials from personal suits when the officials act in their official
+capacities as long as their conduct “does not violate clearly established statutory or constitutional
+rights of which a reasonable person would have known.” Stidham v. Tex. Comm'n on Private Sec.,
+418 F.3d 486, 490 (Sth Cir. 2005). After qualified immunity is invoked, the plaintiff bears the
+burden to show that qualified immunity is not an applicable defense. Thomas, 294 F. Supp. at 606.
+To do so, the plaintiff must allege facts showing that 1) a defendant violated his constitutional
+rights and 2) that the violation was objectively unreasonable. Id.
+
+Here, Plaintiff concedes that all officers were acting as officials, agents, or employees of
+Matagorda County. Pl.’s Original Pet. 4 31. The officials were therefore acting in their official
+capacities, and qualified immunity is implicated. Plaintiff also does not and cannot allege that any
+Matagorda County official violated his constitutional rights in an objectively unreasonable manner.
+
+First, Plaintiff brings suit against Deputy Raymond Gonzales for unlawful arrest. However,
+Deputy Gonzales’s alleged conduct does not violate clearly established constitutional rights. An
+
+officer is entitled to arrest an individual for displaying an expired car registration. See supra Part
+
+
+=== PAGE 8 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 8 of 15
+
+IILA. Thus, qualified immunity applies, and Plaintiff’s claim of unlawful arrest and detention
+against Deputy Gonzales should be dismissed.
+
+Second, Plaintiff sues Records Clerk Michaela Riley for deprivation of civil process and
+Brady violations. Specifically, Plaintiff alleges that Ms. Riley denied Plaintiff’s request for access
+to body camera and dash camera footage, refusing to waive court fees despite Plaintiff’s
+indignancy and citing vague “technical issues.” Even taking Plaintiff’s allegations as true, Ms.
+Riley’s actions constituted harmless error. Plaintiff contends that the body camera and dash camera
+footage would have shown that Deputy Gonzales arrested Plaintiff for having an expired
+registration. See Pl.’s Original Pet. § 20. These actions are not illegal; thus, even if the footage was
+produced to Plaintiff and showed what he purported it to show, the footage would not have aided
+Plaintiff's case.
+
+Finally, Plaintiff brings claims against Deputy Gonzales and Ms. Riley for civil conspiracy
+to violate constitutional rights. However, Plaintiff cannot allege facts showing that the officers
+violated his constitutional rights, nor that they did so in an objectively unreasonable manner. A
+conspiracy requires an agreement between at least two parties. See Duke Energy Intern., L.L.C. v.
+Napoli, 748 F. Supp. 2d 656, 675 (S.D. Tex. 2010) (noting that a conspiracy requires a “meeting
+of minds on the object or course of action”). Plaintiff presents no evidence of any agreement,
+express or implied, between the Defendants to deprive Plaintiff of his constitutional rights. See
+Pl.’s Original Pet. { 62. Because Plaintiff cannot allege facts showing that a defendant violated his
+constitutional rights and that the violation was objectively unreasonable, Matagorda County
+officials are entitled to qualified immunity.
+
+C. The Matagorda County Sheriff’s Department and Matagorda County Attorney’s
+Office have no separate capacity to sue or be sued.
+
+
+=== PAGE 9 ===
+ww)
+
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 9 of 15
+
+Neither the County Attorney’s Office nor the Sheriff’s Department are entities with a
+capacity to be sued separate and apart from the State or the County, and Plaintiff’s claims against
+the County Attorney’s Office and the Sheriff’s Department should therefore be dismissed.
+
+The capacity of a governmental entity to sue or be sued “shall be determined by the law of
+the state in which the district court is held.” Fed. R. Civ. P. 17(b)(3). Here, the laws of the State of
+Texas apply. Unless the State of Texas or an authorized political subdivision (such as, in this case,
+Matagorda County) have “taken explicit steps to grant the servient agency with jural authority, the
+agency cannot engage in any litigation except in concert with the government itself.” Darby v.
+Pasadena Police Dep t., 939 F.2d 311, 313 (5th Cir. 1991).
+
+Plaintiff alleges no facts to indicate that Matagorda County has authorized either the
+County Attorney’s Office or the Sheriff’s Department to engage in separate litigation. In Darby v.
+Pasadena Police Dep t, confronted with similarly insufficient pleadings, the Fifth Circuit held that
+the district court properly dismissed a claim against the Pasadena Police Department because the
+police department was a non-jural entity that was not capable of being sued. Darby v. Pasadena
+Police Dep t., 939 F.2d 311, 312 (Sth Cir. 1991). And in Barrie v. Nueces County District Attorney s
+Office, the Fifth Circuit came to the same conclusion about a claim against the Nueces County
+District Attorney’s Office, holding that because the district attorney’s office was a non-jural entity
+that was not capable of being sued, the district court properly dismissed the claim against the
+district attorney’s office. Barrie v. Nueces County District Attorney's Office, 753 Fed. App’x 260,
+262 (Sth Cir, 2018).
+
+As in those cases, Plaintiff alleges no facts indicating that Matagorda County or the State
+
+of Texas has granted the County Attorney’s Office or the Sheriff’s Department a legal capacity to
+
+
+=== PAGE 10 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 10 of 15
+
+sue and be sued. Accordingly, Plaintiff’s claims against the County Attorney’s Office and Sheriff’s
+Department must be dismissed for failure to state a claim upon which relief can be granted.
+
+D. Plaintiff fails to state a claim for malicious prosecution because the County had
+probable cause to initiate the prosecution.
+
+Plaintiff’s third cause of action, his claim for malicious prosecution, fails because he cannot
+successfully allege that the County lacked probable cause to initiate the prosecution. To
+successfully prove malicious prosecution, the Plaintiff must show (1) a criminal prosecution was
+commenced against him; (2) the criminal prosecution was initiated or procured by the defending
+party; (3) the prosecution was terminated in the complaining party's favor; (4) the complaining
+party was innocent; (5) the defending party lacked probable cause to initiate the prosecution; (6)
+the defending party acted With malice: and (7) the complaining party suffered damages. Fishman
+yv. C.0.D. Capital Corp., No. 05-16-00581-CV, 2017 WL 3033314 (Tex. App.—Dallas July 18,
+2017, no pet.) (emphasis in original).
+
+On its face, Plaintiff’s pleadings fail to allege that the County lacked probable cause to
+initiate the prosecution. Plaintiff incorrectly argues that an individual cannot be arrested for an
+
+— eee BBS | ONO
+expired vehicle registration. Numerous court opinions establish that an expired vehicle registration
+is an arrestable offense. See supra Part IIL.A. Therefore, Plaintiff cannot prove an essential element
+
+of his case, and his claim of malicious prosecution should be dismissed.
+
+E. Plaintiff fails to state a claim under 42 U.S.C. §§ 1985(3) and 1986 because there
+is no evidence of conspiracy.
+
+Plaintiff also brings claims under 42 U.S.C. §§ 1985(3) and 1986, which pertain to
+conspiracy. However, Plaintiff fails to state a claim as a matter of law under these statutes for two
+reasons. First, Plaintiff cannot prove an actual deprivation of a constitutional right. Second,
+
+Plaintiff fails to present evidence of any “meeting of the minds” between two or more parties.
+
+10
+
+
+=== PAGE 11 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 11 of 15
+
+To bring a valid Section 1983 claim, “it remains necessary to prove an actual deprivation
+of a constitutional right; a conspiracy to deprive is insufficient.” Villanueva v. McInnis, 723 F.2d
+
+414, 418 (Sth Cir. 1984). Here, Plaintiff cannot show that he was actually deprived of a
+
+constitutional right;{his arrest was constitutional.)See supra Part III.A. Plaintiff's conspiracy claims
+therefore fail because Plaintiff cannot show an underlying constitutional deprivation.
+Additionally, Plaintiff’s conspiracy claims fail because he does not present evidence of an
+agreement between two or more parties. A claim for civil conspiracy requires 1) a combination of
+two or more persons; 2) an unlawful object to be accomplished; 3) a meeting of the minds on the
+object or course of action; 4) one or more unlawful, overt acts; and 5) damages. Duke Energy
+Intern., L.L.C. v. Napoli, 748 F. Supp. 2d 656, 675 (S.D. Tex. 2010) (emphasis in original). As
+mentioned above, Plaintiff cannot show any unlawful, overt acts. However, his claim also fails
+
+because he cannot show a meeting of the minds. A meeting of the minds only occurs if there is a
+
+“preconceived plan and unity 0: .” In re Enron Corp. Sec., Derivative & ERISA
+
+Litig., 623 F. Supp. 2d 798, 809 (S.D. Tex. 2009).
+
+Here, Plaintiff does not plead facts demonstrating a preconceived plan to deprive Plaintiff
+of his civil rights. Plaintiff contends that the Defendants “knowingly and intentionally” entered
+into an agreement to deprive him of his constitutional rights. Pl.’s Original Pet. 62. However,
+mere allegations will not suffice. A conspiracy does not exist simply because a deputy makes an
+arrest, a prosecutor tries the case, and a judge makes a ruling. Plaintiff does not allege any facts
+suggesting that an agreement existed between the Defendants; therefore, his claims of conspiracy
+should be dismissed.
+
+F. Plaintiff fails to allege a pattern and practice sufficient for Monell.
+
+
+=== PAGE 12 ===
+S
+
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 12 of 15
+
+Finally, Plaintiff brings suit against Matagorda County for maintaining official policies,
+customs, or de facto practices that underlie the alleged constitutional violations. His complaint
+exclusively concerns the isolated conduct of a single arrest in a single case. However, municipal
+liability requires three elements: “a policymaker; an official policy; and a violation of
+constitutional rights whose ‘moving force’ is the policy or custom.” Piotrowski v. City of Houston,
+237 F.3d 567, 578 (Sth Cir. 2001) (citing Monell v. Dep t of Soc. Servs., 436 U.S. 658 (1978)). A
+written or formally adopted policy is not necessarily required, because municipalities may also be
+liable “where the constitutional deprivation is pursuant to a governmental custom, even if such
+custom has not received formal approval.” Zarnow v. City of Wichita Falls, Tex., 614 F.3d 161, 166
+(5th Cir. 2010) (quotations omitted).
+
+In order to demonstrate the existence of a pattern or practice rising to the level of a custom,
+a single instance of conduct is insufficient to satisfy Monell. City of Oklahoma City v. Tuttle, 471
+U.S. 808, 823-24 (1985). In fact, “it is nearly impossible to impute lax disciplinary policy to [a
+municipal government] without showing a pattern of abuses that transcends the error made in a
+single case.” Piotrowski, 237 F.3d at 582. Therefore, alleging a “pattern of abuses” as required for
+Monell requires similarity and specificity, as “[p]rior indications cannot simply be for any and all
+‘bad’ or unwise acts, but rather must point to the specific violation in question.” Est. of Davis ex
+rel. McCully v. City of N. Richland Hills, 406 F.3d 375, 383 (Sth Cir. 2005).
+
+Courts in this circuit consistently require more than what Plaintiff alleges here to sustain a
+claim for relief. Showing a “pattern of abuses that transcends the error made in a single case,”
+Piotrowski, 237 F.3d at 582, requires at least a listing of similar prior incidents with some degree
+of detail greater than Plaintiff’s conclusory and cursory allusion to a number of other detainees
+
+that have filed grievances and other unidentified lawsuits. See, e.g., DeLeon v. Nueces Cnty., Tex.,
+
+12
+
+
+=== PAGE 13 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26 in TXSD Page 13 of 15
+
+No. 2:21-CV-00143, 2022 WL 18232727, at *3 (S.D. Tex. June 2, 2022) (dismissing complaint for
+simply reciting “prior incidents of similar conduct without context,” thereby failing to sufficiently
+allege a pattern or practice by the municipality); Huff v. Refugio County Sheriff's Dept., No. 6:13-
+CV-00032, 2013 WL 5574901, at *5 (S.D. Tex. Oct. 9, 2013) (dismissing claims for excessive
+force and failure to supervise for lack of allegations concerning any other incident of improper
+County action); Allen v. Burnett, 2013 WL 2151218, at *3 (N.D. Tex. May 17, 2013) (dismissing
+plaintiff’s excessive force claim for alleging only one improper police action, committed against
+him, in support of pattern and practice claim); compare with, e.g., Oporto v. City of El Paso, No.
+EP-10-CV-110-KC, 2010 WL 3503457, at *5 (W.D. Tex. Sept. 2, 2010) (plaintiff stated a claim by
+alleging thirty-two prior incidents, spanning fifteen years, involving substantially similar events,
+and described in varying degrees of detail from “virtually no detail” to “significant detail”).
+
+Plaintiff does not specifically list or identify any alleged incidents in which similarly
+situated individuals complained of a Matagorda County official’s conduct in conducting an arrest
+for an expired registration—a practice which courts have consistently held to be legal. Plaintiff’s
+failure to allege any prior incidents with any specificity, context, detail, or identifying information
+of any kind does not adequately allege a widespread county pattern or custom of excessive force.
+Nor does Plaintiff identify or allege any County policymaker who was the moving force behind
+his arrest (an alleged “violation” which, as explained above, was no violation at all). Because no
+Monell element is satisfied, Plaintiff’s claims against the Matagorda County Defendants should be
+dismissed.
+
+IV. CONCLUSION
+Fundamentally, Plaintiff sues a number of County employees and the County itself for
+
+arresting and prosecuting him. His complaint suffers from a myriad of legal deficiencies. Contrary
+
+WSF
+
+
+=== PAGE 14 ===
+Case 3:25-cv-00253 Document 29 _ Filed 01/29/26in TXSD Page 14 of 15
+
+to Plaintiff’s allegations, an officer mnay properly arrest an individual for driving with an expired
+
+car registration. Applying the appropriateegal rule, the foundation of Plaintiff’s complaint
+crumbles; Plaintiff was not deprived of his constitutional rights, but instead was lawfully arrested.
+Additionally, the judges, prosecutor, and officials are entitled to immunity for their actions in
+Plaintiff’s arrest and his subsequent hearings. Because this arrest was lawful, Plaintiff’s claim of
+malicious prosecution fails, as the prosecution had probable cause to initiate the case. Plaintiff also
+fails to allege facts sufficient to show a “meeting of the minds,” as required for a civil conspiracy.
+Finally, Plaintiff does not allege a pattern or practice sufficient for Monell liability.
+
+For all these reasons, Plaintiff fails to state any claim upon which relief can be granted. The
+Matagorda County Defendants respectfully request the Court enter an order dismissing all of
+Plaintiff’s claims against all Defendants with prejudice, and grant all other relief to which
+Matagorda County may be entitled.
+
+Dated January 29, 2026 Respectfully submitted,
+
+HUSCH BLACKWELL, LLP
+
+By: /s/ Ben Stephens
+Ben Stephens
+State Bar No. 24098472
+Ben.Stephens@huschblackwell.com
+Kate David
+State Bar No. 24045749
+Kate.David@huschblackwell.com
+HUSCH BLACKWELL LLP
+600 Travis Street, Suite 2350
+Houston, Texas 77002
+T (713) 647-6800
+F (713) 647-6884
+
+ATTORNEYS FOR MATAGORDA
+COUNTY DEFENDANTS
+
+14
+
+
+=== PAGE 15 ===
+Case 3:25-cv-00253 Document 29 filed 01/29/26 in TXSD_ Page 15 of 15
+
+CERTIFICATE OF SERVICE
+
+The undersigned hereby certifies that a copy of the foregoing was electronically served on
+all parties having appeared in this matter via the CM/ECF Filing system and by certified mail,
+return receipt requested, to Donald Lynn Thompson, Jr., P.O. Box 521, Markham, TX 77456, and
+
+by email at ginnyleethompson430@gmail.com, on January 29, 2026.
+
+/s/ Ben Stephens
+Ben Stephens
+
+15

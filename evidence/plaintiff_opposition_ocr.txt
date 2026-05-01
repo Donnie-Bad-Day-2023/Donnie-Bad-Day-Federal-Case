@@ -1,0 +1,959 @@
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 1 of 29
+
+UNITED STATES DISTRICT COURT United States Courte
+SOUTHERN DISTRICT OF TEXAS Southern Disict of Texas
+GALVESTON DIVISION
+FEB 19 2026
+
+Donald Lynn Thompson Jr., Nathan Ochsner, Clerk of Court
+Plaintiff,
+
+v. CIVIL ACTION NO. 3:25-cv-00253
+
+Matagorda County, et al.,
+Defendants.
+
+OU UD UM CO
+
+PLAINTIFF'S RESPONSE IN OPPOSITION TO
+MATAGORDA COUNTY DEFENDANTS’ MOTION TO DISMISS
+
+Plaintiff DONALD LYNN THOMPSON, JR., appearing pro se and sui juris, respectfully
+submits this Response in Opposition to the Matagorda County Defendants! Motion to
+
+Dismiss filed pursuant to Federal Rule of Civil Procedure 12(b)(6) and states as follows:
+
+|, INTRODUCTION
+
+|
+|
+|
+|
+|
+|
+|
+|
+
+Defendants' Motion to Dismiss rests on a fundamental and recurring misstatement of
+Texas law: that a custodial arrest for expired vehicle registration is categorically lawful i
+and that probable cause for the stop automatically authorized every subsequent action
+
+taken against Plaintiff. This characterization is legally incorrect, factually incomplete,
+
+19397087.15
+
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 2 of 29
+
+and strategically designed to collapse a multi-count civil rights complaint into a single
+
+probable-cause inquiry.
+
+This case is not merely about whether a deputy had grounds to initiate a traffic stop.
+This case is about what happened after that stop — the custodial arrest for a
+non-jailable administrative infraction that Texas law provides a specific remedial process
+to address; the eighteen-hour detention without warrant, charge, or judicial review; the
+sham magistration that imposed punishment without a plea or finding of guilt; the
+coordinated suppression of exculpatory video evidence; the obstruction of public
+records access; the procedurally defective tow hearing designed to ratify prior
+misconduct; and the ongoing maintenance of a fabricated criminal record. These are the
+constitutional injuries at the heart of Plaintiffs Complaint, and Defendants’ Motion
+
+addresses virtually none of them.
+
+The disproportionality of the County's response cannot be overstated. The Texas
+Legislature determined that the maximum financial consequence for operating a vehicle
+with expired registration — after the charge is dismissed upon remedial compliance —
+is a $20 reimbursement fee. Tex. Transp. Code § 502.407(b)(2). In response to this $20
+administrative matter, Defendants handcuffed Plaintiff, transported him to jail, detained
+him for eighteen hours without a warrant or judicial review, imposed a "time served"
+criminal disposition without a plea or adjudication, seized his vehicle, conducted a
+procedurally defective tow hearing, suppressed exculpatory evidence, obstructed public
+
+records access, and created a permanent false criminal record. The chasm between the
+
+|
+|
+|
+i
+|
+|
+i
+|
+|
+i
+|
+|
+|
+|
+|
+|
+|
+|
+|
+!
+|
+i
+|
+49997087.15
+
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 3 of 29
+
+Legislature's intended remedy and Defendants' actual conduct is itself powerful
+
+evidence of the constitutional violations alleged in this Complaint.
+
+Defendants ask this Court to accept, at the motion-to-dismiss stage, their own contested
+legal conclusions as established fact, to demand evidentiary proof that is neither
+required nor appropriate before discovery, and to extend immunity doctrines beyond
+
+their recognized boundaries. The Court should decline each of these invitations.
+
+li. LEGAL STANDARD APPLICABLE TO PRO SE PLAINTIFFS
+
+A pro se plaintiffs complaint must be liberally construed, and “however inartfully
+pleaded, must be held to less stringent standards than formal pleadings drafted by
+
+lawyers." “Erickson v. Pardus*, 551 U.S. 89, 94 (2007).
+
+Under Rule 12(b)(6), the Court must accept all well-pleaded factual allegations as true
+and draw all reasonable inferences in Plaintiffs favor. “Ashcroft v. Iqbal*, 556 U.S. 662,
+678 (2009); *Bell Atlantic Corp. v. Twombly*, 550 U.S. 544, 555 (2007). The question is
+not whether Plaintiff will ultimately prevail, but whether the Complaint, liberally
+
+construed, states a plausible claim for relief.
+
+Defendants bear the burden of demonstrating that, even accepting every factual
+allegation as true and drawing every reasonable inference in Plaintiffs favor, no
+
+plausible claim for relief exists. They have not met that burden.
+
+13997087.1.7
+
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 4 of 29
+
+Ill. ARGUMENT AND AUTHORITIES
+
+A. Defendants Misstate the Applicable Law — Texas Transportation Code § 543.003 Is
+
+Inapposite; § 502.407 Controls
+
+1. Defendants' Reliance on General Arrest Authority is Misplaced
+
+The centerpiece of Defendants’ Motion is their contention that “a person may legally be
+arrested for driving with an expired registration." Defs.' Mot. at 3. To support this
+proposition, Defendants cite a handful of appellate decisions. This argument fails for a
+
+critical reason: the correct statutory framework is Texas Transportation Code § 502.407.
+
+2. Texas Transportation Code § 502.407 Provides a Specific Remedial Framework That
+
+Defendants Entirely Ignored
+
+The Texas Legislature enacted § 502.407 to address the precise situation at issue in
+
+this case — operation of a vehicle with expired registration. The statute provides:
+
+e "A justice of the peace or municipal court judge having jurisdiction of the offense
+may dismiss a charge of driving with an expired motor vehicle registration if the
+
+defendant remedies the defect not later than the 20th working day after the date
+
+13397087.1.8
+
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 5 of 29
+
+of the offense or before the defendant's first court appearance date, whichever is
+
+later, and establishes that the fee prescribed by Section 502.045 has been paid."
+
+Tex. Transp. Code § 502.407(b)(1).
+
+The statute further provides that when the charge is dismissed under this provision, the
+court may assess a reimbursement fee "not to exceed $20." Tex. Transp. Code §
+
+502.407(b)(2).
+
+This remedial framework is significant for several reasons:
+
+Legislative Intent:
+
+e The Legislature specifically contemplated how expired registration offenses
+should be resolved and chose a corrective, non-punitive approach. The
+defendant is given 20 working days — nearly a full calendar month — to remedy
+the defect. If the defendant complies, the charge is dismissed. The maximum
+financial consequence is $20. This is the hallmark of an administrative
+compliance mechanism, not a criminal offense warranting custodial arrest, jail
+
+detention, and criminal disposition.
+
+The Remedial Process Was Denied:
+e Plaintiff was never issued a citation. Compl. 22. Plaintiff was never advised of
+
+his right to remedy the defect under § 502.407(b). Plaintiff was never given a
+
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 6 of 29
+
+court appearance date at which he could present proof of compliance. Instead,
+Plaintiff was handcuffed, transported to jail, detained for eighteen hours, and
+subjected to a "time served" disposition that was imposed without a plea, without
+
+a finding of guilt, and without any opportunity to invoke the remedial provisions
+
+that the Legislature specifically created for this offense. Judge Sanders's
+imposition of "time served" affirmatively eliminated Plaintiffs statutory right to
+
+dismissal under § 502.407(b).
+
+The Statute Controls Over General Arrest Authority:
+
+e When the Legislature enacts a specific remedial provision for a particular
+offense, that specific provision governs over general arrest authority, *See
+Jarecki v. G.D. Searle & Co.*, 367 U.S. 303, 307 (1961); *RadLAX Gateway
+Hotel, LLC v. Amalgamated Bank*, 566 U.S. 639, 645 (2012). The existence of §
+502.407's detailed remedial framework — complete with specific timelines,
+compliance requirements, and a capped reimbursement fee — demonstrates that
+the Legislature did not intend for expired registration to be addressed through
+custodial arrest, jail detention, and criminal disposition. Defendants’ reliance on
+general arrest authority ignores the specific statute that the Legislature enacted
+
+for this exact circumstance.
+
+Reasonableness Under the Fourth Amendment:
+
+e Even if some general authority to arrest existed, the Fourth Amendment requires
+
+that seizures be reasonable. Where the Legislature has determined that an
+
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 7 of 29
+
+offense is properly resolved through a $20 administrative remedy and dismissal,
+an officer's decision to instead handcuff the individual, transport him to jail, and
+detain him for eighteen hours raises serious questions of constitutional
+
+reasonableness that cannot be resolved on a motion to dismiss.
+
+3. The Cases Defendants Cite Are Distinguishable
+
+Defendants cite *Jaycox v. Pyle*, “Hodnett v. State*, *Dominguez-Ramil v. State*, and
+*Blake v, State* for the proposition that expired registration supports a lawful arrest.
+
+These cases are distinguishable on multiple grounds:
+
+None of these cases involved a challenge under a statutes remedial framework. The
+courts in those cases were not presented with the argument that the Legislature's
+specific remedial provision for expired registration supersedes general arrest authority.
+A legal principle that has not been tested on a particular theory cannot foreclose that
+
+theory.
+
+Several of these cases involved additional offenses or aggravating circumstances —
+such as failure to carry liability insurance, outstanding warrants, or other concurrent
+violations — that independently supported custodial arrest. In *Dominguez-Ramil*, the
+court specifically noted that the officer had probable cause for “expired registration
+*and* failure to carry liability insurance." In *Jaycox*, the court cited § 502.473, which
+
+concerns the display of registration insignia — a distinct offense from operating with
+
+1
+if
+
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 8 of 29
+
+expired registration under § 502.407. Plaintiffs Complaint alleges a sole charge of
+
+expired registration with no aggravating factors.
+
+None of these cases addressed the constitutionality of an 18-hour detention following
+arrest for an administrative compliance matter that the Legislature specifically
+
+designated for remedial treatment with a maximum $20 consequence.
+
+These cases are therefore inapposite and do not support the blanket proposition that
+
+Defendants advance.
+
+B. Defendants Improperly Assume Probable Cause Without Demonstrating Its Lawful
+
+Basis
+
+Defendants repeatedly assert that “probable cause" existed for Plaintiffs arrest and that
+therefore all of Plaintiffs claims fail. However, Defendants engage in a critical logical
+
+fallacy: they assume the conclusion they are required to prove.
+
+Probable cause for a traffic stop is not the same as probable cause for a custodial
+arrest. Defendants conflate the two. An officer may have reasonable suspicion or even
+probable cause to conduct a traffic stop for expired registration. That does not
+automatically mean the officer had authority to conduct a custodial arrest, particularly
+
+where the Legislature has provided a remedial, non-custodial framework for the offense.
+
+|
+|
+
+|
+|
+|
+
+13997087.4.42
+
+Case 3:25-cv-00253 Document33_ Filed 02/19/26 in TXSD Page 9 of 29
+
+Defendants never explain how the specific actions taken were lawful. Defendants state
+that the arrest was legal but fail to articulate: (a) what specific statutory authority
+authorized custodial arrest rather than citation and release for this particular offense; (b)
+why the remedial process under § 502.407 was not followed; (c) what justified eighteen
+hours of detention without a warrant or judicial review; and (d) what legal authority
+supported the imposition of "time served" without a plea, formal charge, or finding of
+
+guilt. The absence of these explanations is fatal to Defendants’ argument.
+
+At the 12(b)(6) stage, it is Plaintiffs factual allegations, not Defendants' legal
+conclusions, that control. Plaintiff has alleged that the arrest was unlawful, that the
+detention was without warrant or probable cause, and that the magistration was
+conducted without jurisdiction or due process. These allegations must be accepted as
+true. *Igbal*, 556 U.S. at 678. Defendants’ assertion that "the arrest was lawful" is a
+
+contested legal conclusion that cannot be resoived on a motion to dismiss.
+
+C. Defendants Conflate Probable Cause with the Totality of Plaintiff's Claims
+
+Perhaps the most significant deficiency in Defendants’ Motion is their attempt to reduce
+
+this entire case to a single probable-cause determination. Plaintiffs Complaint asserts
+
+five counts alleging distinct constitutional violations:
+
+Count I:
+
+e Unlawful arrest and detention (Fourth and Fourteenth Amendments)
+
+19397087.1
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 10 of 29
+
+Count Il:
+e Suppression of evidence and denial of due process (Fifth and Fourteenth
+Amendments; *Brady v. Maryland*)
+Count Ill:
+e Malicious prosecution (Fourth and Fourteenth Amendments)
+Count IV:
+e Civil conspiracy to violate constitutional rights (42 U.S.C. §§ 1985(3), 1986)
+Count V:
+
+e Monell liability for unconstitutional policies and practices (42 U.S.C. § 1983)
+
+Even if Defendants were correct that probable cause existed for the initial traffic stop,
+which Plaintiff disputes as to the custodial arrest, probable cause for a stop does not
+
+immunize:
+
+e The eighteen-hour detention without a warrant, formal charge, or judicial review
+
+e The sham magistration by Judge Sanders imposing "tine served" without a plea,
+without advising Plaintiff of his rights, without a finding of guilt, and in direct
+contravention of the remedial framework established by § 502.407(b)
+
+e The suppression of body camera and dash camera footage that Plaintiff and his
+spouse specifically requested
+
+e The denial of public records access despite court-recognized indigency
+
+e The procedurally defective tow hearing before Judge Finlay, in which exculpatory
+
+evidence was suppressed, the oral discovery motion was denied without
+
+|
+1
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 11 of 29
+
+justification, and testimony from a witness lacking firsthand knowledge was
+admitted
+e The ongoing maintenance of a false criminal record created through these
+
+unconstitutional proceedings
+
+Defendants’ Motion does not meaningfully address the vast majority of these
+allegations. Their silence is telling. Each of these constitutes an independent
+constitutional injury that exists regardless of whether the initial traffic stop was
+
+supported by probable cause.
+
+D. Defendants Demand Evidentiary Facts Not Required at the Pleading Stage
+
+Throughout their Motion, Defendants repeatedly argue that Plaintiff has failed to present
+"evidence" of his claims. *See, e.g.*, Defs.' Mot. at 8 ("Plaintiff presents no evidence of
+any agreement"); Defs.' Mot. at 10 ("Plaintiff does not present evidence of an
+
+agreement’).
+
+This standard is fundamentally wrong at the Rule 12(b)(6) stage. A motion to dismiss
+tests the sufficiency of the pleadings, not the sufficiency of the evidence. *Twombly*,
+550 U.S. at 555. Plaintiff is not required to present evidence at the pleading stage. He is
+required to allege facts that, accepted as true, state a plausible claim for relief. *Iqbal*,
+
+556 U.S. at 678.
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 12 of 29
+
+Defendants' demand for evidence is, in reality, a demand for discovery, the very
+discovery that Defendants have not yet been required to provide and that Plaintiff has
+been systematically denied since the underlying events occurred. The irony should not
+be lost on this Court: Defendants suppressed and obstructed Plaintiffs access to the
+very evidence (body camera footage, dash camera footage, official records) that would
+substantiate his claims, and now argue that the absence of that evidence warrants
+
+dismissal.
+
+The appropriate remedy is not dismissal, it is discovery. Plaintiff is entitled to the
+opportunity to obtain through formal discovery the evidence that Defendants have
+obstructed him from obtaining informally. Dismissing the case before any discovery has
+
+occurred would reward the very concealment that Plaintiffs Complaint challenges.
+
+E. Judicial Immunity Does Not Shield the Conduct Alleged Against Judges Sanders and
+
+Finlay
+
+Defendants assert that Judges Sanders and Finlay are entitled to absolute judicial
+immunity. While judicial immunity is a well-established doctrine, it is not without limits,
+
+and those limits are directly implicated here.
+
+1. Judicial Immunity Does Not Apply to Actions Taken in the Clear Absence of
+
+Jurisdiction
+
+|
+i
+}
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 13 of 29
+
+The Supreme Court has held that a judge is subject to liability "when he has acted in the
+
+‘clear absence of all jurisdiction." *Stump v. Sparkman*, 435 U.S. 349, 356-57 (1978).
+
+Plaintiff alleges that Judge Sanders conducted a magistration and entered a disposition
+of "time served" without jurisdiction, without a formal charge, without a plea, without a
+finding of guilt, and without advising Plaintiff of his rights or legal options. Compl. 21.
+The imposition of criminal punishment for an administrative infraction that was never
+formally charged, never pled to, and never adjudicated on the merits raises a serious
+
+question as to whether Judge Sanders acted within any cognizable jurisdiction.
+
+Judge Sanders's conduct is particularly egregious when viewed against § 502.407(b).
+The Legislature specifically granted justices of the peace the authority to dismiss
+expired registration charges upon proof of remedial compliance. Instead of exercising
+this legislatively authorized power, Judge Sanders imposed a "time served" disposition,
+a form of criminal punishment, without a formal charge, without a plea, without advising
+Plaintiff of his rights, and without any opportunity for Plaintiff to invoke the remedial
+process that the Legislature created. Judge Sanders did not merely err in his judicial
+function; he acted in direct contravention of the specific statutory framework the
+Legislature enacted and imposed punishment where the Legislature contemplated
+dismissal. This raises a plausible inference that Judge Sanders acted in the “clear
+absence of all jurisdiction" sufficient to overcome judicial immunity at the pleading stage.
+
+*Stump*, 435 U.S. at 356-57.
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 14 of 29
+
+Plaintiff alleges that Judge Finlay denied an oral motion for production of evidence
+without justification, permitted testimony from a witness lacking firsthand knowledge,
+sustained objections designed to shield misconduct, and issued a ruling ratifying prior
+constitutional violations. Compl. {[f] 25-27. While individual evidentiary rulings may
+ordinarily fall within judicial immunity, the pattern of rulings, each of which operated to
+conceal and ratify prior unconstitutional conduct, raises a plausible inference that Judge
+Finlay was acting as a participant in the coordinated misconduct alleged in Count IV
+
+rather than as a neutral judicial officer.
+
+2. Whether Judicial Immunity Applies Is a Fact-Intensive Inquiry
+
+Whether a judge's actions were "judicial in nature" and whether the judge had
+jurisdiction are fact-intensive questions that cannot be resolved on a Rule 12(b)(6)
+motion when, as here, Plaintiff has alleged specific facts suggesting the absence of
+
+jurisdiction and the presence of non-judicial conduct.
+
+F. Prosecutorial Immunity Does Not Apply to the Investigative and Administrative
+
+Conduct Alleged Against County Attorney Chau
+
+Defendants assert that County Attorney Jennifer Chau is entitled to prosecutorial
+immunity. However, prosecutorial immunity is limited to conduct "intimately associated
+with the judicial phase of the criminal process." “Imbler v. Pachtman*, 424 U.S. 409, 430
+(1976).
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 15 of 29
+
+Plaintiffs claims against County Attorney Chau are not based on traditional
+
+prosecutorial functions. Rather, Plaintiff alleges that Chau:
+
+e Participated in the tow hearing — an administrative and civil proceeding, not a
+
+criminal prosecution — and misrepresented the legality of the arrest. Compl. ff]
+23, 26.
+
+« Blocked access to exculpatory evidence by objecting to discovery requests and |
+lines of questioning that would have exposed deputy misconduct. Compl, 26.
+
+e Permitted and relied upon testimony from a towing company representative who
+lacked any firsthand knowledge of the towing circumstances or vehicle location.
+
+Compl. 26.
+
+e Continued to support and legitimize the false arrest after Plaintiffs release.
+
+Compl. 56.
+
+These actions are not investigative but administrative in nature, not prosecutorial. When
+
+a prosecutor acts as an advocate in an administrative hearing, or witness coordinator
+
+rather than as an advocate in criminal court proceedings, absolute prosecutorial |
+
+immunity does not apply. *Burns v. Reed*, 500 U.S. 478 (1991) (no absolute immunity
+for giving legal advice to police); *Buckley v. Fitzsinmons*, 509 U.S. 259 (1993) (no
+absolute immunity for conduct or administrative functions that do not relate to an
+
+|
+|
+|
+}
+|
+i
+advocate's preparation for judicial proceedings in a Prosecution). |
+i
+|
+|
+i
+|
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 16 of 29
+
+The tow hearing at which Chau appeared and participated was not a criminal
+prosecution. It was an administrative proceeding concerning the lawfulness of the
+vehicle seizure. Chau's conduct at that hearing, including blocking evidence, permitting
+unreliable testimony, and misrepresenting the legality of the arrest, falls squarely
+outside the scope of absolute prosecutorial immunity. At minimum, whether Chau's
+specific conduct falls within the scope of any prosecutorial immunity requires factual
+
+development and cannot be resolved on the pleadings alone.
+
+G. Qualified Immunity Cannot Be Resolved on These Pleadings
+
+Defendants assert that Deputy Gonzales and Records Clerk Riley are entitled to
+qualified immunity. However, the qualified immunity analysis is premature at this stage
+for several reasons.
+
+1. Plaintiff Has Alleged Violations of Clearly Established Rights
+
+The following rights were clearly established at the time of the events alleged:
+
+© The right to be free from custodial arrest for a non-jailable administrative offense
+when the Legislature has provided a specific remedial process
+
+© The right to be free from detention for eighteen hours without a warrant, formal
+charge, or judicial review
+
+* The right to access exculpatory evidence under Brady v. Maryland, 373 U.S. 83
+
+(1963)
+
+13397087 1.20
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 17 of 29
+
+e The right to access public records as an indigent litigant when the court has
+
+recognized that indigency
+
+2. Defendants’ Qualified Immunity Argument Rests on Disputed Facts
+
+Qualified immunity turns on whether the officer's conduct was “objectively reasonable in
+light of clearly established law." Whether Deputy Gonzales's decision to conduct a
+custodial arrest, rather than issue a citation under the remedial framework, was
+objectively reasonable is a factual question that cannot be resolved without discovery
+into the deputy's training, the department's policies, and the specific circumstances of
+
+the arrest.
+
+3. The Fifth Circuit Disfavors Resolving Qualified Immunity at the 12(b)(6) Stage When
+
+Facts Are Disputed
+
+The Fifth Circuit has recognized that while qualified immunity may be raised at the
+motion-to-dismiss stage, "it is generally premature to address qualified immunity on a
+motion to dismiss” when the factual record is undeveloped. Where, as here, the factual
+record is entirely undeveloped and the parties dispute the operative facts, the qualified
+immunity determination should be deferred until summary judgment. Dismissal at this
+stage would deny Plaintiff the opportunity to develop, through discovery, the factual
+
+record necessary to fully address qualified immunity.
+
+13397087.1.21
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 18 of 29
+
+H. Plaintiff's Malicious Prosecution Claim Is Adequately Pled
+
+Defendants argue that Plaintiffs malicious prosecution claim fails because "probable
+cause" existed. This argument fails for the reasons stated throughout this Response,
+Defendants have not established that probable cause existed for the custodial arrest
+
+and criminal processing of an administrative compliance matter.
+
+The elements of malicious prosecution require: (1) a criminal prosecution was
+commenced; (2) the prosecution was initiated or procured by the defending party; (3)
+the prosecution terminated in the complaining party's favor; (4) the complaining party
+was innocent; (5) the defending party lacked probable cause; (6) the defending party
+
+acted with malice; and (7) the complaining party suffered damages.
+
+Plaintiff has alleged element:
+
+e Criminal proceedings were initiated** — Plaintiff was arrested, detained,
+processed, and had a "time served" disposition entered against him, creating a
+
+criminal record. Compl. ff 20-21.
+
+e The proceedings were procured by Defendants** — Deputy Gonzales made the
+custodial arrest; Judge Sanders entered the baseless disposition; County
+Attorney Chau supported and ratified the proceedings at the tow hearing. Compl.
+M1 20-21, 23, 56.
+
+413397087.1.22
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 19 of 29
+
+The disposition was imposed without legal authority, without a plea, without
+adjudication, and in contravention of § 502.407(b)'s remedial framework, which
+would render it void. Discovery of the evidence will provide the proper
+
+disposition.
+
+Plaintiff could be innocent, The offense was an administrative compliance matter
+subject to dismissal under § 502.407(b) upon remedial correction within 20
+working days. By imposing "time served" before Plaintiff had any opportunity to
+invoke this statutory right, Judge Sanders deprived Plaintiff of the presumption of
+administrative compliance that the Legislature built into the statute. Plaintiff was
+punished for an offense that the Legislature specifically provided he could
+
+resolve without any criminal consequence.
+
+Probable cause was lacking, For the reasons discussed throughout this
+Response, probable cause for a traffic stop does not equate to probable cause
+for custodial arrest, criminal processing, and the imposition of punishment for an
+offense the Legislature designated for remedial treatment. The decision to
+bypass the remedial framework and instead impose criminal punishment was
+
+made without legal authority.
+
+Malice existed, Malice is evidenced by the coordinated concealment of body
+
+camera and dash camera evidence, the denial of due process at magistration,
+
+13397087.1.23
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 20 of 29
+
+the refusal to correct known errors, the obstruction of public records access, and
+the conduct of a procedurally defective tow hearing designed to ratify the original
+
+misconduct. Compl. Jf] 25-29, 56-59.
+
+e Plaintiff suffered damages As detailed in the Complaint. Compl. 74.
+
+|. Plaintiffs Conspiracy Claims Under §§ 1985(3) and 1986 Are Sufficiently Alleged
+
+Defendants argue that Plaintiffs conspiracy claims fail because (1) there was no
+
+underlying constitutional deprivation, and (2) Plaintiff presents no "evidence" of a
+
+meeting of the minds.
+
+1. Underlying Constitutional Deprivation Is Adequately Alieged
+
+For all the reasons stated herein, Plaintiff has plausibly alleged deprivation of his
+
+constitutional rights. The argument that no deprivation occurred is a contested factual
+
+and legal conclusion that cannot be accepted as established at the 12(b)(6) stage.
+
+2. A Meeting of the Minds May Be Inferred from Circumstantial Allegations
+
+Plaintiff is not required to present direct evidence of an explicit agreement at the
+
+pleading stage. Conspiracy may be, and almost always is, proven through
+
+49997087.1.24
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 21 of 29
+
+circumstantial evidence. "Plaintiffs who allege a conspiracy need not, however, provide
+direct evidence of a conspiracy; rather they need only demonstrate that the ‘totality of
+
+facts and circumstances' gives rise to a plausible inference of conspiracy.
+
+Plaintiff has alleged specific, coordinated actions by multiple Defendants that, taken
+
+together, support a plausible inference of concerted action:
+
+e Deputy Gonzales conducted a custodial arrest for an offense the Legislature
+designated for remedial, non-custodial treatment
+
+e Judge Sanders entered a baseless "time served" disposition without due
+process, eliminating Plaintiffs statutory right to remedial dismissal
+
+e Records Clerk Riley obstructed access to body camera and dash camera footage
+that would have revealed the circumstances of the arrest and the location of the
+car, which was the original reason for the tow hearing, the legality of the arrest
+would have been properly addressed even though the plaintiff at the time wasn't
+aware that arrest was questionable due to this very concealed evidence.
+
+e County Attorney Chau blocked discovery at the tow hearing, permitted unreliable
+testimony, and misrepresented the legality of the arrest, creating the illusion that
+the process was legal.
+
+e Judge Finlay denied production of evidence, sustained objections that shielded
+misconduct, and ruled in favor of the County despite the lack of evidentiary
+
+support.
+
+|
+|
+|
+
+13397087.1.25
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 22 of 29
+
+The sequential, coordinated nature of these actions, each of which served to conceal
+and compound the harm caused by the prior action, is precisely the type of
+circumstantial evidence from which a conspiracy may be inferred. That each official's
+misconduct perfectly complemented and built upon the misconduct of the others is not
+mere coincidence; it is evidence of coordinated action to deprive Plaintiff of his
+constitutional rights and to prevent him from obtaining redress and illegally taking of his
+
+person and property.
+
+3. Defendants' Demand for "Evidence" Is Inappropriate at This Stage
+
+As discussed in Section |II.D above, Defendants' repeated demand for "evidence"
+
+teflects a misunderstanding of the 12(b)(6) standard. Plaintiffs factual allegations,
+
+accepted as true, are sufficient to state a plausible conspiracy claim.
+
+J. Plaintiffs Monell Claim Survives Dismissal
+
+Defendants argue that Plaintiff cannot establish *Monell* liability because his claims
+
+concern “isolated conduct of a single arrest in a single case." Defs.' Mot. at 12. This
+
+argument understates both the law and Plaintiff's allegations.
+
+1. A Single Incident Can Support Monell Liability
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 23 of 29
+
+While repeated instances of misconduct can demonstrate an unconstitutional custom, a
+single incident can also establish *Monell* liability where the constitutional violation was
+caused by an official policy, a decision by a final policymaker, or deliberate indifference
+
+in training and supervision.
+
+Municipal liability requires "a policymaker; an official policy; and a violation of
+
+constitutional rights whose ‘moving force' is the policy or custom." Municipalities may
+
+also be liable "where the constitutional deprivation is pursuant to a governmental
+
+custom, even if such custom has not received formal approval.
+
+Here, Plaintiff has alleged:
+
+Decisions by final policymakers:
+e Judge Sanders a final policymaker for magistration proceedings entered a
+baseless disposition in contravention of § 502.407(b).
+e County Attorney Chau, a final policymaker for prosecutorial and legal decisions,
+
+supported and ratified the unlawful proceedings at the tow hearing.
+
+These are not low-level employees exercising discretion; they are officials whose
+
+decisions constitute County policy.
+
+Deliberate indifference to training:
+
+413997087.1.27
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 24 of 29
+
+e Plaintiff alleges that the County failed to train deputies on the distinction between
+offenses authorizing custodial arrest and administrative offenses subject to
+remedial treatment under § 502.407, failed to train court staff on due process
+requirements at magistration, and failed to train records personnel on public
+
+records obligations and indigency fee waivers. Compl. 69.
+
+Systemic policies and customs:
+e Plaintiff alleges customs of permitting custodial arrests for non-jailable
+administrative offenses, tolerating the withholding of exculpatory evidence, and
+
+allowing administrative obstructions to public records access. Compl. 69.
+
+2. Discovery Is Necessary to Develop the Monell Claim
+
+Whether Matagorda County maintained unconstitutional policies, customs, or practices
+is inherently a discovery-intensive question. Plaintiff cannot, at the pleading stage, be
+expected to have access to the County's internal training materials, arrest statistics,
+complaint records, or policy manuals. The appropriate course is to permit discovery so
+that the scope of any unconstitutional pattern or practice can be fully developed.
+Dismissing a *Monell* claim at the pleading stage where, as here, the plaintiff has
+plausibly alleged systemic failures would deny Plaintiff the opportunity to uncover
+
+evidence that is exclusively within Defendants' control.
+
+43997087.1.26
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 25 of 29
+
+K. Defendants' Silence on Damages Constitutes Implicit Concession
+
+Plaintiffs Complaint cites *Trezevant v. City of Tampa*, 741 F.2d 336 (11th Cir. 1984), in
+which a jury awarded $25,000 in compensatory damages for an unlawful detention
+lasting just twenty-three minutes. Plaintiff applied the per-hour rate from *Trezevant*,
+adjusted for inflation to May 2023, to his eighteen-hour detention to arrive at a damages
+
+figure exceeding $3.2 million.
+
+Defendants acknowledge Plaintiffs damages request of $3.2 million in their Motion but
+raise no objection to the methodology, the case citation, or the damages calculation.
+Defs.' Mot. at 2. Their silence on this issue is notable. By failing to challenge the
+plausibility or reasonableness of Plaintiffs damages theory, Defendants have implicitly
+
+conceded that:
+
+e The *Trezevant* precedent is applicable and relevant to this case
+¢ The inflation-adjusted methodology is facially plausible
+e The damages calculation, if the underlying constitutional violations are proven, is
+
+within the range of plausible recovery
+
+At minimum, Defendants’ failure to contest the damages theory means that the
+damages issue cannot serve as a basis for dismissal. Whether the precise amount is
+
+warranted is a question for the trier of fact, not for resolution on a motion to dismiss.
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 26 of 29
+
+L. The County Attorney's Office and Sheriffs Department Are Properly Named
+
+Defendants argue that the Matagorda County Attorney's Office and Sheriffs Department
+lack fhe capacity to be sued as separate entities, citing *Darby v. Pasadena Police
+Dep't*, 939 F.2d 311 (Sth Cir. 1991). Plaintiff acknowledges the legal principle that
+
+sub-entities of a county may lack independent jural authority under Texas law. However:
+
+e Matagorda County itself is a named Defendant, and any claims against the
+sub-entities are effectively claims against the County.
+
+¢ To the extent the Court determines that these sub-entities lack independent
+capacity, the appropriate remedy is not dismissal with prejudice but rather
+consolidation of those claims under Matagorda County as the proper party
+defendant.
+
+e Plaintiff, as a pro se litigant, should be afforded the opportunity to amend his
+Complaint to correct any technical naming deficiencies rather than suffer the
+harsh remedy of dismissal. *See Jacquez v. Procunier*, 801 F.2d 789, 792 (5th
+Cir. 1986) (courts should provide pro se plaintiffs the opportunity to amend
+
+deficient pleadings).
+
+lV. CONCLUSION AND PRAYER FOR RELIEF
+
+Defendants' Motion to Dismiss rests on a misstatement of the controlling Texas statute,
+
+an improper assumption that probable cause for a traffic stop automatically authorized
+
+19397087. 1.20
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 27 of 29
+
+custodial arrest and eighteen hours of detention, a conflation of probable cause with the
+totality of Plaintiffs constitutional claims, an inappropriate demand for evidence at the
+
+pleading stage, and an overbroad application of immunity doctrines,
+
+Plaintiffs Complaint alleges, with specificity, a coordinated pattern of constitutional
+violations by multiple County officials, from the initial unlawful custodial arrest, through
+the sham magistration that imposed punishment in contravention of the remedial
+framework, the suppression of exculpatory evidence, the obstruction of public records
+access, the procedurally defective tow hearing, and the ongoing maintenance of a false
+criminal record. These allegations, accepted as true and construed liberally as required
+for a pro se plaintiff, state plausible claims for relief under 42 U.S.C. §§ 1983, 1985(3),
+
+and 1986,
+
+WHEREFORE, Plaintiff respectfully requests that this Court:
+
+1. DENY Defendants’ Motion to Dismiss in its entirety;
+
+2. ORDER that this case proceed to discovery so that Plaintiff may obtain the evidence
+
+that Defendants have systematically obstructed him from accessing, including body
+
+camera footage, dash camera footage, official records, training materials, and policy
+
+documents;
+
+13397087.1.31
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 28 of 29
+
+3. GRANT Plaintiff leave to amend his Complaint, if necessary, to correct any technical
+
+deficiencies identified by the Court;
+
+4. AWARD Plaintiff such other and further relief as the Court deems just and proper.
+
+Markham, Texas 77456
+
+donni 430:
+
+Filed February 15, 2026
+
+8
+
+Case 3:25-cv-00253 Document 33 Filed 02/19/26 in TXSD Page 29 of 29
+
+CERTIFICATE OF SERVICE
+
+| hereby certify that on February 15, 2026, a true and correct copy of the foregoing
+*Plaintiff's Response in Opposition to Defendants’ Motion to Dismiss* was served upon
+counsel for Defendants via Certified Mail, Return Receipt Requested, and via electronic
+mail at the addresses listed below, in accordance with the Federal Rules of Civil
+Procedure:
+
+To the following:
+
+Ben Stephens
+Kate David
+
+HUSCH BLACKWELL LLP
+600 Travis Street, Suite 2350
+Houston, Texas 77002
+
+Simultaneously a true and correct copy has been sent electronically by reply to all using
+the email from the defense counsel when they sent their motion to dismiss
+
+Email: Ben.Stephens@huschblackwell.com
+Email: Kate.David@huschblackwell.com
+
+Attorneys for Matagorda County Defendants
+
+Respectfully
+
