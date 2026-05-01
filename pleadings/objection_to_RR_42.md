@@ -1,233 +1,148 @@
-# PLAINTIFF'S OBJECTIONS TO MAGISTRATE'S REPORT AND RECOMMENDATION
-## Case No. 3:25-cv-000253
+# OBJECTION TO MAGISTRATE'S REPORT AND RECOMMENDATION
+## Case No. 3:25-cv-00253
+## Donald Lynn Thompson Jr v. Matagorda County et al.
+## USDC Texas Southern District, Galveston Division
 
 ---
 
-**FILED PURSUANT TO 28 U.S.C. § 636(b)(1) AND FED. R. CIV. P. 72(b)**
+## PRELIMINARY STATEMENT
+
+Plaintiff Donald Lynn Thompson Jr., proceeding pro se, hereby objects to the Magistrate's Memorandum and Recommendation (Dkt. 42, the "R&R"), entered April 27, 2026. The R&R recommends dismissal of all claims against all Defendants. For the reasons set forth below, this Court should reject the R&R in its entirety, conduct de novo review as required by 28 U.S.C. § 636(b)(1) and Federal Rule of Civil Procedure 72, and deny the Motion to Dismiss.
 
 ---
 
-## TABLE OF CONTENTS
-1. Preliminary Statement
-2. Factual Background
-3. Legal Standard for Objections
-4. Objection 1: The R&R Failed to Conduct Independent Review as Required by FRCP 72
-5. Objection 2: The R&R Misapplied Atwater v. City of Lago Vista
-6. Objection 3: The R&R Failed to Address Texas Transportation Code § 543.003
-7. Objection 4: Qualified Immunity Analysis Was Conflated with Merits Analysis
-8. Objection 5: Due Process Claim Was Not Addressed
-9. Objection 6: Rooker-Feldman Doctrine Was Misapplied
-10. Objection 7: Monell Analysis Was Circular
-11. Conclusion and Relief Requested
+## STANDARD OF REVIEW
+
+When a party files timely written objections to a magistrate judge's R&R, "the district judge must determine de novo any part of the magistrate judge's disposition that has been properly objected to." Fed. R. Civ. P. 72(b)(3). The district judge "may accept, reject, or modify the recommended disposition; receive further evidence; or return the matter to the magistrate judge with instructions." Id.
+
+De novo review requires the district judge to make an independent examination of the factual findings and legal conclusions in the magistrate judge's recommendation. The district judge cannot simply defer to the magistrate judge's analysis, particularly where, as here, the magistrate judge appears to have adopted the moving party's arguments wholesale without conducting an independent assessment of the record and applicable law.
 
 ---
 
-## I. PRELIMINARY STATEMENT
+## ARGUMENT
 
-Plaintiff Donald Lynn Thompson Jr., proceeding pro se, files these Objections to the Memorandum and Recommendation ("R&R") issued by United States Magistrate Judge Andrew M. Edison on April 27, 2026 (Dkt. 42).
+### I. THE R&R FAILED TO CONDUCT INDEPENDENT REVIEW AS REQUIRED BY RULE 72
 
-The R&R commits several legal errors that deprived Thompson of the independent review to which he is entitled under 28 U.S.C. § 636(b)(1) and Federal Rule of Civil Procedure 72. Most critically, the R&R:
+Federal Rule of Civil Procedure 72 and 28 U.S.C. § 636(b)(1) impose on the magistrate judge an independent obligation to review the record, the briefing, and the applicable law, and to make findings and recommendations based on that independent assessment. The magistrate judge is not a proxy for the defense bar, and the R&R cannot simply track the Defendants' Motion to Dismiss arguments point-by-point without evaluating whether those arguments actually address the claims in the Complaint.
 
-1. **Adopted the Defense Motion to Dismiss wholesale** without independent analysis of the claims and arguments raised in Thompson's Complaint (Dkt. 1) and Opposition (Dkt. 33);
-2. **Failed to address Thompson's primary statutory argument** under Texas Transportation Code § 543.003;
-3. **Misapplied the qualified immunity standard** by conflating whether a constitutional violation occurred with whether the right was clearly established;
-4. **Failed to address the due process implications** of punishment for an uncharged, un-adjudicated "infraction"; and
-5. **Applied the Rooker-Feldman doctrine incorrectly** to bar constitutional claims that are independent of the state court proceedings.
+The R&R in this case mirrors the structure and many of the specific arguments advanced in the Defendants' Motion to Dismiss (Dkt. 29). The R&R does not independently analyze whether the Complaint states plausible claims for relief. Instead, it recites the Defendants' legal theories and adopts them as findings. This is precisely the type of wholesale adoption of one party's briefing that Rule 72 was designed to prevent.
 
-For these reasons, and as set forth more fully below, Thompson respectfully objects to the R&R and requests that the District Judge conduct de novo review and reject the recommendation to dismiss.
+The R&R does not address several critical arguments raised in Plaintiff's Opposition (Dkt. 33), including: (1) the specific statutory remedial framework under Texas Transportation Code § 502.407; (2) the distinction between Subtitle B criminal traffic offenses and Subtitle C administrative vehicle registration offenses; (3) the constitutional reasonableness requirement under the Fourth Amendment; and (4) the specific facts showing that Plaintiff was denied the procedural protections that the Legislature specifically enacted for expired registration offenses.
+
+The district judge should conduct de novo review of these issues rather than defer to the Magistrate's recommendation.
 
 ---
 
-## II. FACTUAL BACKGROUND
+### II. THE R&R INCORRECTLY HOLDS THAT § 543.004 CONTROLS OVER § 502.407
 
-The relevant facts, taken from Thompson's Complaint and read in the light most favorable to Thompson, are as follows:
+#### A. The Magistrate Misunderstood the Texas Transportation Code Structure
 
-1. On May 14, 2023, at approximately 22:17, Thompson was operating a vehicle with expired registration in Markham, Texas. (Dkt. 1 at 6).
+The Texas Transportation Code is organized into Subtitles. Subtitle B (Chapters 541–600) governs "Rules of the Road" — criminal traffic offenses such as speeding, driving while intoxicated, and failure to signal. Subtitle C (Chapters 501–534) governs "Vehicle Registration and Equipment" — administrative matters relating to vehicle registration, inspection, and equipment standards.
 
-2. Thompson observed a Matagorda County Sheriff's deputy parked with headlights on and attempted to avoid contact by turning onto side streets. Id.
+Chapter 502 — under which Plaintiff was charged — is located in Subtitle C. It governs the administrative requirement to register vehicles, the procedures for demonstrating compliance, and the consequences of failing to comply. These are regulatory, not criminal, provisions.
 
-3. Deputy Raymond Gonzales initiated a traffic stop, handcuffed Thompson, arrested him, and transported him to Matagorda County Jail. Id.
+Texas Transportation Code § 502.407 provides that a person charged with operating a vehicle with expired registration may have the charge dismissed if the person remedies the defect within 20 working days and pays a capped reimbursement fee not to exceed $20. This is a specific remedial provision enacted by the Legislature specifically for expired registration offenses.
 
-4. Thompson was detained for approximately 18 hours. Id.
+The R&R cites Texas Transportation Code § 543.004 as if it controls the analysis. Section 543.004, however, is located in the Code of Criminal Procedure, not the Transportation Code. It addresses when a peace officer may issue a citation for criminal offenses. It does not address the specific remedial scheme that the Legislature enacted under § 502.407.
 
-5. On May 15, 2023, Judge Jason Sanders conducted a magistration and entered a disposition of "time served" without formal charges, without a plea, and without adjudication on the merits. (Dkt. 1 at 7).
+#### B. Specific Statutes Control Over General Arrest Authority
 
-6. On June 22, 2023, a tow hearing was held before Judge Mark Finlay. Thompson's wife requested body-worn and dash camera footage. The request was denied. The tow was ruled lawful. (Dkt. 1 at 7-8).
+The Magistrate's central error is the application of the principle that officers may arrest for "even a very minor criminal offense." R&R at 3-4 (citing Atwater v. City of Lago Vista, 532 U.S. 318 (2001)). This principle, however, does not resolve whether expired registration under § 502.407 is actually a criminal offense triggering arrest authority, or whether it is an administrative compliance matter with its own specific remedial framework.
 
-7. Thompson was never issued a citation or written notice to appear as required by Texas Transportation Code § 543.003 for fine-only traffic offenses. (Dkt. 33 at 4-7).
+When the Legislature enacts a specific remedial provision for a particular offense, that specific provision governs over general arrest authority. Jarecki v. G.D. Searle & Co., 367 U.S. 303, 307 (1961) ("The fundamental principle of statutory construction that a specific statute prevails over a general one is equally applicable here."); see also RadLAX Gateway Hotel, LLC v. Amalgamated Bank, 566 U.S. 639, 645 (2012).
 
-8. The body camera and dash camera footage, which could have verified Thompson's account of the arrest, was never released. (Dkt. 1 at 8).
+The § 502.407 remedial framework — 20 working days to cure, maximum $20 fee, dismissal upon compliance — demonstrates that the Legislature did not intend expired registration to be addressed through custodial arrest, jail detention, and criminal disposition. The Magistrate never addressed this argument.
 
----
+#### C. The Remedial Process Was Denied
 
-## III. LEGAL STANDARD FOR OBJECTIONS
+Plaintiff was never issued a citation. He was never advised of his right to remedy the defect under § 502.407(b). He was never given a court appearance date at which he could present proof of compliance. Instead, Plaintiff was handcuffed, transported to jail, detained for eighteen hours, and subjected to a "time served" disposition that was imposed without a plea, without a finding of guilt, and without any opportunity to invoke the remedial provisions that the Legislature specifically created for this offense.
 
-When a party files timely written objections to a magistrate judge's recommendation, "the district judge must determine de novo any part of the magistrate judge's disposition that has been properly objected to." Fed. R. Civ. P. 72(b)(3). The district judge "may accept, reject, or modify the recommended disposition." Id.
+Judge Sanders's imposition of "time served" affirmatively eliminated Plaintiff's statutory right to dismissal under § 502.407(b). The Magistrate concluded that Judge Sanders "acted well within his jurisdiction," R&R at 5, but the Magistrate did not address whether the imposition of criminal punishment for an administrative compliance matter — without a formal charge, without a plea, without a finding of guilt — complies with due process.
 
-The purpose of de novo review is to ensure that the magistrate judge conducted an independent analysis and that the parties' arguments were actually considered. Where the magistrate judge adopts one party's arguments without engagement with the opposing party's specific claims, the objection is properly raised and de novo review is warranted.
+#### D. The Magistrate's Reliance on *Atwater* Is Misplaced
 
----
+*Atwater v. City of Lago Vista*, 532 U.S. 318 (2001), held that the Fourth Amendment does not forbid a warrantless arrest for a minor traffic offense committed in an officer's presence. But *Atwater* did not address a situation where the Legislature has specifically provided a non-criminal, remedial mechanism for resolving the offense — a mechanism that was never offered to the arrestee.
 
-## IV. OBJECTION 1: THE R&R FAILED TO CONDUCT INDEPENDENT REVIEW AS REQUIRED BY FRCP 72
+Moreover, *Atwater* involved a fine-only offense under Texas law where the officer had probable cause to believe the offense was committed. The Supreme Court specifically noted the narrowness of its holding. Here, by contrast, Plaintiff was not merely cited and released — he was detained for 18 hours, subjected to a criminal disposition ("time served"), and denied the statutory remedy that the Legislature created for the specific offense charged.
 
-Federal Rule of Civil Procedure 72 and 28 U.S.C. § 636(b)(1) require that the magistrate judge conduct an independent review of the claims and arguments raised by both parties. The R&R fails this requirement in at least three ways.
-
-### A. The R&R Adopts Defense Arguments Without Independent Analysis
-
-The R&R's recommendation to dismiss rests almost entirely on the authorities cited in the Defense Motion to Dismiss (Dkt. 29). The R&R recites Atwater, State v. Gray, Jaycox v. Pyle, and Hodnett v. State — all cited by the Defense — and concludes that "Gonzales committed no constitutional violation by arresting Thompson." (Dkt. 42 at 4).
-
-But the R&R does not address Thompson's specific counter-arguments in his Opposition (Dkt. 33). Specifically, Thompson argued:
-
-- That Texas Transportation Code § 502.407 creates a specific remedial scheme for expired registration that implicitly limits the general arrest authority;
-- That the distinction between mandatory citation offenses (§ 543.004(c)) and prohibited arrest offenses is not exhaustive;
-- That the common law arrest authority discussed in Atwater predates the current Texas statutory scheme; and
-- That even under Atwater, there is a question whether "probable cause" existed when the deputy could not have seen the license plate during the brief encounter.
-
-The R&R does not address these arguments. It merely states that "Thompson overlooks that, under Texas law, speeding, use of a wireless communication device, or a violation of the open container law 'are the only offenses for which issuance of a written notice to appear is mandatory.'" (Dkt. 42 at 4, quoting § 543.004(c)).
-
-This is not independent analysis. This is adoption of defense briefing.
-
-### B. The R&R Fails to Address Thompson's § 543.003 Argument
-
-Thompson's Opposition (Dkt. 33 at 4-7) dedicated substantial argument to Texas Transportation Code § 543.003, which provides that when a person is arrested for an offense that is punishable as a Class C misdemeanor and does not require arrrest under specific exceptions, the officer "shall" issue a citation and release the person.
-
-The R&R never analyzes § 543.003. It only references § 543.004(c), which lists three offenses for which notice to appear is mandatory. But § 543.004(c) addresses what triggers mandatory citation requirements — it does not address what limitations exist on arrest authority under § 543.003.
-
-These are distinct statutory provisions with distinct functions. The R&R conflates them, and in doing so, fails to address Thompson's primary statutory argument.
-
-### C. The R&R Does Not Address the Factual Allegations in the Complaint
-
-The Complaint specifically alleges that:
-- Thompson turned onto side streets before the deputy activated his lights;
-- The deputy could not have seen the license plate during the brief encounter;
-- Tina Phillips, the property owner, told the deputy the vehicle could remain on her property;
-- The vehicle was towed despite the property owner's objection.
-
-These factual allegations are relevant to whether there was probable cause and whether the tow was lawful. The R&R does not address them. It accepts the Defense characterization that this was a routine traffic stop, when the Complaint alleges it was not.
+Even under *Atwater*'s framework, an arrest must be reasonable. The Magistrate did not analyze whether it was reasonable to handcuff, transport to jail, and detain for 18 hours a person charged with an offense that the Legislature specifically designated for resolution through a $20 administrative remedy and dismissal.
 
 ---
 
-## V. OBJECTION 2: THE R&R MISAPPLIED ATWATER V. CITY OF LAGO VISTA
+### III. QUALIFIED IMMUNITY DOES NOT RESOLVE THE § 502.407 ARGUMENT
 
-The R&R's primary basis for concluding no constitutional violation occurred is Atwater v. City of Lago Vista, 532 U.S. 318 (2001). This reliance is misplaced for several reasons.
+The Magistrate held that even if Plaintiff's theory were correct, Deputy Gonzales would be entitled to qualified immunity because the right was not "clearly established." R&R at 4-5.
 
-### A. Atwater Is Distinguishable on Its Facts
+This analysis gets the qualified immunity inquiry backwards. Qualified immunity applies when a defendant violates a clearly established right. Here, the threshold question is whether there was a constitutional violation at all — i.e., whether the arrest was unlawful under the Fourth Amendment.
 
-In Atwater, the Supreme Court upheld a warrantless arrest for a seat belt violation under Texas law. However, the Atwater Court specifically noted that its holding was limited to arrests for offenses committed in the officer's presence. 532 U.S. at 354.
+If § 502.407 creates a statutory right not to be arrested for expired registration absent citation and an opportunity to comply, then Deputy Gonzales violated that right. Whether that right was "clearly established" is a separate question. But the Magistrate never resolved whether § 502.407 precludes arrest. By skipping to the qualified immunity analysis without first determining whether the arrest was lawful, the Magistrate conflated the two inquiries.
 
-Critically, Atwater concerned an arrest for a seat belt violation — not for expired registration. The Texas Transportation Code provisions governing these offenses are different. Specifically, § 502.407 governing expired registration provides for dismissal if the registration is remedied within 20 working days — a remedial scheme that suggests the legislature did not intend full custody arrest as a typical enforcement mechanism.
-
-### B. Atwater Addressed Fourth Amendment Authority, Not State Statutory Limits
-
-Atwater addressed whether a warrantless arrest for a minor offense violates the Fourth Amendment. It did not address whether state law limits the circumstances under which an officer may make an arrest for a specific offense.
-
-Thompson does not argue that the arrest violated the Fourth Amendment. Thompson argues that the arrest violated Texas law, and that the violation of state law is the predicate for his § 1983 claim. The R&R conflates these distinct legal questions.
-
-### C. Atwater Did Not Consider the Current Texas Statutory Scheme
-
-Atwater was decided in 2001. The current Texas Transportation Code provisions governing citation requirements (§ 543.003) and the remedial scheme for expired registration (§ 502.407) were either not at issue in Atwater or have been amended since. The R&R's reliance on Atwater to interpret current Texas law is therefore problematic.
+The better view — and the one Plaintiff advances — is that § 502.407's specific remedial scheme demonstrates that arrest was not authorized, making the arrest a Fourth Amendment violation. At the very least, Plaintiff has alleged facts that, if proven, would establish that the arrest was unlawful.
 
 ---
 
-## VI. OBJECTION 3: THE R&R FAILED TO ADDRESS TEXAS TRANSPORTATION CODE § 543.003
+### IV. THE R&R FAILED TO ADDRESS THE DUE PROCESS CLAIMS
 
-Thompson's Opposition (Dkt. 33 at 4-7) specifically argued that Texas Transportation Code § 543.003 required Deputy Gonzales to issue a citation rather than make a full custody arrest.
+The Complaint asserts a separate cause of action for deprivation of due process (Count II), arising from: (1) the suppression of body camera and dash camera footage at the tow hearing; (2) the denial of access to public records; and (3) the denial of due process at the tow hearing before Judge Finlay. The R&R does not separately analyze Count II.
 
-Section 543.003 provides that an officer who arrests a person for a Class C misdemeanor punishable by fine only shall release the person and issue a citation, except in specific circumstances (intoxication, reckless driving, etc.). None of the exceptions apply here.
+Instead, the R&R addresses immunity defenses for each Defendant without evaluating whether the underlying conduct — concealing exculpatory footage, denying access to public records, conducting a procedurally deficient tow hearing — states a plausible constitutional claim. This is insufficient.
 
-The R&R does not analyze § 543.003. Instead, it cites § 543.004(c) — a different provision that lists the offenses for which a written notice to appear is mandatory. The R&R argues that because expired registration is not on the list in § 543.004(c), the arrest was permissible.
+**Regarding the Brady claim:** Plaintiff specifically requested body camera and dash camera footage at the tow hearing. The footage was denied. If that footage contained evidence favorable to Plaintiff (such as showing that the vehicle was on private property, that the tow was not lawful, or that Plaintiff was cooperative), its suppression may constitute a Brady violation. The Magistrate did not address whether the footage was suppressed in bad faith, whether it was material to Plaintiff's defense, or whether Defendants are proper parties to a Brady claim.
 
-But this argument is circular. § 543.004(c) defines when a citation is mandatory (speeding, wireless device, open container). It does not define when arrest is permitted. § 543.003 defines when arrest is permitted for fine-only offenses — and it requires citation as the default.
-
-The R&R's failure to address § 543.003 is a fundamental gap in the analysis. Without engagement with this statute, the recommendation to dismiss cannot stand.
+**Regarding the due process claim:** Plaintiff was denied a meaningful opportunity to be heard at the tow hearing. The Magistrate found that the tow hearing was an "administrative" proceeding, but did not address whether the denial of exculpatory evidence at that hearing, combined with the denial of any opportunity to respond, violated Plaintiff's right to due process.
 
 ---
 
-## VII. OBJECTION 4: QUALIFIED IMMUNITY ANALYSIS WAS CONFLATED WITH MERITS ANALYSIS
+### V. THE R&R FAILED TO ADDRESS THE MALICIOUS PROSECUTION CLAIM
 
-The R&R states: "even if Thompson's theory is correct (it is not), his argument is so novel that Gonzales would be entitled to qualified immunity anyway." (Dkt. 42 at 5).
+Count III asserts malicious prosecution. To state a claim for malicious prosecution under the Fourth Amendment, a plaintiff must allege: (1) a criminal proceeding instituted by the defendant; (2) termination of the proceeding in plaintiff's favor; (3) malice on the defendant's part; (4) lack of probable cause; and (5) damages. The R&R does not separately analyze the elements of malicious prosecution.
 
-This statement reveals a conflation of the qualified immunity analysis with the merits analysis.
-
-### A. Qualified Immunity Requires Two Distinct Inquiries
-
-Qualified immunity protects government officials from liability if (1) the facts alleged do not make out a violation of a constitutional right, OR (2) the right was not clearly established at the time. Saucier v. Katz, 536 U.S. 194 (2001).
-
-The R&R appears to have engaged only with the second inquiry — whether the right was clearly established — without completing the first inquiry — whether a constitutional violation occurred.
-
-If § 543.003 required a citation rather than an arrest, then arresting Thompson violated that right. If the right was clearly established by the plain language of the statute, then qualified immunity does not apply.
-
-### B. The Right at Issue Is Clearly Established by the Statute's Plain Language
-
-Section 543.003 has been in effect in its current form for years. Its language is clear: for fine-only Class C misdemeanors, arrest is not permitted except in specific circumstances. The statute's requirements are ascertainable from its text.
-
-A reasonable officer would understand that making a full custody arrest when the statute requires issuance of a citation would violate that statute. The qualified immunity analysis therefore fails.
+The Magistrate's conclusion that Judge Sanders "acted well within his jurisdiction" when he imposed "time served" does not resolve whether the prosecution was malicious or whether there was probable cause for the prosecution. The Magistrate did not address: (1) whether "time served" constitutes a termination; (2) whether there was probable cause for the underlying charge given the § 502.407 remedial framework; or (3) whether Defendants acted with malice in initiating or continuing the prosecution.
 
 ---
 
-## VIII. OBJECTION 5: DUE PROCESS CLAIM WAS NOT ADDRESSED
+### VI. THE R&R FAILED TO ADDRESS THE CIVIL CONSPIRACY CLAIM
 
-Thompson's Complaint and Opposition raised a due process claim based on the fact that he was punished for expired registration ("time served") without ever being formally charged, without entering a plea, and without adjudication on the merits.
+Count IV asserts civil conspiracy under 42 U.S.C. §§ 1985(3) and 1986. The elements of a § 1985(3) conspiracy claim are: (1) a conspiracy of two or more persons; (2) who are motivated by a particular constitutional injury; (3) to deprive the plaintiff of the equal enjoyment of rights secured by the law; and (4) an act in furtherance of the conspiracy that causes injury to the person or property.
 
-The R&R addresses this argument only in the context of judicial immunity — concluding that Judge Sanders is entitled to absolute judicial immunity for crediting time served.
+The R&R does not analyze whether the plaintiff has alleged a plausible conspiracy. Instead, the R&R summarily states that County Attorney Chau's conduct "is exempt from a conspiracy charge under section 1985." R&R at 6 n.6. This holding — with no analysis — is insufficient.
 
-But this does not resolve the constitutional question. The due process claim is not about what Judge Sanders did in the magistration proceeding. The claim is about the entire process — or lack thereof — by which Thompson was detained for 18 hours and then punished without formal charges.
-
-The R&R does not address this claim on the merits. It only addresses the immunity of the state court judge. This is insufficient.
+The plaintiff has alleged that multiple defendants acted in concert: Deputy Gonzales effectuated the arrest; Judge Sanders conducted the sham magistration; Judge Finlay conducted the procedurally deficient tow hearing; County Attorney Chau appeared and presented evidence without proper foundation; and the records clerk denied access to footage. These allegations, taken as true, support an inference of a common scheme to deprive plaintiff of his constitutional rights. The R&R should have analyzed whether these allegations are sufficient.
 
 ---
 
-## IX. OBJECTION 6: ROOKER-FELDMAN DOCTRINE WAS MISAPPLIED
+### VII. THE ROOKER-FELDMAN DOCTRINE DOES NOT BAR PLAINTIFF'S CLAIMS
 
-The R&R states that "the Rooker-Feldman doctrine bars federal courts from exercising jurisdiction over 'cases brought by state-court losers complaining of injuries caused by state-court judgments rendered before the district court proceedings commenced and inviting district court review and rejection of those judgments.'" (Dkt. 42 at 5, quoting Exxon Mobil Corp. v. Saudi Basic Indus. Corp., 544 U.S. 280, 284 (2005)).
+The Magistrate concluded that the Rooker-Feldman doctrine bars federal review of the state court proceedings. R&R at 5-6. This is incorrect.
 
-But Thompson's claims do not seek review of the state court judgment. Thompson is not asking this Court to reverse or modify Judge Finlay's tow hearing ruling or Judge Sanders' magistration.
+The Rooker-Feldman doctrine bars federal courts from exercising jurisdiction over "cases brought by state-court losers complaining of injuries caused by state-court judgments rendered before the district court proceedings commenced and inviting district court review and rejection of those judgments." Exxon Mobil Corp. v. Saudi Basic Indus. Corp., 544 U.S. 280, 284 (2005).
 
-Thompson's claims arise from the conduct of Deputy Gonzales — the warrantless arrest, the failure to issue a citation, the failure to follow statutory requirements. These are federal constitutional claims that do not require review of any state court judgment.
+Plaintiff's claims do not seek review of the state court judgment. Rather, Plaintiff challenges the constitutionality of the defendants' conduct in the underlying proceedings — including the decision to arrest without lawful authority, the denial of due process at the tow hearing, and the suppression of exculpatory evidence. These are not challenges to the state court judgment; they are independent constitutional claims that arise from the defendants' own conduct.
 
-The Rooker-Feldman doctrine is designed to prevent federal courts from acting as appellate courts for state court decisions. Thompson is not asking this Court to review the state court decisions. Thompson is asking this Court to determine whether the arrest violated federal law. That is a proper federal question.
-
----
-
-## X. OBJECTION 7: MONELL ANALYSIS WAS CIRCULAR
-
-The R&R dismisses the Monell claim against Matagorda County because "Thompson cannot establish a constitutional violation." (Dkt. 42 at 7).
-
-This is circular. The Monell claim is based on the alleged constitutional violation — the unlawful arrest. If the arrest was unlawful under § 543.003, then there IS a constitutional violation, and the Monell analysis must be conducted on that basis.
-
-The R&R assumes the arrest was lawful (because of Atwater) and then concludes that without a constitutional violation, there can be no Monell liability. But this assumes the very question at issue — whether the arrest was lawful under Texas law.
+The Magistrate conflated the state court proceedings with the constitutional violations that occurred during those proceedings. The proper defendants are the individual officials who violated Plaintiff's rights, not the state court itself.
 
 ---
 
-## XI. CONCLUSION AND RELIEF REQUESTED
+### VIII. LEAVE TO AMEND SHOULD BE GRANTED IF DISMISSAL IS ORDERED
 
-For the foregoing reasons, Plaintiff Donald Lynn Thompson Jr. respectfully objects to the Memorandum and Recommendation (Dkt. 42) and requests that the District Judge:
+Fifth Circuit precedent requires that plaintiff be given leave to amend before dismissal where the complaint alleges a potentially cognizable claim that may be subject to amendment. The Magistrate recommended 14 days to amend. Plaintiff does not oppose amendment if the Court determines that amendment would cure the pleading deficiencies. However, Plaintiff respectfully submits that the claims as currently pleaded are sufficient to survive a motion to dismiss and that the Motion to Dismiss should be denied in its entirety.
 
-1. **Conduct de novo review** of all claims and arguments raised in the Complaint (Dkt. 1) and Opposition (Dkt. 33);
+---
 
-2. **Reject the recommendation** to grant the Motion to Dismiss (Dkt. 29);
+## CONCLUSION
 
-3. **Find that Thompson has stated a plausible § 1983 claim** for unlawful arrest under Texas Transportation Code § 543.003;
+For the foregoing reasons, Plaintiff respectfully requests that the Court:
 
-4. **Find that qualified immunity does not apply** because the statutory requirement for citation was clearly established;
+1. **Overrule the R&R in its entirety;**
 
-5. **Find that the due process claim was not addressed** by the R&R and remand for further analysis;
+2. **Deny the Motion to Dismiss (Dkt. 29) as to all Defendants;**
 
-6. **Find that the Monell claim cannot be resolved** without first determining whether a constitutional violation occurred; and
+3. **To the extent the Court is inclined to dismiss any claim, grant Plaintiff leave to amend rather than dismissing with prejudice; and**
 
-7. **Grant such other relief** as the Court deems just and proper.
+4. **Grant such other and further relief as the Court deems just and proper.**
 
 Respectfully submitted,
 
-/s/ Donald Lynn Thompson Jr.
-Donald Lynn Thompson Jr., Pro Se
-Plaintiff
-
----
-
-**CERTIFICATE OF SERVICE**
-
-I hereby certify that on [DATE], a true and correct copy of the foregoing Objections was served on all counsel of record via the Court's CM/ECF system.
-
-/s/ Donald Lynn Thompson Jr.
-Donald Lynn Thompson Jr., Pro Se
+______________________________
+Donald Lynn Thompson Jr.
+Plaintiff, Pro Se

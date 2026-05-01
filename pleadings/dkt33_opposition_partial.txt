@@ -1,0 +1,104 @@
+# PLAINTIFF'S RESPONSE IN OPPOSITION TO MOTION TO DISMISS
+## Dkt 33 - Donald Lynn Thompson Jr v Matagorda County et al
+### Case No. 3:25-cv-000253
+
+---
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF TEXAS
+GALVESTON DIVISION
+
+Donald Lynn Thompson Jr., §
+ Plaintiff, §
+ §
+v. § CIVIL ACTION NO. 3:25-cv-00253
+ §
+Matagorda County, et al., §
+ Defendants. §
+
+PLAINTIFF'S RESPONSE IN OPPOSITION TO
+MATAGORDA COUNTY DEFENDANTS' MOTION TO DISMISS
+
+Plaintiff DONALD LYNN THOMPSON, JR., appearing pro se and sui juris, respectfully
+submits this Response in Opposition to the Matagorda County Defendants' Motion to
+Dismiss filed pursuant to Federal Rule of Civil Procedure 12(b)(6) and states as follows:
+
+I. INTRODUCTION
+
+Defendants' Motion to Dismiss rests on a fundamental and recurring misstatement of
+Texas law: that a custodial arrest for expired vehicle registration is categorically lawful
+and that probable cause for the stop automatically authorized every subsequent action
+taken against Plaintiff. This characterization is legally incorrect, factually incomplete, and strategically designed to collapse a multi-count civil rights complaint into a single
+probable-cause inquiry.
+
+This case is not merely about whether a deputy had grounds to initiate a traffic stop.
+This case is about what happened after that stop — the custodial arrest for a
+non-jailable administrative infraction that Texas law provides a specific remedial process
+to address; the eighteen-hour detention without warrant, charge, or judicial review; the
+sham magistration that imposed punishment without a plea or finding of guilt; the
+coordinated suppression of exculpatory video evidence; the obstruction of public
+records access; the procedurally defective tow hearing designed to ratify prior
+misconduct; and the ongoing maintenance of a fabricated criminal record. These are the
+constitutional injuries at the heart of Plaintiff's Complaint, and Defendants' Motion
+addresses virtually none of them.
+
+The disproportionality of the County's response cannot be overstated. The Texas
+Legislature determined that the maximum financial consequence for operating a vehicle
+with expired registration — after the charge is dismissed upon remedial compliance —
+is a $20 reimbursement fee. Tex. Transp. Code § 502.407(b)(2). In response to this $20
+administrative matter, Defendants handcuffed Plaintiff, transported him to jail, detained
+him for eighteen hours without a warrant or judicial review, imposed a "time served"
+criminal disposition without a plea or adjudication, seized his vehicle, conducted a
+procedurally defective tow hearing, suppressed exculpatory evidence, obstructed public
+records access, and created a permanent false criminal record. The chasm between the Legislature's intended remedy and Defendants' actual conduct is itself powerful
+evidence of the constitutional violations alleged in this Complaint.
+
+Defendants ask this Court to accept, at the motion-to-dismiss stage, their own contested
+legal conclusions as established fact, to demand evidentiary proof that is neither
+required nor appropriate before discovery, and to extend immunity doctrines beyond
+their recognized boundaries. The Court should decline each of these invitations.
+
+II. LEGAL STANDARD APPLICABLE TO PRO SE PLAINTIFFS
+
+A pro se plaintiff's complaint must be liberally construed, and "however inartfully
+pleaded, must be held to less stringent standards than formal pleadings drafted by
+lawyers." *Erickson v. Pardus*, 551 U.S. 89, 94 (2007).
+
+Under Rule 12(b)(6), the Court must accept all well-pleaded factual allegations as true
+and draw all reasonable inferences in Plaintiff's favor. *Ashcroft v. Iqbal*, 556 U.S. 662,
+678 (2009); *Bell Atlantic Corp. v. Twombly*, 550 U.S. 544, 555 (2007). The question is
+not whether Plaintiff will ultimately prevail, but whether the Complaint, liberally
+construed, states a plausible claim for relief.
+
+Defendants bear the burden of demonstrating that, even accepting every factual
+allegation as true and drawing every reasonable inference in Plaintiff's favor, no
+plausible claim for relief exists. They have not met that burden.
+
+III. ARGUMENT AND AUTHORITIES
+
+A. Defendants Misstate the Applicable Law — Texas Transportation Code § 543.003 Is
+Inapposite; § 502.407 Controls
+
+1. Defendants' Reliance on General Arrest Authority Is Misplaced
+
+The centerpiece of Defendants' Motion is their contention that "a person may legally be
+arrested for driving with an expired registration." Defs.' Mot. at 3. To support this
+proposition, Defendants cite a handful of appellate decisions. This argument fails for a
+critical reason: the correct statutory framework is Texas Transportation Code § 502.407.
+
+2. Texas Transportation Code § 502.407 Provides a Specific Remedial Framework That
+Defendants Entirely Ignored
+
+The Texas Legislature enacted § 502.407 to address the precise situation at issue in
+this case — operation of a vehicle with expired registration. The statute provides:
+
+● "A justice of the peace or municipal court judge having jurisdiction of the offense
+may dismiss a charge of driving with an expired motor vehicle registration if the
+defendant remedies the defect not later than the 20th working day after the date
+of the offense or before the defendant's first court appearance date, whichever is
+later." Tex. Transp. Code § 502.407(b)(1)(A).
+
+● The maximum penalty for a first offense is a $20 "administrative fee" if the defect is
+remedied. Tex. Transp. Code § 502.407(b)(2).
+
+[DOCUMENT APPEARS TO BE TRUNCATED HERE]
