@@ -14,7 +14,7 @@ Plaintiff Donald Lynn Thompson Jr. respectfully submits this Objection to Magist
 The R&R suffers from multiple fundamental deficiencies:
 
 1. It mischaracterizes and fails to address Plaintiff's central statutory argument
-2. It conflates Subtitle B criminal traffic offenses with Subtitle C administrative vehicle registration offenses
+2. It conflates Subtitle B criminal traffic offenses with Subtitle A administrative registration offenses
 3. It applies qualified immunity too broadly, improperly insulating constitutional violations
 4. It ignores Plaintiff's procedural due process claims with conclusory immunity rulings
 5. It fails to address the conspiracy claim with the specificity required by Fifth Circuit precedent
@@ -29,14 +29,14 @@ The R&R suffers from multiple fundamental deficiencies:
 
 ### A. What Plaintiff Argued in His Opposition
 
-Plaintiff's Opposition (Dkt. 33) raised a specific statutory argument: the Texas Transportation Code is organized into Subtitles, and the Chapter governing expired vehicle registration — Chapter 502 — is in **Subtitle C**, which establishes a distinct remedial framework that **does not authorize custodial arrest**.
+Plaintiff's Opposition (Dkt. 33) raised a specific statutory argument: the Texas Transportation Code is organized into Subtitles, and the Chapter governing expired vehicle registration — Chapter 502 — is in **Subtitle A** (General Provisions), which establishes a distinct remedial framework that **does not authorize custodial arrest**.
 
 Plaintiff argued that:
 
-- **Subtitle C** (Vehicle Registration and Equipment) governs vehicle registration offenses
-- **§ 502.407** provides that a person charged with expired registration may have the charge dismissed if the defect is remedied within 20 working days — a remedy that is incompatible with custodial arrest
-- **Subtitle B** (Rules of the Road) governs traditional criminal traffic offenses (speeding, DWI, etc.) for which arrest authority under § 543.003 applies
-- The Legislature's choice to place registration offenses in Subtitle C, with Subtitle C's specific remedial scheme, reflects an intent to treat such offenses as administrative/regulatory rather than criminal
+- **Subtitle A** (General Provisions) — registration offenses with administrative remedial schemes; § 502.407 is here with mandatory dismissal upon compliance, $20 max, no incarceration
+- **Subtitle A** (General Provisions) — registration offenses with administrative remedial schemes; § 502.407 governs expired registration with mandatory dismissal upon compliance, $20 max penalty, no incarceration
+- **Subtitle B** (Rules of the Road) — traditional criminal traffic offenses (speeding, DWI, etc.) — arrest authority under § 543.003 applies
+- The Legislature's choice to place registration offenses in Subtitle A with a remedial dismissal scheme reflects an intent to treat such offenses as administrative/regulatory rather than criminal
 
 ### B. What the R&R Actually Says
 
@@ -46,17 +46,17 @@ The R&R acknowledges Plaintiff's argument in one cursory paragraph:
 
 **This response is legally insufficient for three reasons:**
 
-**First**, the R&R never actually analyzes the Subtitle structure. It treats § 543.004 as if it occupies the same field as § 502.407, when in fact they are in different Subtitles of the Transportation Code governing different subject matters. The Magistrate's analysis should have examined whether the Legislature, by placing registration offenses in Subtitle C with a remedial dismissal scheme, intended to exclude such offenses from the general arrest authority in § 543.003. The Magistrate never conducted this analysis.
+**First**, the R&R never actually analyzes the Subtitle structure. It treats § 543.004 as if it occupies the same field as § 502.407, when in fact § 502.407 is in Subtitle A of the General Provisions while § 543.003/543.004 are in the Code of Criminal Procedure. The Magistrate's analysis should have examined whether the Legislature, by placing registration offenses in Subtitle A with a remedial dismissal scheme, intended to exclude such offenses from the general arrest authority in § 543.003. The Magistrate never considered this question.
 
-**Second**, the R&R's reliance on *Atwater v. City of Lago Vista*, 532 U.S. 318 (2001), is misplaced. *Atwater* involved a seat belt violation under **Subtitle B** of the Texas Transportation Code — a criminal traffic offense. The Court did not address whether Subtitle C administrative registration offenses, with their distinct remedial schemes, are treated differently. The Magistrate's blanket application of *Atwater* to all traffic-related offenses ignores the Texas Transportation Code's structural organization.
+**Second**, the R&R's reliance on *Atwater v. City of Lago Vista*, 532 U.S. 318 (2001), is misplaced. *Atwater* involved a seat belt violation — a criminal traffic misdemeanor for which arrest was consistent with the statutory scheme. Critically, the Supreme Court did not address whether an administrative offense governed by a Subtitle A remedial scheme — with mandatory dismissal upon compliance, $20 max penalty, and no incarceration — is treated differently. The Magistrate's blanket application of *Atwater* to all traffic-related offenses ignores the Texas Transportation Code's structural classification of registration offenses in Subtitle A with their own distinct remedial scheme.
 
 **Third**, the R&R's statement that § 543.004 "articulates exactly three offenses for which officers may not make an arrest, none of which is an expired registration" proves too much. The Magistrate appears to argue that because § 543.004 does not explicitly prohibit arrest for expired registration, arrest is permitted. But this logic would render meaningless any remedial statutory scheme that does not explicitly say "arrest is prohibited." It would mean that any offense not listed in § 543.004 can be punished by custodial arrest regardless of the Legislature's intent in creating a separate remedial scheme. This is not the law.
 
 ### C. Legal Standard for De Novo Review
 
-Under 28 U.S.C. § 636(b)(1) and Fed. R. Civ. P. 72(b), Plaintiff is entitled to de novo review of "any portion of the magistrate judge's disposition' that has been properly objected to." The Magistrate's failure to address Plaintiff's Subtitle C argument — a central pillar of Plaintiff's case — warrants rejection of the R&R on this point.
+Under 28 U.S.C. § 636(b)(1) and Fed. R. Civ. P. 72(b), Plaintiff is entitled to de novo review of "any portion of the magistrate judge's disposition' that has been properly objected to." The Magistrate's failure to address Plaintiff's **Subtitle A** argument — a central pillar of Plaintiff's case — warrants rejection of the R&R on this point.
 
-**Requested Relief:** The District Judge should conduct de novo review of whether § 502.407's remedial dismissal scheme, located in Subtitle C of the Texas Transportation Code, creates a statutory right against custodial arrest for expired registration that supersedes or limits the general arrest authority under § 543.003, and whether this statutory structure gives Deputy Gonzales fair notice that his conduct was unconstitutional.
+**Requested Relief:** The District Judge should conduct de novo review of whether § 502.407's remedial dismissal scheme, located in Subtitle A of the Texas Transportation Code, creates a statutory right against custodial arrest for expired registration that supersedes or limits the general arrest authority under § 543.003, and whether this statutory structure gives Deputy Gonzales fair notice that his conduct was unconstitutional.
 
 ---
 
@@ -66,9 +66,9 @@ Under 28 U.S.C. § 636(b)(1) and Fed. R. Civ. P. 72(b), Plaintiff is entitled to
 
 The R&R states that "even if Thompson's theory is correct (it is not), his argument is so novel that Gonzales would be entitled to qualified immunity anyway." This reasoning is legally erroneous.
 
-**First**, qualified immunity protects officers only if the right at issue was not "clearly established." The relevant question is not whether the specific factual scenario (arrest for expired registration under Subtitle C) was previously litigated, but whether the constitutional right's contours were sufficiently definite that a reasonable officer would understand he was violating it. *Hope v. Pelzer*, 536 U.S. 730, 739 (2002).
+**First**, qualified immunity protects officers only if the right at issue was not "clearly established." The relevant question is not whether the specific factual scenario (arrest for expired registration under **Subtitle A**) was previously litigated, but whether the constitutional right's contours were sufficiently definite that a reasonable officer would understand he was violating it. *Hope v. Pelzer*, 536 U.S. 730, 739 (2002).
 
-If Deputy Gonzales arrested Plaintiff for an offense that the Texas Transportation Code places in Subtitle C with a remedial dismissal scheme — an offense for which the Legislature authorized only a civil/administrative remedy — then a reasonable officer might well understand that custodial arrest was not authorized. The right to be free from arrest for a non-jailable administrative offense is not so novel a concept that qualified immunity should apply.
+If Deputy Gonzales arrested Plaintiff for an offense that the Texas Transportation Code places in **Subtitle A** with a remedial dismissal scheme — an offense for which the Legislature authorized only a civil/administrative remedy — then a reasonable officer might well understand that custodial arrest was not authorized. The right to be free from arrest for a non-jailable administrative offense is not so novel a concept that qualified immunity should apply.
 
 **Second**, the R&R's conclusion that "Thompson bears a heavy burden" because the right is not "beyond debate" inverts the burden. Under Fifth Circuit precedent, once a plaintiff demonstrates a constitutional violation, the burden shifts to the defendant to prove qualified immunity. The Magistrate's analysis should have examined whether the constitutional right at issue — the right not to be arrested for an offense for which only remedial, non-custodial treatment is authorized — was clearly established. The Magistrate did not conduct this analysis.
 
@@ -78,7 +78,7 @@ If Deputy Gonzales arrested Plaintiff for an offense that the Texas Transportati
 
 More fundamentally, qualified immunity shields officers from claims for **civil damages** under § 1983. It does not insulate the County from **Monell liability** for policies, customs, or deliberately indifferent training. Even if Deputy Gonzales were entitled to qualified immunity (which he is not), Plaintiff's Monell claims against Matagorda County would survive.
 
-**Requested Relief:** The District Judge should conduct de novo review of the qualified immunity issue, apply the correct burden-shifting framework, and find that the right to be free from arrest for a non-jailable Subtitle C administrative offense was sufficiently established to deny qualified immunity at the pleading stage.
+**Requested Relief:** The District Judge should conduct de novo review of the qualified immunity issue, apply the correct burden-shifting framework, and find that the right to be free from arrest for a non-jailable **Subtitle A** administrative offense was sufficiently established to deny qualified immunity at the pleading stage.
 
 ---
 

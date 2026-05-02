@@ -7,7 +7,7 @@
 
 ## PART I: TEXAS TRANSPORTATION CODE — RELEVANT STATUTORY TEXT
 
-### § 502.407 — Expired Motor Vehicle Registration (Subtitle C)
+### § 502.407 — Expired Motor Vehicle Registration (Subtitle A)
 
 **Text of § 502.407:**
 
@@ -25,16 +25,16 @@
 - Caps the maximum penalty at $20
 - Contains no provision for incarceration, criminal conviction, or criminal record
 
-### § 543.003 — Arrest Under Subtitle C (Vehicle Registration)
+### § 543.003 — Arrest Procedures for Certain Vehicle Registration Offenses
 
 **Text of § 543.003:**
 
-> If a person is arrested for a violation of Subtitle C [Vehicle Registration] and is not taken before a magistrate, the person shall be taken without unnecessary delay before the nearest magistrate in the county where the arrest occurs.
+> If a person is arrested for a violation of a vehicle registration offense and is not taken before a magistrate, the person shall be taken without unnecessary delay before the nearest magistrate in the county where the arrest occurs.
 
 **Significance:**
 - The phrase "without unnecessary delay" tracks federal constitutional requirements for presentment
-- Critically: this statute governs **how** an arrest under Subtitle C is to be conducted IF arrest occurs — it does not say arrest is authorized for all Subtitle C offenses
-- The statute presupposes that arrest MAY occur for some Subtitle C offenses — but whether arrest is authorized for expired registration specifically is governed by the remedial scheme in § 502.407
+- Critically: this statute governs **how** an arrest for certain registration offenses is to be conducted IF arrest occurs — it does not independently authorize arrest for expired registration
+- The statute presupposes that arrest MAY occur for some registration offenses — but whether arrest is authorized for expired registration specifically is governed by the remedial scheme in § 502.407 (which is in Subtitle A)
 
 ### § 543.004 — Citation Procedures
 
@@ -46,14 +46,14 @@
 
 **The R&R's error:** The Magistrate treated § 543.004(c) as an exhaustive list of offenses where citation is required. This is wrong. § 543.004(c) is a mandatory-citation provision for three specific offenses; it is not a ceiling on arrest restrictions.
 
-### Classification Structure: Subtitle B vs. Subtitle C
+### Classification Structure: Subtitle A vs. Subtitle B
 
 The Texas Transportation Code is organized as follows:
-- **Subtitle A: General Provisions** — administrative
+- **Subtitle A: General Provisions** — **§ 502.407 (expired registration) is here** — administrative/regulatory offenses with specific remedial schemes (dismissal upon cure, $20 max, no incarceration)
 - **Subtitle B: Rules of the Road** — criminal traffic offenses (DWI, reckless driving, speeding, etc.) — arrest authority under § 543.002 et seq.
-- **Subtitle C: Vehicle Registration and Equipment** — administrative/regulatory offenses — specific remedial schemes, no incarceration
+- **Subtitle C: Vehicle Registration and Equipment** — separate category from expired registration; governs registration and equipment requirements with their own remedial schemes
 
-Expired vehicle registration is a **Subtitle C** offense, not a Subtitle B offense. This is not a semantic distinction — it reflects the Texas Legislature's deliberate choice to classify registration offenses as administrative/regulatory matters subject to remedial schemes rather than criminal prosecutions.
+Expired vehicle registration (§ 502.407) is in **Subtitle A** of the Texas Transportation Code, not Subtitle B. This is not a semantic distinction — it reflects the Texas Legislature's deliberate choice to classify registration offenses as administrative/regulatory matters subject to remedial schemes rather than criminal prosecutions.
 
 ---
 
@@ -66,9 +66,9 @@ Expired vehicle registration is a **Subtitle C** offense, not a Subtitle B offen
 **Key language:** "If an officer has probable cause to believe that an individual has committed even a very minor criminal offense in his presence, he may, without violating the Fourth Amendment, arrest the offender." *Id.* at 354.
 
 **Why it doesn't control here:**
-1. *Atwater* addressed a **Subtitle B** offense (seat belt violation) under Texas law at that time.
-2. The Texas Legislature has since evolved its statutory scheme — the placement of registration offenses in Subtitle C with a remedial scheme is post-*Atwater* legislative action.
-3. *Atwater* addressed the **Fourth Amendment** question, not the **state statutory authority** question.
+1. *Atwater* addressed a seat belt violation under Texas law — this case does not turn on whether a Subtitle B offense was at issue.
+2. The Texas Legislature has since evolved its statutory scheme — the placement of registration offenses in Subtitle A with a remedial scheme is post-*Atwater* legislative action.
+3. *Atwater* addressed the **Fourth Amendment** question, not the **state statutory authority** question — specifically, *Virginia v. Moore* (553 U.S. 164, 2008) later clarified that the Fourth Amendment does not require probable cause to be measured by state law.
 4. *Atwater* explicitly noted: "the business of the judiciary is to inquire into the sufficiency of the protestations of the officer." *Id.* at 354-55 n.17.
 
 **Distinguishing feature:** *Atwater* involved an offense for which arrest was consistent with the statutory scheme. Here, § 502.407's remedial scheme is inconsistent with custodial arrest.
@@ -184,11 +184,11 @@ Three elements: (1) a **policymaker**; (2) an **official policy or custom**; and
 ### B. The "Moving Force" Argument
 
 Even if individual officers are entitled to qualified immunity, the County's policy of:
-- Failing to train officers on the Subtitle B / Subtitle C distinction;
+- Failing to train officers on the Subtitle A (administrative registration) vs. Subtitle B (criminal traffic) distinction;
 - Failing to advise arrestees of the § 502.407 cure right; and
 - Failing to train JP court personnel on § 502.407 requirements
 
-was the "moving force" behind the constitutional deprivation. Plaintiff did not merely encounter an individual bad actor — he encountered a **systemic failure** in how the County processes Subtitle C registration offenses.
+was the "moving force" behind the constitutional deprivation. Plaintiff did not merely encounter an individual bad actor — he encountered a **systemic failure** in how the County processes Subtitle A registration offenses.
 
 ### C. Discovery Is Essential
 
@@ -267,7 +267,7 @@ These are independent federal claims. The R&R's reliance on Rooker-Feldman is er
 | Authority | Relevance |
 |-----------|-----------|
 | *Virginia v. Moore*, 553 U.S. 164 (2008) | Directly adverse to Fourth Amendment theory — must be addressed on de novo review |
-| Tex. Transp. Code § 543.003 | Governs how Subtitle C arrests are conducted — does not authorize arrest for expired registration |
+| Tex. Transp. Code § 543.003 | Governs presentment procedures IF arrest made for registration offense — does not independently authorize arrest for expired registration |
 | *Jarecki v. G.D. Searle & Co.*, 367 U.S. 303 (1961) | Canon of statutory construction — specific limits general |
 | *RadLAX Gateway Hotel*, 566 U.S. 639 (2012) | Same canon |
 | *Hope v. Pelzer*, 536 U.S. 730 (2002) | Clearly established right standard |

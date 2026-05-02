@@ -25,14 +25,14 @@
 - ✅ Prosecutorial immunity for Chau in criminal context — analyzed
 
 ### IMPROPERLY DISMISSED WITHOUT ANALYSIS:
-- ❌ Count I — Unlawful arrest under Texas law (§ 502.407 Subtitle C framework ignored)
+- ❌ Count I — Unlawful arrest under Texas law (§ 502.407 Subtitle A framework ignored)
 - ❌ Count III — Brady claim at tow hearing (administrative, not prosecutorial function)
 - ❌ Count IV — § 1985(3) conspiracy (no analysis whatsoever)
 - ❌ Count V — Monell (circular reasoning)
 - ❌ § 1986 — failure to prevent conspiracy
 
 ### NOT ADDRESSED AT ALL:
-- ❌ The distinction between Subtitle B (criminal traffic) and Subtitle C (administrative)
+- ❌ The distinction between Subtitle B (criminal traffic) and Subtitle A (administrative registration)
 - ❌ The § 502.407 remedial scheme (dismissal upon compliance, $20 cap)
 - ❌ *Virginia v. Moore* — controlling adverse precedent
 - ❌ § 1983 independent claim based on color of law / Texas law violation
@@ -54,7 +54,7 @@ The R&R invokes Rooker-Feldman in **Footnote 3** to bar Plaintiff's challenges t
 
 ## CRITICAL FAILURE: THE R&R NEVER ANALYZES § 502.407
 
-The core of Plaintiff's case is that Texas Transportation Code § 502.407 places expired registration in **Subtitle C** with a specific remedial scheme:
+The core of Plaintiff's case is that Texas Transportation Code § 502.407 places expired registration in **Subtitle A** (General Provisions) with a specific remedial scheme:
 
 - **20 working days** to cure the defect
 - **$20 maximum** penalty
@@ -63,7 +63,7 @@ The core of Plaintiff's case is that Texas Transportation Code § 502.407 places
 
 This is fundamentally incompatible with custodial arrest. The Legislature designated this as an administrative matter, not a criminal one.
 
-**The R&R does not mention § 502.407 by number, does not discuss Subtitle C, and does not analyze whether the remedial scheme limits arrest authority.**
+**The R&R does not mention § 502.407 by number, does not discuss Subtitle A, and does not analyze whether the remedial scheme limits arrest authority.**
 
 Compare this to the MTD, which also does not analyze § 502.407 — the R&R simply adopted the MTD's framework without filling in the analytical gap that the MTD itself left.
 
@@ -73,7 +73,7 @@ Compare this to the MTD, which also does not analyze § 502.407 — the R&R simp
 
 | Issue | Complaint | Opposition | MTD | R&R | Objection |
 |-------|-----------|------------|-----|-----|-----------|
-| § 502.407 Subtitle C | ✅ p. 12-14 | ✅ | ❌ Missing | ❌ Not cited | Obj. #1 |
+| § 502.407 Subtitle A | ✅ p. 12-14 | ✅ | ❌ Missing | ❌ Not cited | Obj. #1 |
 | § 543.004(c) exhaustive? | ✅ p. 13 | ✅ | ✅ | ✅ (mirrors MTD) | Obj. #1 |
 | *Virginia v. Moore* | — | ✅ | — | ❌ Not cited | Obj. #2 |
 | § 1983 independent claim | — | ✅ | — | ❌ Not analyzed | Obj. #2C |

@@ -33,9 +33,9 @@ This shows where each document addresses (or fails to address) the core legal is
 
 | Document | Position | Key Statutory Argument |
 |----------|----------|----------------------|
-| **Complaint** | Arrest unlawful — § 502.407 Subtitle C has remedial framework incompatible with arrest | § 502.407 allows 20-day cure, $20 max, dismissal upon compliance; no incarceration |
+| **Complaint** | Arrest unlawful — § 502.407 Subtitle A has remedial framework incompatible with arrest | § 502.407 allows 20-day cure, $20 max, dismissal upon compliance; no incarceration |
 | **MTD (Dkt 29)** | Arrest lawful — § 543.004(c) only mandates citation for 3 offenses, all others allow arrest discretion | Cites *Atwater*; argues § 543.004(c) is exhaustive list |
-| **Opposition (Dkt 33)** | Arrest unlawful — § 543.004(c) is NOT exhaustive; § 502.407 specific remedial scheme controls over general arrest authority | *lex specialis derogat legi generali*; Subtitle C = administrative, not criminal |
+| **Opposition (Dkt 33)** | Arrest unlawful — § 543.004(c) is NOT exhaustive; § 502.407 specific remedial scheme controls over general arrest authority | *lex specialis derogat legi generali*; Subtitle A = administrative, not criminal |
 | **R&R (Dkt 42)** | ❌ Adopts MTD position wholesale | Mirrors MTD's § 543.004(c) argument exactly; does NOT address § 502.407 remedial scheme |
 | **Objection** | R&R committed reversible error — misread § 543.004(c) as exhaustive | 9 distinct errors identified |
 
@@ -79,7 +79,7 @@ This shows where each document addresses (or fails to address) the core legal is
 
 | Document | Analysis |
 |----------|----------|
-| **Complaint** | County policy of arresting for Subtitle C offenses without following § 502.407 procedure; failure to train |
+| **Complaint** | County policy of arresting for Subtitle A offenses without following § 502.407 procedure; failure to train |
 | **MTD** | No underlying constitutional violation = no Monell |
 | **R&R** | ❌ Circular — dismisses Monell because underlying violations assumed not to have occurred |
 | **Objection** | Monell claim independently viable; discovery essential; allegations sufficient at pleading stage |

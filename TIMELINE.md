@@ -30,7 +30,7 @@ Plaintiff must file Objections to the R&R by May 11, 2026 or he loses appellate 
 ## KEY LEGAL ARGUMENTS
 
 ### 1. Subtitle A vs Subtitle C (Texas Transportation Code)
-- § 502.407 (expired registration) is in **Subtitle C** (Vehicle Registration) — an administrative/regulatory offense, NOT a criminal traffic offense
+- § 502.407 (expired registration) is in **Subtitle A** (General Provisions) — an administrative/regulatory offense, NOT a criminal traffic offense
 - § 543.004 is in the **Code of Criminal Procedure** — governs general arrest/citation procedures for criminal offenses
 - The Legislature created a specific remedial mechanism under § 502.407: 20 working days to cure, $20 max fee, dismissal upon compliance
 - General arrest authority under § 543.004 does not override the specific remedial scheme of § 502.407
@@ -57,7 +57,7 @@ Plaintiff must file Objections to the R&R by May 11, 2026 or he loses appellate 
 ### 6. Monell Liability
 - Matagorda County policy of arresting for fine-only offenses without following statutory remedial procedures
 - Policy of suppressing exculpatory footage at tow hearings
-- Failure to train officers on the distinction between Subtitle B and Subtitle C offenses
+- Failure to train officers on the distinction between Subtitle B (criminal traffic) and Subtitle A (administrative registration) offenses
 
 ---
 

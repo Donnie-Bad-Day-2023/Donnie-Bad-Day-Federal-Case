@@ -74,7 +74,7 @@ The R&R does not meaningfully address the following arguments from Plaintiff's O
 
 | Argument from Opposition | R&R Response |
 |---------------------------|--------------|
-| § 502.407 Subtitle C remedial framework limits arrest authority | **NOT ADDRESSED** — R&R only discusses § 543.004(c) |
+| § 502.407 Subtitle A remedial framework limits arrest authority | **NOT ADDRESSED** — R&R only discusses § 543.004(c) |
 | *Virginia v. Moore* — must distinguish affirmative remedial scheme from simple prohibition | **NOT CITED** — *Moore* is entirely absent from R&R |
 | § 1983 claim is independent of Fourth Amendment (Due Process / color of law) | **NOT ADDRESSED** — R&R only analyzes Fourth Amendment |
 | Procedural due process — sham magistration without charge/plea/finding | **NOT ADDRESSED** — only judicial immunity discussed, not process adequacy |

@@ -59,7 +59,7 @@ The logical gap in the R&R's reasoning is critical: **the absence of an offense 
 
 ### B. § 502.407 Creates a Specific Remedial Scheme That Limits Arrest Authority
 
-Chapter 502 of the Texas Transportation Code places expired vehicle registration in **Subtitle C** — "Vehicle Registration and Equipment." This is categorically distinct from Subtitle B — "Rules of the Road" — which governs criminal traffic offenses (DWI, reckless driving, speeding, etc.). The Legislature's deliberate choice to place registration offenses in Subtitle C reflects an express legislative classification: these are **administrative/regulatory offenses**, not criminal traffic offenses.
+Chapter 502 of the Texas Transportation Code places expired vehicle registration in **Subtitle A** — "General Provisions." This is categorically distinct from Subtitle B — "Rules of the Road" — which governs criminal traffic offenses (DWI, reckless driving, speeding, etc.). The Legislature's deliberate choice to place registration offenses in Subtitle A with a specific remedial dismissal scheme reflects an express legislative classification: these are **administrative/regulatory offenses**, not criminal traffic offenses.
 
 The remedial scheme under § 502.407 is fundamentally incompatible with custodial arrest:
 
@@ -68,7 +68,7 @@ The remedial scheme under § 502.407 is fundamentally incompatible with custodia
 - There is **no provision for incarceration**, no **criminal finding of guilt**, and no **criminal record** upon compliance.
 - The court **shall dismiss** the charge upon proof of valid registration — this is mandatory, not discretionary. *Id.* § 502.407(a).
 
-This is not a minor regulatory detail. The statutory scheme explicitly contemplates a non-custodial, non-punitive resolution. When the Legislature says an offense is subject to dismissal upon compliance, carries a maximum $20 penalty, and is classified administratively in Subtitle C, the necessary implication is that **custodial arrest is not the intended enforcement mechanism.**
+This is not a minor regulatory detail. The statutory scheme explicitly contemplates a non-custodial, non-punitive resolution. When the Legislature says an offense is subject to dismissal upon compliance, carries a maximum $20 penalty, and is classified in Subtitle A of the General Provisions with a remedial dismissal scheme, the necessary implication is that **custodial arrest is not the intended enforcement mechanism.**
 
 This is an application of the canon of statutory construction: **lex specialis derogat legi generali** — when a specific statute governs a particular subject, it controls over a general statute. *Jarecki v. G.D. Searle & Co.*, 367 U.S. 303, 307 (1961); *RadLAX Gateway Hotel, LLC v. Amalgamated Bank*, 566 U.S. 639, 645 (2012) ("a statute dealing with a narrow, specific topic prevails over a statute dealing with a broader topic"). The specific remedial framework of § 502.407 operates as a limitation on the general arrest authority that might otherwise exist under § 543.003.
 
@@ -76,9 +76,9 @@ This is an application of the canon of statutory construction: **lex specialis d
 
 *Atwater v. City of Lago Vista*, 532 U.S. 318 (2001), is distinguishable and does not control this case. In *Atwater*, the Supreme Court addressed whether arrest for a seatbelt violation violated the **Fourth Amendment** — and held it did not, given the arrest was supported by probable cause and the offense was criminal in nature. Critically, *Atwater* addressed a **Subtitle B** offense — a criminal traffic misdemeanor.
 
-The Texas Transportation Code's structural organization — with Subtitle C establishing a separate remedial framework for registration offenses — represents post-*Atwater* legislative evolution that narrows the class of offenses for which arrest is appropriate. An arrest for a Subtitle C administrative offense is a distinct category from the *Atwater* scenario, and the R&R's failure to acknowledge this structural distinction renders its *Atwater* analysis legally insufficient.
+The Texas Transportation Code's structural organization — with Subtitle A establishing a specific remedial framework for registration offenses — represents post-*Atwater* legislative evolution that narrows the class of offenses for which arrest is appropriate. A custodial arrest for an administrative offense governed by § 502.407's remedial scheme in Subtitle A is a distinct category from the *Atwater* scenario, and the R&R's failure to acknowledge this structural distinction renders its *Atwater* analysis legally insufficient.
 
-**Requested Relief:** The Court should conduct de novo review of whether § 502.407's remedial framework in Subtitle C operates as a limitation on arrest authority for expired registration, and whether Deputy Gonzales's arrest violated Texas law.
+**Requested Relief:** The Court should conduct de novo review of whether § 502.407's remedial framework in Subtitle A operates as a limitation on arrest authority for expired registration, and whether Deputy Gonzales's arrest violated Texas law.
 
 ---
 
@@ -99,7 +99,7 @@ However, *Moore* is distinguishable on a critical basis. In *Moore*, Virginia la
 - § 502.407 creates a right to **mandatory dismissal** upon compliance;
 - The maximum penalty is **$20** — not incarceration, not a criminal fine;
 - The remedy is administrative, not criminal;
-- The statute is located in **Subtitle C**, expressly separating registration offenses from criminal traffic enforcement.
+- The statute is located in **Subtitle A** (General Provisions), expressly placing registration offenses in an administrative classification separate from criminal traffic enforcement.
 
 A reasonable officer reading § 502.407 would not simply understand that arrest is "prohibited" — he would understand that arrest is **inconsistent with the entire remedial scheme the Legislature established** for this category of offense. The *Moore* Court specifically distinguished cases where "the state statute at issue did not simply prohibit arrest, but provided an entirely different regulatory approach." 553 U.S. at 175-76. This is precisely that situation.
 
@@ -107,7 +107,7 @@ A reasonable officer reading § 502.407 would not simply understand that arrest 
 
 Even if the Court determines that the arrest did not violate the Fourth Amendment under *Moore* and *Atwater*, Plaintiff has an **independent federal claim under § 1983** for deprivation of rights under color of state law. Section 1983 provides: "Every person who, under color of any statute, ordinance, regulation, custom, or usage, of any State ... subjects, or causes to be subjected, any citizen ... to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured."
 
-An unlawful arrest under Texas law — one that exceeds the arresting officer's statutory authority under Subtitle C — is actionable under § 1983 as a deprivation of the right to be free from arrest that violates state law, **regardless of whether the Fourth Amendment is violated**. The constitutional hook is the Due Process Clause of the Fourteenth Amendment: the right to be free from state action that exceeds lawful authority.
+An unlawful arrest under Texas law — one that exceeds the arresting officer's statutory authority under the Subtitle A remedial scheme — is actionable under § 1983 as a deprivation of the right to be free from arrest that violates state law, **regardless of whether the Fourth Amendment is violated**. The constitutional hook is the Due Process Clause of the Fourteenth Amendment: the right to be free from state action that exceeds lawful authority.
 
 **Requested Relief:** The Court should (1) conduct de novo review of whether *Virginia v. Moore* applies and whether the specific remedial scheme of § 502.407 distinguishes this case; (2) confirm that Plaintiff's § 1983 claim for unlawful arrest under Texas law is independent of the Fourth Amendment analysis; and (3) reject the R&R's recommendation that Count I be dismissed on qualified immunity grounds.
 
@@ -131,7 +131,7 @@ This reasoning is circular and legally erroneous.
 
 Critically, § 502.407 has existed in its current form for years. Its text is unambiguous: expired registration is an administrative offense with a specific non-custodial remedy. Officers are charged with knowledge of the statutes they enforce. *See United States v. Lanier*, 520 U.S. 259, 266-67 (1997) (holding that "fair warning" can be provided by the plain text of a statute even without case law). The statute's express provision for dismissal upon compliance and its $20 maximum penalty are clear indicators that custodial arrest was not the intended enforcement mechanism.
 
-**Requested Relief:** The Court should conduct de novo review of the qualified immunity analysis, apply the correct burden-shifting framework, and find that the right to be free from custodial arrest for a Subtitle C administrative offense was clearly established by the plain text of § 502.407.
+**Requested Relief:** The Court should conduct de novo review of the qualified immunity analysis, apply the correct burden-shifting framework, and find that the right to be free from custodial arrest for an administrative offense governed by the Subtitle A remedial scheme of § 502.407 was clearly established by the plain text of the statute.
 
 ---
 
@@ -177,11 +177,11 @@ This is circular: the Monell claim is dismissed because the underlying constitut
 
 Even if Deputy Gonzales were entitled to qualified immunity (which Plaintiff contests), the Monell claim against Matagorda County is independently viable. Plaintiff has alleged:
 
-1. **A policymaker with knowledge**: County officials responsible for law enforcement training and policy were aware, or should have been aware, that officers were making custodial arrests for Subtitle C administrative offenses without following the § 502.407 remedial procedure.
+1. **A policymaker with knowledge**: County officials responsible for law enforcement training and policy were aware, or should have been aware, that officers were making custodial arrests for administrative offenses governed by § 502.407's Subtitle A remedial scheme without following the statutory procedure.
 
 2. **A policy or custom**: The County maintained a custom — evidenced by the sequential pattern of conduct across multiple County actors — of arresting individuals for expired registration and processing them through magistration without advising them of the § 502.407 cure right.
 
-3. **Deliberate indifference in training**: The County failed to train officers on the distinction between Subtitle B criminal traffic offenses and Subtitle C administrative registration offenses, and failed to train JP court personnel on the procedural requirements of § 502.407.
+3. **Deliberate indifference in training**: The County failed to train officers on the registration offense classification under Subtitle A and the procedural requirements of § 502.407, and failed to train JP court personnel on the mandatory dismissal remedy.
 
 4. **The policy was the moving force**: But for the County's policy of not advising arrestees of the § 502.407 remedy, Plaintiff would not have been subjected to 18 hours of detention and a baseless "time served" disposition.
 
