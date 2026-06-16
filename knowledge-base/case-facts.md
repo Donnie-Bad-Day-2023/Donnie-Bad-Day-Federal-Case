@@ -137,5 +137,52 @@ Markham, Texas — 500 block of Ave I / 6th Street corner, in front of Tina Phil
 - Bodycam/dashcam: WITHHELD — never produced despite paid request
 - Notarized probable cause document: BLANK judicial review section — never reviewed by any judge
 
+## Exhibits (OCR from FAC-embedded images)
+
+### Exhibit A — Incident Report #2023-0477 (Deputy R. Gonzales #4844)
+- **Page 4 of 4 only** — earlier pages not captured
+- Summary field (partial): "head red and blue lights on [vehicle]... approached about the driver's side and gave the reason for the traffic stop to the driver Donald Lynn Thompson (W/M DOB 02/28/1966). While [Thompson was] verbally aggressive, [Deputy] advised Thompson to [step out of the] vehicle. [Deputy] patted down Thompson for weapons..."
+- Vehicle towed by Mason Services at approximately 2300 hours to Matagorda County Sheriff's Jail
+- Bodycam and video available for this call (per report)
+- Disposition: Cleared by arrest
+- Signature: Deputy R. Gonzales #4844
+
+### Exhibit B — Sworn Expired Registration Affidavit (Deputy B. Gonzales #4844)
+- Affiant: Donald Lynn Thompson
+- Vehicle: 2004 WHITE [FORD pickup]
+- Stated registration expired **as of JANUARY 2022**
+- Sworn to and subscribed: **May 14, 2023**
+- Attesting officer: Deputy B. Gonzales #4844
+- **CRITICAL DISCREPANCY**: The traffic stop occurred **May 14, 2023** — over 15 months after the alleged January 2022 expiration. An expired registration from January 2022 does not establish probable cause for a stop on May 14, 2023. The vehicle could have been registered in the 15-month interim. This is the probable cause document cited to justify the stop.
+- Blank judicial signature/review block on its face
+
+### Exhibit C — Jail Booking Sheet
+- Arrest: 05/14/2023 22:22
+- Charge: "Expired Registration"
+- Bond: $500
+- Arraignment set: 05/15/2023 08:00
+
+### Exhibit D — Tow Inventory
+- Unsigned, Bates-stamped MATAGORDA SHERIFF'S OFFICE
+- Vehicle location listed as "HOLD: 2301 Hwy 60" — NOT the private driveway at 3430 CR 192
+
+### Exhibit E — Register of Actions, Case No. 1-23-TR-0306
+- Shows May 16, 2023 conviction entered **absentia** via Nolo Contendere plea
+- No attorney present
+- Post-dated to the date of the tow hearing (not the arrest date)
+
+### Exhibit F — Riley Email
+- Sent to DA Christee Bennet
+- "dashboard and body camera footage will not be made available"
+- Video timestamps show vehicle parked at 3430 CR 192, not "middle of the road"
+
+## Critical Discrepancies
+
+### Discrepancy 1 — Exhibit B: Expired Registration Date
+The Sworn Affidavit (Exhibit B) states the vehicle's registration expired **January 2022**. The traffic stop occurred **May 14, 2023** — more than 15 months later. This is the probable cause document. An expired registration from January 2022 does not establish that the registration was still expired on May 14, 2023. The vehicle could have been registered during the intervening 15 months. No follow-up inquiry was made. This defeats probable cause for the stop.
+
+### Discrepancy 2 — Vehicle Location
+Deputy Gonzales testified at the tow hearing that the vehicle was "in the middle of the road." Exhibit F (Riley email) timestamps and Exhibit D (Tow Inventory) contradict this — vehicle was at 3430 CR 192 / 2301 Hwy 60 (private property). Bodycam footage was withheld.
+
 ## Tags
 `#case-facts` `#固定` `#may-14-2023` `#markham-texas`

@@ -1,0 +1,35 @@
+EXHIBIT B — Sworn Expired Registration Affidavit
+=================================================
+Source: FAC PDF embedded image, OCR extracted
+
+[Partial reconstruction from OCR]
+
+"REGISTRATION AFFIDAVIT"
+
+"STATE OF TEXAS | COUNTY OF MATAGORDA"
+
+"BEFORE ME, the undersigned authority, personally appeared:
+
+DONALD LYNN THOMPSON
+
+who, being duly sworn, upon oath states:
+
+A VEHICLE DESCRIBED AS: 2004 WHITE [FORD pickup]
+
+[...] STATED THAT HE/THEY OPERATE SAID MOTOR VEHICLE ON A PUBLIC ROADWAY
+[...] AND THAT THE REGISTRATION THEREOF WAS EXPIRED AS OF JANUARY 2022
+
+SWORN TO AND SUBSCRIBED before me this 14TH day of MAY 2023
+
+/s/ Donald Lynn Thompson, Affiant
+/s/ Deputy B. Gonzales #4844, Attesting Officer
+
+[NOTARY BLOCK — partial]
+"...
+..."My Commission Expires:..."
+
+--- CRITICAL NOTED DISCREPANCY ---
+The affidavit states registration expired JANUARY 2022.
+The traffic stop occurred MAY 14, 2023 — over 15 months later.
+This is the probable cause document for the stop. The expired registration
+from January 2022 was not the basis for a valid stop on May 14, 2023.
