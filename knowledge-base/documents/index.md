@@ -7,7 +7,7 @@ All case documents. Documents are shared via Google Drive links only — no loca
 | Document | Dkt # | Date | Google Drive Link |
 |----------|-------|------|-------------------|
 | Original Complaint | 1 | 07/07/2025 | https://docs.google.com/document/d/1LP9NW0IfRIMvLGJpbAPOCY6QlfN4VNRqHdpYbTnMk4I/edit?usp=sharing |
-| First Amended Complaint | 45 | 05/25/2026 | (pending — Google Drive link needed) |
+| First Amended Complaint | 45 | 05/25/2026 | https://docs.google.com/document/d/1S-MqeLXFuWT-CetZbZoytxh-Uy1jdFmFrws19_Dqm4I/edit?usp=sharing |
 | More Definite Statement | 48 | 05/28/2026 | (pending — Google Drive link needed) |
 
 ## Motions

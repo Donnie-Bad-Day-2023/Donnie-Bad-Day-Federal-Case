@@ -1,0 +1,1117 @@
+
+=== PAGE 1 ===
+3:25-cv-00253  
+UNITED STATES DISTRICT COURT  
+SOUTHERN DISTRICT OF TEXAS  
+GALVESTON DIVISION  
+DONALD LYNN THOMPSON, JR.  
+Plaintiff,  
+v.  
+MATAGORDA COUNTY, et al.,  
+Defendants.  
+MATAGORDA COUNTY, TEXAS; § JUDGE JEFFREY V. BROWN RAYMOND 
+GONZALES, §  
+Individually and in his Official Capacity; §   
+J. WAMGET, §  
+Individually and in his Official Capacity; §  
+JANE DOE DEPUTY, §  
+Individually and in her Official Capacity; §  
+JASON SANDERS, Individually; §  
+MARK FINLEY, Individually; §  
+JENNIFER CHAU, Individually; §  
+MICHAELA RILEY, §  
+Individually and in her Official Capacity §  
+and BUSTER JACKSON d/b/a §  
+Jackson Towing Services  
+CIVIL ACTION NO. 3:25-cv-00253  
+JURY TRIAL REQUESTED  
+PLAINTIFF'S FIRST AMENDED COMPLAINT  
+FOR VIOLATION OF CIVIL RIGHTS  
+42 U.S.C. §§ 1983, 1985(3), and 1986  
+Fourth, Sixth, Eighth, and Fourteenth Amendments  
+
+
+=== PAGE 2 ===
+1 
+3:25-cv-00253  
+STATEMENT OF THE NATURE AND STAGE OF THE PROCEEDING  
+1. This is Plaintiff Donald Lynn Thompson, Jr.'s First Amended Complaint, 
+filed pursuant to the Court's Order (Dkt. 44) granting leave to amend, arising 
+under the Constitution and laws of the United States. Plaintiff seeks 
+compensatory and punitive damages, declaratory and injunctive relief, and 
+all other remedies available for violations of due process and constitutional 
+rights by state and local officials in Matagorda County, Texas.  
+SUMMARY OF THE ARGUMENT  
+2. This case exists because every person in the chain—from the arresting 
+deputy, to the Justice of the Peace, to defense counsel, to the federal 
+magistrate—assumed the initial stop was lawful. Nobody looked at the first 
+link in the chain: Deputy Raymond Gonzales. His own written records prove 
+he lacked reasonable suspicion to initiate the stop and lacked probable cause 
+to execute a custodial arrest within two minutes. Because nobody verified 
+what Gonzales actually knew at the moment he activated his lights, an 
+unconstitutional seizure was processed through the entire system as if it 
+were lawful.  
+3. Plaintiff was subjected to an unconstitutional seizure, custodial arrest, 
+warrantless search, and 18-hour detention, all arising from a traffic stop 
+unsupported by reasonable suspicion or probable cause. County and judicial 
+officials subsequently fabricated records and suppressed exculpatory 
+evidence—including body and dash camera footage—to conceal the lack of 
+legal justification. Defendant county, through official custom, facilitated and 
+ratified these unlawful actions, as evidenced by policymaker admissions to 
+
+
+=== PAGE 3 ===
+tampering with governmental records (Dkt. 38, 38-1, 38-2). Dismissal under  
+2 
+3:25-cv-00253  
+Rule 12(b)(6) is improper because the Amended Complaint states detailed, 
+plausible facts supporting all causes of action; particularized claims are 
+pleaded against each Defendant; official immunity defenses are specifically 
+addressed; and all federal pleading standards are satisfied.  
+JURISDICTION AND VENUE  
+4. This Court has subject matter jurisdiction pursuant to 28 U.S.C. § 1331 
+(Federal Question Jurisdiction) and 28 U.S.C. § 1343(a)(3) and (4) (Civil 
+Rights Jurisdiction), as this action arises under the Fourth, Sixth, and 
+Fourteenth Amendments and the Civil Rights Act of 1871.  
+5. This Court has supplemental jurisdiction over any related state law claims 
+pursuant to 28 U.S.C. § 1367(a). Venue is proper in the Southern District of 
+Texas, Galveston Division, pursuant to 28 U.S.C. § 1391(b)(1) and (b)(2). 
+All Defendants reside, are employed, or operate within this judicial district, 
+and a substantial part of the events occurred in Matagorda County, Texas.  
+INTRODUCTION  
+6. Pursuant to this Court's Order (Dkt. 44) granting leave to amend, Plaintiff 
+files this First Amended Complaint to cure previous pleading deficiencies 
+and detail the factual and legal failures rendering the initial seizure and 
+subsequent arrest unconstitutional.  
+7. This case hinges on a fundamental constitutional failure that has been 
+systematically ignored from the street to the courtroom. Every downstream 
+actor—the Justice of the Peace who imposed a sentence without a charging 
+
+
+=== PAGE 4 ===
+instrument, defense counsel who assumed the arrest was valid, the federal 
+magistrate who relied on hindsight justification—operated on the  
+3 
+3:25-cv-00253  
+assumption that Defendant Gonzales did his job correctly. But Defendant 
+Gonzales's own written record has never been verified by any neutral party. 
+The two questions that must be answered based solely on what his Incident 
+Report and sworn Affidavit actually articulate are:  
+(a) At the exact moment Defendant Gonzales activated his 
+emergency lights, did he possess specific, articulable facts 
+supporting reasonable suspicion to justify the stop?  
+(b) Between that moment and the custodial arrest executed two 
+minutes later, what additional facts did he discover or verify to 
+establish probable cause for an immediate custodial arrest and 
+18-hour jail detention?  
+8. The JP, defense counsel, and the federal magistrate operated under the 
+mistaken premise that because Plaintiff's registration was factually expired, 
+probable cause automatically existed. This hindsight justification directly 
+contradicts clearly established Fourth Amendment law: probable cause must 
+be reviewed based solely on the totality of the circumstances documented by 
+the arresting officer at the exact time of the arrest. Under the Fourth 
+Amendment, allowing unverified, post-arrest discovery would permit law 
+enforcement to execute warrantless arrests based on pure speculation. Whren 
+v. United States, 517 U.S. 806, 813 (1996).  
+9. Because the initial stop was unsupported by verified facts, every subsequent 
+action—the full custodial arrest, the excessive force, the 18-hour detention, 
+the warrantless search, the unconstitutional magistration, the fabricated court 
+
+
+=== PAGE 5 ===
+docket, and the sham tow hearing—flows directly from this single, 
+undocumented, unverified moment. The unlawfulness of the initial stop  
+4 
+3:25-cv-00253  
+fatally infects every downstream action under the fruit of the poisonous tree 
+doctrine.  
+PARTIES  
+10. Plaintiff DONALD LYNN THOMPSON, JR. is a natural person, citizen of 
+the United States, and resident of 194 8th Street West, Markham, Matagorda 
+County, Texas 77456. He appears pro se and sui juris.  
+11. Defendant MATAGORDA COUNTY, TEXAS is a political subdivision of 
+the State of Texas and a "person" subject to suit under 42 U.S.C. § 1983, 
+responsible for the operational policies, customs, and training protocols of 
+the Matagorda County Sheriff's Office (MCSO) and the Matagorda County 
+Attorney's Office, and liable for the unconstitutional acts and ratifications of 
+its final policymakers.  
+12. Defendant JENNIFER CHAU was, at all relevant times, the Matagorda 
+County Attorney, sued in her individual capacity for actions outside the 
+scope of traditional prosecutorial functions: her participation in a 
+civil/administrative tow hearing, suppression of exculpatory evidence, and 
+intentional objections to shield Defendant Gonzales's perjury—overt acts in 
+furtherance of a civil conspiracy. See Burns v. Reed, 500 U.S. 478, 492-96 
+(1991) (prosecutors acting administratively lose absolute immunity). She is 
+no longer in office.  
+13. Defendant JUDGE JASON SANDERS is the elected Justice of the Peace 
+
+
+=== PAGE 6 ===
+for Precinct 1, sued in his individual capacity. His imposition of a criminal 
+"time served" disposition without a formal charging instrument, without a 
+plea, without a finding of guilt, and without advising Plaintiff of his 
+statutory right to remedial dismissal under Tex. Transp. Code § 502.407(b),  
+5 
+3:25-cv-00253  
+constitutes an act in the clear absence of all jurisdiction. See Stump v. 
+Sparkman, 435 U.S. 349, 356-57 (1978). Furthermore, his participation in 
+the fabrication of a post-dated governmental record strips him of absolute 
+judicial immunity.  
+14. Defendant JUDGE MARK FINLAY is the elected Justice of the Peace for 
+Precinct 4, sued in his individual capacity for his conduct at the June 22, 
+2023 administrative tow hearing: denying Plaintiff's motion to compel 
+exculpatory footage and issuing a ruling based on known perjured and 
+incompetent testimony, ratifying the unlawful seizure as part of the civil 
+conspiracy.  
+15. Defendant RAYMOND GONZALES, Deputy #4844, was at all relevant 
+times a deputy with MCSO, sued in both individual and official capacities as 
+the officer who initiated the unconstitutional seizure without reasonable 
+suspicion, conducted the unlawful custodial arrest, utilized excessive force, 
+directed the warrantless search, and directed the unlawful tow from private 
+property. He is further sued for his active role in the civil conspiracy: falsely 
+testifying under oath at the tow hearing regarding the physical location of 
+Plaintiff's vehicle, knowing that the suppressed body-camera and 
+dash-camera footage would have exposed his false statements. See Franks v. 
+Delaware, 438 U.S. 154, 155-56 (1978).  
+16. Defendant DEPUTY J. WAMGET (#4842) was at all relevant times a 
+
+
+=== PAGE 7 ===
+deputy with MCSO, identified in Incident Report #2023-0477 (Exhibit A) as 
+an "Officer on Scene," sued in his individual and official capacities. He 
+arrived within seconds of the initial stop, participated in the excessive show 
+of force, and acted as the transport deputy. During transport, when Plaintiff 
+objected to the warrantless search, Defendant Wamget made specific  
+6 
+3:25-cv-00253  
+statements referencing his body camera equipment, confirming his active 
+participation and the existence of the recording.  
+17. Defendant JANE DOE DEPUTY is an unidentified female deputy with 
+MCSO who arrived on-scene within seconds and participated in the 
+warrantless search of Plaintiff's vehicle. Her identity will be established 
+through discovery. She is sued in her individual and official capacities.  
+18. Defendant MICHAELA RILEY is the Records/ID Clerk for MCSO, sued in 
+her individual and official capacities for intentionally obstructing Plaintiff's 
+access to public records, failing to honor a court-recognized indigency fee 
+waiver, and creating false administrative barriers ("technical issues") to deny 
+access to exculpatory evidence—foundational overt acts of the civil 
+conspiracy. See Williams v. Wood, 612 F.2d 982, 985 (5th Cir. 1980) (clerks 
+acting maliciously lose quasi-judicial immunity).  
+19. Defendant BUSTER JACKSON d/b/a JACKSON TOWING SERVICES is 
+a private towing contractor operating as a rotation call-out contractor for the 
+Sheriff's Department, sued for acting jointly and in concert with state actors 
+under color of law. See Lugar v. Edmondson Oil Co., 457 U.S. 922, 941 
+(1982). At the tow hearing, Jackson personally appeared, admitted he was 
+not the driver who retrieved the vehicle, and could not establish the vehicle's 
+location, yet actively participated in depriving Plaintiff of property without 
+
+
+=== PAGE 8 ===
+due process.  
+STATEMENT OF CLAIM  
+Texas Law Requires an Offense "In the Officer's Presence"  
+20. The defense claims that because the registration was factually expired, 
+Atwater v. Lago Vista legally allowed the arrest. Under Tex. Code Crim.  
+7 
+3:25-cv-00253  
+Proc. Art. 14.01(b), a peace officer may arrest without a warrant only for an 
+offense "committed in his presence or within his view." Due to nighttime 
+conditions and the perpendicular, passenger-side orientation of the vehicles 
+at the intersection, Defendant Gonzales could not view the expired sticker 
+from his position. He also failed to run the plates through his computer or 
+dispatch during the two-minute window between the stop and the 
+handcuffing of Plaintiff. No offense was ever verified or committed within 
+his view. A retroactive database check cannot satisfy the "in his presence" 
+requirement or the "actual viewed offense" rule of Atwater.  
+The Fifth Circuit "Reasonable Officer" Standard  
+21. In the Fifth Circuit, probable cause is evaluated based on the "totality of the 
+circumstances" known to the officer at the exact moment of arrest. A 
+reasonably prudent officer, faced with a vehicle whose sticker is physically 
+invisible at night, would have used the brief Prouse investigatory stop to 
+look at the paperwork provided by the driver, run the license plate on the 
+cruiser's Mobile Data Terminal (MDT), or contacted dispatch to confirm the 
+offense. By rushing to a custodial arrest in under 120 seconds without 
+verifying anything, Defendant Gonzales acted with deliberate indifference to 
+the Fourth Amendment, rendering the arrest an unconstitutional "hunch" 
+
+
+=== PAGE 9 ===
+rather than an objective, fact-based seizure.  
+PLAINTIFF'S STATEMENT OF FACTS  
+A. The Stop: No Verified Basis for the Seizure  
+8 
+3:25-cv-00253  
+22. On May 14, 2023, at approximately 2220 hours, Plaintiff was operating a 
+motor vehicle stopped at the 4-way stop intersection of Avenue I and 6th 
+Street in Markham, Matagorda County, Texas, traveling west on 6th Street.  
+23. Defendant Gonzales was operating a patrol vehicle on Avenue I traveling 
+south-to-north, placing his vehicle at a perpendicular, strict passenger-side 
+orientation relative to Plaintiff's vehicle. Per Texas DMV regulations, the 
+vehicle registration insignia is located exclusively on the lower-left corner 
+(driver's side) of the front windshield. Due to dark nighttime conditions and 
+the perpendicular, passenger-side placement, it was a physical, optical, and 
+geometric impossibility for Defendant Gonzales to visually observe the 
+status of Plaintiff's driver's-side registration sticker.  
+24. Plaintiff executed a lawful left-hand turn to travel southbound on Avenue I, 
+at which point Defendant Gonzales activated his emergency overhead lights 
+and initiated a traffic stop.  
+B. The Four Corners of the Incident Report: The Absence of Probable 
+Cause  
+25. Incident Report #2023-0477  
+
+
+=== PAGE 10 ===
+(See Exhibit A, attached hereto and incorporated by  
+reference.)  
+9 
+3:25-cv-00253  
+is the foundational document on which the entire chain of events rests. In 
+the "Assignment" section, Defendant Gonzales states: "On Sunday, May 
+14th, 2023 at approximately 2220 hours, I observed a White in color, 
+2004, Chrysler, Sebring, 2-Door... to be traveling south bound on Avenue 
+I... with an Expired Registration from February 2022." In the very next 
+sentence, under the "Summary" section, he states: "At approximately 
+2220 hours, I initiated my overhead red and blue lights on my marked 
+patrol unit #220 to conduct a traffic stop on said pickup."  
+26. By Defendant Gonzales's own documented timeline, the "observation" and 
+the "initiation" of emergency lights occurred at the exact same minute: 2220 
+hours. The report states a conclusion—that the registration was expired—but 
+completely fails to articulate how that conclusion was reached prior to the 
+seizure. Specifically, the report does not state:  
+
+
+=== PAGE 11 ===
+(a) HOW Defendant Gonzales visually read a two-inch registration 
+sticker in the dark on a moving vehicle from the passenger side 
+while the vehicle was turning away;  
+(b) That he manually entered the license plate into his MDT; (c) 
+That he transmitted a query to dispatch or received a return 
+confirming the expiration status before activating his lights at 2220 
+hours.  
+27. Furthermore, Defendant Gonzales's own words prove he did not conduct an 
+electronic license plate query. A valid MDT query returns an immutable 
+vehicle classification. Yet Defendant Gonzales explicitly wrote that he  
+10 
+3:25-cv-00253  
+initiated a traffic stop on "said pickup" — a vehicle classification that not only 
+does not match the 2004 Chrysler Sebring he described in the preceding sentence, 
+but Chrysler does not have a pickup in the Sebring model. This documented fact 
+establishes that no electronic verification was conducted prior to the stop; he was 
+operating on pure speculation, unverified assumptions, or pre-obtained knowledge 
+from another time, none of which satisfy the requirement for contemporary 
+reasonable suspicion.  
+28. The report then states: "I placed Thompson into custody at 2222 hours." 
+Exactly two minutes elapsed between the activation of the emergency lights (2220) 
+and the full custodial arrest (2222). Within 120 seconds, Defendant Gonzales 
+claims to have stopped the vehicle, approached the driver, announced himself, 
+engaged in a verbal altercation, ordered Plaintiff out of the vehicle, conducted a 
+physical pat-down search, and executed a full custodial arrest. This mathematically 
+impossible timeline for a lawful traffic investigation proves no on-scene 
+investigation occurred beyond the alleged observation. The verbal 
+altercation—discoverable through the body cam footage that has been 
+
+
+=== PAGE 12 ===
+denied—would not, under MCSO policy (Exhibit E), justify escalation to custodial 
+arrest based on aggressive language alone.  
+29. If the Court accepts the Incident Report as the official record establishing legal 
+authority for the stop, the Court must accept that the document fails to articulate 
+any lawful, verified probable cause existing at the inception of the stop—not 
+after-the-fact verification or irregardless of the Plaintiff's admission that the 
+registration was expired, that is irrelevant..  
+C. The Contradictory Sworn Record and the Blank Probable Cause Finding 11 
+3:25-cv-00253  
+30. Because of the assumption that the previous officials have done their job. 
+The constitutional violation is compounded by Defendant Gonzales's sworn 
+"Expired Registration" Affidavit  
+(See Exhibit B, attached hereto and  
+incorporated by reference.).  
+Between the Incident Report and the Sworn Affidavit, Defendant 
+
+
+=== PAGE 13 ===
+Gonzales officially identifies the targeted vehicle in three distinct and 
+contradictory ways:  
+● a "2004, Chrysler, Sebring, 2-Door" in the Incident Report; ● "said 
+pickup" in the very next paragraph of the same report; ● and a "2004... 
+CHRYSLER, 2 DOOR, SEDAN" in the Sworn Affidavit executed 
+under penalty of perjury before a Notary Public.  
+● The "2 DOOR SEDAN" classification is an impossible model—Chrysler 
+never manufactured a 2-door sedan for the 2004 Sebring (only a 2-door 
+coupe and convertible).  
+12 
+3:25-cv-00253  
+● The "2 DOOR Pickup" classification is also impossible model—Chrysler 
+never manufactured a 2-door pickup EVER  
+Plaintiff declines to confirm or deny the actual structural classification at this 
+pleading stage; it is Defendants' burden to establish probable cause based strictly 
+on their own documentation.  
+31. Defendants cannot rely on a "clerical error" defense. When an officer 
+swears under oath to seizing a "sedan" but writes in his official report that he 
+seized a "pickup," the official record fails to establish which vehicle, if any, 
+he actually observed, queried, or possessed probable cause to stop. A valid, 
+real-time query of the state database would have automatically returned the 
+exact, immutable body style. The reliance on contradictory, impossible 
+vehicle descriptions proves fabrication rather than verified electronic data.  
+
+
+=== PAGE 14 ===
+32. Furthermore, Defendant Gonzales swore in this Affidavit that the vehicle 
+was operated "ON A PUBLIC STREET THEREIN, TO-WIT: 507 AVENUE 
+I." 507 Avenue I is a private residential driveway, not a public street. 
+Additionally, the bottom of the Sworn Affidavit contains a dedicated judicial 
+signature block: "I, [Blank] Justice of the Peace, Pct [Blank]... having read 
+the above affidavit find that there is sufficient probable cause for said 
+offense." This block is completely blank—no magistrate ever signed it, and 
+no judge ever read these contradictory vehicle descriptions and found 
+sufficient probable cause to justify Plaintiff's 18-hour custodial detention. 
+This document also lacks any case number or cause number,  
+13 
+3:25-cv-00253  
+which is significant: without a case number, this document cannot be tied to 
+a valid charging instrument or criminal proceeding.  
+33. The four corners of the County's own documents prove that the seizure was 
+based on fabricated, contradictory observations, and that the subsequent 
+18-hour detention was never validated by a neutral magistrate.  
+D. The Arrest and 18-Hour Detention  
+34. Because Defendant Gonzales's own sworn documents fail to establish 
+contemporary probable cause for the initial stop, every subsequent action 
+was stripped of legal authority. Lacking legal authority for the stop, 
+Defendant Gonzales inherently lacked authority to execute a warrantless 
+custodial arrest. Plaintiff was booked at 22:39 hours—a mere 19 minutes 
+after the emergency lights were activated.  
+The Jail Booking Sheet  
+
+
+=== PAGE 15 ===
+(See Exhibit C, attached hereto and incorporated  
+by reference.)  
+14 
+3:25-cv-00253  
+reflects this timeline. This 19-minute window includes an approximate 
+7.6-mile, 11-minute transport to the Matagorda County Jail, leaving 
+approximately eight minutes for all on-scene activity—providing zero 
+documented verification that a lawful investigation occurred. Because the 
+foundational stop was illegal, the 18-hour detention was not a lawful 
+administrative hold; it was an unconstitutional deprivation of liberty 
+flowing directly from the undocumented, unverified seizure.  
+E. The Warrantless Search  
+35. Because the stop was illegal, everything that follows is illegal. While 
+Plaintiff was handcuffed and secured in Defendant Wamget's transport 
+vehicle, Defendants Gonzales and Jane Doe Deputy immediately began 
+searching Plaintiff's vehicle with flashlights.  
+
+
+=== PAGE 16 ===
+EXHIBIT D,  
+The inventory that is not inventoried,  
+not signed, not authorized, a legal  
+nullity  
+Giving another description of the  
+vehicle 2 door SLT  
+15 
+3:25-cv-00253  
+This warrantless search violated the Fourth Amendment on multiple 
+independent grounds:  
+(1) under Arizona v. Gant, 556 U.S. 332, 343-44 (2009), a search incident 
+to arrest is permissible only if the arrestee is within reaching distance 
+of the passenger compartment or if evidence of the offense of arrest 
+might be found in the vehicle—Plaintiff was already handcuffed, 
+removed, and secured in a transport vehicle, and it is legally 
+impossible to find physical evidence of an expired registration sticker 
+inside the passenger compartment;  
+(2) under Collins v. Virginia, 138 S. Ct. 1663, 1670 (2018), a vehicle 
+
+
+=== PAGE 17 ===
+parked within the curtilage of a home may not be searched without a 
+warrant—Plaintiff's vehicle was parked in the private driveway of 507 
+Avenue I;  
+(3) no consent was given. The search was conducted without a warrant, 
+without probable cause, without consent, and without any applicable 
+exception. The immediate initiation of the search after Plaintiff's 
+removal demonstrates the stop was merely a pretext for an unlawful 
+search.  
+F. The Sham Magistration  
+36. This action is stripped of legal authority, however, On May 15, 2023, 
+Defendant Judge Sanders had Plaintiff pulled from holding and brought to 
+the jailhouse picket window for what Plaintiff assumes was a magistration. 
+Due to the small county atmosphere, Defendant Sanders addressed Plaintiff 
+by name and stated, "we're going to get you outta here with time served."  
+16 
+3:25-cv-00253  
+After being in a concrete holding cell with no sleep, Plaintiff's recall is 
+limited to "we're going to get you outta here."  
+37. Defendant Sanders attempted to legitimize the illegal arrest by unilaterally 
+imposing a criminal conviction of "time served" without establishing legal 
+authority. He acted in the clear absence of all jurisdiction: the Probable 
+Cause Affidavit (Exhibit B) contains a blank judicial signature 
+block—Sanders never signed it, proving he never conducted the mandatory 
+neutral review of Gonzales's fatally flawed probable cause narrative. 
+Furthermore, the  
+Register of Actions for Case No. 1-23-TR-0306  
+
+
+=== PAGE 18 ===
+(See Exhibit E, attached hereto and incorporated  
+by reference.) EXHIBIT E: Matagorda County  
+Register of Actions for Case No. 1-23-TR-0306,  
+demonstrating a post-dated conviction entered in  
+absentia on May 16, 2023, a day after Plaintiff’s  
+physical release from custody  
+proves the case was not filed until May 16, 2023—the day after Plaintiff 
+was sentenced and released.  
+38. Defendant Sanders fabricated a "Nolo Contendere" plea on a post-dated 
+docket to cover up the fact that he convicted Plaintiff without a formal 
+charging instrument, without a legal plea, and without trial jurisdiction. 
+Under Tex. Code Crim. Proc. Art. 4.12, the presiding JP 1 judge lacked  
+17 
+3:25-cv-00253  
+territorial jurisdiction over an alleged infraction occurring exclusively within 
+JP 4 precinct. The official docket demonstrates a total absence of a sworn 
+criminal complaint, information, or citation; the court's subject-matter 
+jurisdiction was never invoked. The alleged state court conviction is a legal 
+nullity, void ab initio, and incapable of triggering a bar under Heck v. 
+Humphrey.  
+39. As the Register of Actions demonstrates, no criminal case file, formal 
+charging instrument, or sworn complaint existed anywhere within the county 
+judicial system during Plaintiff's 18-hour confinement. Because no formal 
+
+
+=== PAGE 19 ===
+case file existed during Plaintiff's confinement, the detention constitutes a 
+freestanding, completed Fourth Amendment injury.  
+G. Coordinated Suppression of Evidence  
+40. Following his release, Plaintiff sought the body-worn and dash-camera 
+footage to prove his vehicle was parked on private property, thereby proving 
+the tow was unlawful. On May 28, 2023, Plaintiff submitted an Open 
+Records Request. Defendant Riley had already accessed the requested 
+footage, as evidenced by an email she sent detailing the exact timestamps of 
+four specific videos and calculating a cost of $104.26  
+Email from Riley  
+(See Exhibit F, attached hereto and incorporated by  
+reference.).  
+18 
+3:25-cv-00253  
+Plaintiff explicitly refutes the Magistrate Judge's finding that Defendant 
+Records Clerk Michaela Riley is entitled to qualified immunity. As 
+proven by Exhibit F, an email from Defendant Riley dated June 13, 2023, 
+Defendant Riley actively participated in the intentional suppression of 
+
+
+=== PAGE 20 ===
+exculpatory evidence by manufacturing an unauthorized, arbitrary 
+financial barrier to entry. Defendant Riley demanded a total of $104.26 to 
+release the bodycam and dashcam footage, imposing an unconstitutional 
+fee structure consisting of $10.00 per recording and an additional $1.00 
+per minute of footage captured by the three on-scene deputies and the 
+dashcam unit. Exhibit F conclusively establishes that the Matagorda 
+County Sheriff's Office was in full possession of fully intact, operational 
+digital video files with specific run times (14.11, 14.50, 14.11, and 21.14 
+minutes) a full nine (9) days prior to Plaintiff's June 22, 2023 tow 
+hearing. This objective written record directly falsifies the subsequent 
+statements given to Plaintiff by County personnel citing vague "technical 
+issues" as the reason for the non-production of the video. Defendants 
+Chau, Riley, and Matagorda County weaponized this exorbitant pricing 
+scheme against an indigent citizen to successfully prevent the record 
+from showing that the vehicle was safely parked within private curtilage, 
+thereby perpetrating a fraud upon the state court and violating Plaintiff's 
+clearly established rights under the Fourteenth Amendment Due Process 
+Clause and Brady v. Maryland  
+19 
+3:25-cv-00253  
+41. Plaintiff visited the Matagorda County Attorney’s Office to request the 
+waiver. The front-desk clerk informed Plaintiff that County Attorney 
+Jennifer Chau would personally attend Plaintiff’s upcoming tow hearing. 
+When Plaintiff requested the fee waiver due to indigency, the clerk stated, 
+"That is not something that we do." When Plaintiff asked how an indigent 
+citizen could access vital court evidence without funds, the clerk responded, 
+"That’s not our problem”. To preserve his argument for the tow hearing, 
+Plaintiff borrowed the required funds from an acquaintance and returned to 
+
+
+=== PAGE 21 ===
+the Matagorda County Sheriff’s Office to pay Defendant Riley the $104.26. 
+Defendant Riley stated it would take "a few days" to transfer the files. When 
+Plaintiff objected, noting that he had previously informed her of his intent to 
+pay and that the exact minute runtimes had already been calculated on June 
+13 (Exhibit F), Defendant Riley relented and told Plaintiff to return in a few 
+hours. Upon Plaintiff's return to the Sheriff's Office, Defendant Riley handed 
+the cash back to Plaintiff and suddenly claimed that the footage could not be 
+produced due to unresolvable "technical issues with the recording transfer 
+station." Instead of the video, Riley only provided the Incident Report and 
+the unsigned registration affidavit.Plaintiff attempted to call the Sheriff's 
+Office and the County Attorney multiple times over the subsequent days 
+leading up to the June 22, 2023 hearing to verify if the "technical issues" 
+were resolved. Defendants systematically ignored and refused to return 
+Plaintiff's calls, successfully forcing Plaintiff into the statutory tow hearing 
+completely stripped of the video evidence that would prove Defendant 
+Gonzales’s subsequent perjury  
+42. Because the entire sequence was devoid of legal authority and a tow hearing 
+had been requested by Plaintiff's wife Virginia (the vehicle's legal owner), 
+Defendants had to ensure the objective truth never saw the light of  
+20 
+3:25-cv-00253  
+day. The footage would have proven the physical impossibility of the initial 
+stop, the excessive force, the true location of the vehicle on private property, 
+and the warrantless search.  
+43. To ratify the illegal tow and cover up the unconstitutional stop, Defendants 
+Chau and Judge Finlay convened a sham administrative tow hearing on June 
+22, 2023. Virginia Thompson, the legal owner of the car, expecting the 
+judicial system to operate on truth, requested that Defendant Finlay compel 
+
+
+=== PAGE 22 ===
+the body cam footage before the hearing. Finlay denied the motion. 
+Defendant Gonzales then testified under oath that the vehicle was "in the 
+middle of the road"—a claim directly contradicted by his own "507 Avenue 
+I" location in his paperwork. When Virginia attempted to expose this perjury 
+by questioning whether addressing a vehicle from the middle of the road was 
+authorized by department policy, Defendant Chau immediately objected, 
+stating this was a tow hearing not a policy hearing and Gonzales was not an 
+expert witness. Defendant Finlay sustained the objection, deliberately 
+shielding the deputy's lies. Neither of the other two deputies was present, 
+and no one could explain why.  
+44. Buster Jackson, owner of the towing company, took the stand and admitted 
+he was not the driver who picked up the vehicle and could not establish its 
+location—his driver was "working." With no proof of anything, Defendant 
+Finlay stated he had heard enough, declared the tow a legal officer discretion 
+decision, and denied appeal. Defendant Riley's false "technical issues" 
+claim, Defendant Gonzales's perjured testimony, Defendant Chau's 
+obstruction, Defendant Finlay's denial of the motion to compel and ruling on 
+known perjury, and Jackson's knowingly withholding the only firsthand  
+21 
+3:25-cv-00253  
+witness—viewed through the lens of the "Totality of the Circumstances," 
+these were coordinated, overt acts of a civil conspiracy, not isolated errors.  
+MICHAEL MORTON ACT  
+45. Defendants Riley, Chau, and Matagorda County acted with reckless 
+disregard and deliberate indifference to clearly established state mandates, 
+
+
+=== PAGE 23 ===
+specifically violating the strict disclosure requirements of the Michael 
+Morton Act (Tex. Code Crim. Proc. Ann. art. 39.14). Under Texas law, these 
+Defendants possessed a mandatory, non-discretionary statutory duty to 
+produce all investigative police records and video recordings to Plaintiff as 
+soon as practicable. By calculating the exact minutes of operational video 
+footage (Exhibit E) and subsequently fabricating a pretextual 'technical 
+error' to withhold the files, these Defendants willfully violated their statutory 
+obligations under the Act to execute a total evidentiary blackout, directly 
+causing a severe deprivation of Plaintiff's Fourteenth Amendment Due 
+Process rights  
+HECK ARGUMENT  
+46. Plaintiff explicitly asserts that the doctrine of Heck v. Humphrey, 512 U.S. 
+477 (1994) does not bar this action because the purported 'Conviction' listed 
+on the Matagorda County Register of Actions for Case No. 1-23-TR-0306 
+(Exhibit D) is void ab initio and represents a complete administrative fraud 
+on its face. As proven by the face of the docket record, the file was opened, a 
+fictitious plea of 'Nolo Contendere' was entered, and a 'Judgment' was 
+stamped on May 16, 2023. However, Plaintiff was physically magistrated 
+and permanently released from custody on the afternoon of May 15, 2023.  
+22 
+3:25-cv-00253  
+Plaintiff was never physically present in court on May 16, 2023, never 
+entered a plea of No Contest, never waived his constitutional right to a jury 
+trial, and was never served with a formal complaint or citation. Under 
+long-standing Fifth Circuit and Supreme Court precedent, a criminal 
+judgment manufactured by a state magistrate in absentia through the 
+fabrication of a plea after a citizen has already been released from custody is 
+
+
+=== PAGE 24 ===
+a structural due process violation that deprives the court of all jurisdiction. 
+Because a judgment entered in the complete absence of jurisdiction is a 
+nullity and legally void from inception, it lacks the legal status of a standing 
+conviction and cannot serve as a Heck bar to insulate the Defendants from 
+their constitutional violations.”  
+H. Monell: County-Wide Custom of Record Fabrication  
+47. The vehicle description discrepancies—"2 DOOR SEDAN" in the Sworn 
+Affidavit, "said pickup" in the Incident Report—are not isolated errors. They 
+are the operational manifestation of a county-wide custom of fabricating 
+sworn government records to sustain criminal charges without factual 
+evidence. The custom follows a clear pattern: an officer fabricates the 
+factual basis for the stop in sworn documents, the judicial officer fabricates a 
+conviction on a post-dated docket to retroactively justify the unlawful 
+detention, and the records clerk fabricates "technical issues" to suppress the 
+video evidence that would expose the fabrication.  
+48. This custom is proven by the criminal records of Matagorda County's own 
+final policymakers. On November 18, 2019, Defendant Judge Sanders pled 
+Nolo Contendere to TAMPER WITH GOVERNMENTAL RECORD in 
+Case No. 2019-0108 (Dkt. 38, 38-1, 38-2). On June 25, 2021, Sheriff Frank  
+23 
+3:25-cv-00253  
+"Skipper" Osborne—the Final Policymaker for the Sheriff's Office (not a 
+named Defendant)—pled GUILTY to ATTEMPT TO COMMIT TAMPER 
+WITH GOVERNMENTAL RECORD in Case No. 20-130-283 (Dkt. 38, 
+38-1, 38-2).  
+49. The County's custom is corroborated by cumulative evidence: (a) Sheriff 
+
+
+=== PAGE 25 ===
+Osborne's guilty plea proving the chief law enforcement officer treated 
+sworn records as instruments of convenience;  
+(b) Judge Sanders's no-contest plea proving the judicial officer treated 
+court records as instruments of convenience;  
+(c) Defendant Gonzales's fabrication of vehicle descriptions directly 
+mirroring the conduct to which the Sheriff and Judge pled;  
+(d) the fabricated location—"middle of the road" versus the actual "507 
+Avenue I";  
+(e) the incorrect date of birth (1966 in the Incident Report versus the 
+actual 1968), which would not occur if a DMV query had been run; (f) 
+the retroactive May 16 entry with a fabricated "Nolo Contendere" plea; 
+and  
+(g) the suppression of body cam footage behind false "technical 
+issues"—footage Riley had already accessed and timestamped. The 
+vehicle description discrepancy—sedan v. pickup—is not a clerical 
+error; it is the hallmark of a system that constructs facts after the fact 
+rather than discovering them through lawful investigation.  
+I. Fraudulent Concealment and Equitable Tolling  
+50. This case originated from Plaintiff's independent research on an unrelated 
+legal matter, having this nagging feeling that something just was not right  
+24 
+3:25-cv-00253  
+with his own personal experience, during which he discovered information 
+questioning whether the process by which he was arrested, detained, and 
+convicted had been conducted with the legal authority the County 
+represented. Plaintiff served formal notice to the County on three separate 
+
+
+=== PAGE 26 ===
+occasions; on each, the County chose silence. When government officials 
+with knowledge of potential constitutional violations are put on notice and 
+choose silence, that silence itself constitutes evidence of concealment.  
+51. At the time of initial filings, Plaintiff relied on a partial misunderstanding of 
+certain arrest statutes under the Texas Transportation Code. This Court's 
+Order (Dkt. 44) made clear that the discretionary language of §502.407(b) 
+("may dismiss") does not create a vested liberty interest.  
+52. Plaintiff accepts this ruling and has reframed his due process claims 
+accordingly: the constitutional violation lies not in any claimed entitlement 
+under §502.407(b) but in the denial of jurisdictional process itself, Sanders's 
+exercise of judicial authority over an offense outside his territorial 
+jurisdiction, the fabrication of a plea and conviction without the defendant 
+present, and the imposition of a criminal sentence without any procedural 
+safeguards.  
+53. The factual investigation mandated by this Court has revealed constitutional 
+deprivations deliberately concealed through a coordinated effort to present a 
+false facade of lawful process: and allow this court to be feed a completely 
+false narrative of the legality of this case. The blank probable cause 
+signature block; the post-dated May 16 docket retroactively creating a 
+proceeding that never occurred; the falsified "Nolo Contendere" plea; the 
+contradictory vehicle descriptions; and the absolute absence of  
+25 
+3:25-cv-00253  
+factual evidence that Defendant Gonzales developed reasonable suspicion 
+that led to probable cause. Plaintiff's due diligence is established by the fact 
+that it took this Court's own order compelling factual investigation to pierce 
+
+
+=== PAGE 27 ===
+the Defendants' concealment.  
+CAUSES OF ACTION  
+All actions taken against Plaintiff had zero legal authority  
+COUNT I: Fourth Amendment — Unlawful Seizure (Against Defendant 
+Gonzales)  
+54. Plaintiff incorporates the factual allegations of all preceding 
+Paragraphs. Defendant Gonzales initiated a traffic stop and seized 
+Plaintiff without reasonable suspicion or probable cause at its inception. 
+At the specific moment he activated his emergency lights at 
+approximately 2220, he possessed no objective, articulable facts 
+supporting reasonable suspicion that Plaintiff's registration was 
+expired. The physical impossibility of visual confirmation (Paragraphs 
+23-24), combined with the vehicle description fabrications proving no 
+electronic query was conducted (Paragraph 27), establishes that no 
+verified facts supported the seizure. A seizure must be justified at its 
+inception by specific, articulable facts known to the officer at that 
+moment. Terry v. Ohio, 392 U.S. 1, 21-22 (1968); Whren v. United 
+States, 517 U.S. 806, 813 (1996). 42 U.S.C. § 1983.  
+COUNT II: Fourth Amendment — Unlawful Custodial Arrest (Against 
+Defendant Gonzales)  
+26 
+3:25-cv-00253  
+55. Plaintiff incorporates the factual allegations above. Defendant Gonzales 
+conducted a full custodial arrest for a Subtitle A administrative 
+
+
+=== PAGE 28 ===
+registration infraction. No warrant existed; no exigent circumstances, 
+intoxication, outstanding warrants, flight risk, or refusal to sign a 
+citation were present. No citation was ever offered. While Atwater v. 
+City of Lago Vista, 532 U.S. 318, 354 (2001) permits arrest for a minor 
+offense committed in the officer's presence, that authority is limited by 
+the requirement that the offense was actually committed in the officer's 
+presence. Tex. Code Crim. Proc. Ann. art. 14.01(b). Because Defendant 
+Gonzales could not have observed the expired registration sticker from 
+his position (Paragraphs 23-24), the prerequisite for a warrantless 
+arrest under art. 14.01(b) was not met. The arrest was effected within 
+two minutes (Paragraph 28), with no investigation occurring on scene. 
+See Gerstein v. Pugh, 420 U.S. 103, 113 (1975). 42 U.S.C. § 1983.  
+COUNT III: Fourth Amendment — Unlawful Warrantless Search (Against 
+Defendants Gonzales and Jane Doe Deputy)  
+56. Plaintiff incorporates the factual allegations above. While Plaintiff was 
+handcuffed and secured in the transport vehicle, Defendants Gonzales 
+and Jane Doe Deputy immediately began searching Plaintiff's vehicle 
+with flashlights (Paragraph 35). This warrantless search violated the 
+Fourth Amendment on multiple independent grounds: (1) under 
+Arizona v. Gant, neither Gant exception applies—Plaintiff was already 
+handcuffed, removed, and secured in a transport vehicle, and it is 
+legally impossible to find physical evidence of an expired registration 
+sticker inside the passenger compartment; (2) under Collins v. Virginia,  
+27 
+3:25-cv-00253  
+a vehicle parked within the curtilage of a home may not be searched 
+without a warrant; (3) no consent was given. 42 U.S.C. § 1983.  
+
+
+=== PAGE 29 ===
+COUNT IV: Fourth Amendment — Excessive Force (Against Defendants 
+Gonzales and Wamget)  
+57. Plaintiff incorporates the factual allegations above. Defendants Gonzales 
+and Wamget used objectively unreasonable and excessive physical force. 
+Defendant Gonzales yanked Plaintiff from his vehicle by opening the door 
+from the outside (the interior handle was broken—the only means of 
+opening the door) without warning, before Plaintiff could fully lower his 
+window. Defendants then pushed Plaintiff against the convertible top despite 
+Plaintiff's verbal warnings of severe pain from his deteriorating shoulders, 
+hips, and knees. Under Graham v. Connor, 490 U.S. 386, 396 (1989), the 
+reasonableness of force balances:  
+(1) severity of the crime—expired registration is a fine-only Class C 
+misdemeanor;  
+(2) whether the suspect poses an immediate threat—Plaintiff was 
+unarmed, compliant, and seated;  
+(3) whether the suspect is actively resisting—Plaintiff was not resisting but 
+was explicitly warning officers of his physical limitations. All three 
+Graham factors weigh in Plaintiff's favor. 42 U.S.C. § 1983.  
+COUNT V: Fourteenth Amendment Due Process — Jurisdictional 
+Deprivation (Against Defendant Sanders)  
+58. Plaintiff incorporates the factual allegations above. Defendant Sanders, 
+acting in the clear absence of all jurisdiction, unilaterally imposed a criminal 
+conviction without a formal charging instrument, without a plea, and  
+28 
+3:25-cv-00253  
+without an open court proceeding. The offense occurred within JP 4, not JP 
+
+
+=== PAGE 30 ===
+1. Tex. Code Crim. Proc. Ann. art. 4.11; Tex. Gov't Code Ann. § 27.031. No 
+legal charging instrument existed to confer subject-matter jurisdiction upon 
+the JP 1 court for a JP 4 offense.  
+59. This sham magistration deprived Plaintiff of liberty and due process in 
+multiple independent ways:  
+(a) Sanders never signed the probable cause affidavit, proving he never 
+made the required judicial determination of probable cause as 
+mandated by County of Riverside v. McLaughlin, 500 U.S. 44, 56-57 
+(1991), and Gerstein v. Pugh, 420 U.S. 103, 114-15 (1975);  
+(b) Sanders imposed a criminal conviction without a hearing, plea, or 
+finding of guilt—a purely arbitrary deprivation of liberty, violating 
+Zinermon v. Burch, 494 U.S. 113, 125-26 (1990);  
+(c) Sanders denied jurisdictional process by conducting magistration in 
+JP 1 for a JP 4 offense; and  
+(d) Sanders's fabrication of a "Nolo Contendere" plea on a post-dated 
+May 16 docket was a post hoc rationalization to retroactively justify 
+the unlawful detention. 42 U.S.C. § 1983.  
+COUNT VI: Fourteenth Amendment Due Process — Suppression of 
+Exculpatory Evidence (Against Defendants Chau, Riley, and Judge Finlay)  
+57. Plaintiff incorporates the factual allegations above. Defendants Chau and 
+Riley intentionally suppressed material, exculpatory video evidence that 
+would have exposed Defendant Gonzales's perjury and the lack of probable 
+cause. As mandated by Dkt. 44, Plaintiff alleges the following specific facts 
+the suppressed footage would show:  
+29 
+3:25-cv-00253  
+
+
+=== PAGE 31 ===
+(1) Gonzales's body camera would show Plaintiff's vehicle parked 
+completely off the roadway in a private driveway, NOT "in the middle 
+of the road" as Gonzales testified under oath;  
+(2) the body camera would show the brief 3-to-4-second visual proximity 
+at the 4-way stop, insufficient to observe the registration sticker;  
+(3) the dash camera would show Gonzales never ran Plaintiff's license 
+plate before activating emergency lights;  
+(4) the body camera would show Plaintiff's non-resistant demeanor, 
+contradicting the "verbally aggressive" claim; and  
+(5) all body cameras would show the warrantless search after Plaintiff's 
+removal and any conversation between deputies revealing the true 
+nature of the stop.  
+Defendant Chau also violated the Michael Morton Act, Tex. Code Crim. Proc. 
+Ann. art. 39.14. Defendant Finlay ratified the suppression by denying the motion 
+to compel and ruling on known perjured testimony. 42 U.S.C. § 1983.  
+COUNT VII: Fourth and Fourteenth Amendments — Malicious 
+Prosecution (Against Defendants Gonzales, Sanders, and Chau)  
+58. Plaintiff incorporates the factual allegations above. Defendants initiated and 
+maintained a fabricated criminal proceeding without probable cause. 
+Defendant Sanders fabricated a "Nolo Contendere" plea on a post-dated 
+May 16 docket to retroactively justify the unlawful detention. Under 
+Castellano v. Fragozo, 352 F.3d 939, 945, 952 (5th Cir. 2003) (en banc), a 
+malicious prosecution claim under § 1983 must be anchored to a specific  
+30 
+3:25-cv-00253  
+
+
+=== PAGE 32 ===
+constitutional right—here, the Fourth Amendment right to be free from 
+unlawful seizure. The elements are:  
+(1) commencement of a criminal prosecution;  
+(2) termination in plaintiff's favor;  
+(3) lack of probable cause;  
+(4) malice; and  
+(5) deprivation of liberty consistent with a Fourth Amendment seizure. 
+The fabricated conviction on the post-dated docket—a proceeding in which 
+Plaintiff was never present—is void ab initio and cannot constitute a legitimate 
+adverse termination. The 18-hour detention satisfies the seizure element. The 
+absence of probable cause is established by the blank magistrate signature 
+(Paragraph 32) and the fabricated vehicle descriptions (Paragraphs 27, 31). 42 
+U.S.C. § 1983. This does not allow for Heck to be introduced as set forth in 
+Paragraph 46.  
+COUNT VIII: Civil Conspiracy to Violate Constitutional Rights (Against 
+All Defendants)  
+59. Plaintiff incorporates the factual allegations above. Defendants reached a 
+meeting of the minds and acted jointly and in concert to deprive Plaintiff of 
+his constitutional rights. The overt acts in furtherance of this conspiracy 
+included:  
+(a) Defendant Gonzales's unlawful arrest without probable cause 
+(Paragraphs 22-24, 34);  
+(b) Defendant Gonzales's fabrication of the vehicle description in sworn 
+documents (Paragraphs 27, 31-32);  
+
+
+=== PAGE 33 ===
+31 
+3:25-cv-00253  
+(c) Defendant Sanders's fabrication of a "Nolo Contendere" plea on a 
+post-dated docket (Paragraph 38);  
+(d) Defendant Riley's suppression of body-camera and dash-camera 
+footage behind false "technical issues" (Paragraphs 40-41);  
+(e) Defendant Chau's voluntary participation in the tow hearing to shield 
+Defendant Gonzales's perjury (Paragraph 43); and  
+(f) Defendant Gonzales's perjured testimony that the vehicle was "in the 
+middle of the road" (Paragraph 43). ; and  
+(g) Defendant Gonzales's threat to arrest witness who was the property 
+owner of 507 Ave I, for "interference" when she informed him that 
+Plaintiff's vehicle was parked on her private property, demonstrating a 
+deliberate effort to eliminate a witness who could contradict the 
+fabricated narrative and establishing the malice motivating the entire 
+chain of events. Under Griffin v. Breckenridge, 403 U.S. 88, 102-03 
+(1971), and 42 U.S.C. § 1985(3), a civil conspiracy requires:  
+(1) a conspiracy;  
+(2) for the purpose of depriving a person of equal protection;  
+(3) an overt act in furtherance; and  
+(4) injury.  
+See also Hilliard v. Ferguson, 30 F.3d 649, 653 (5th Cir. 1994). 
+These actions also constitute a conspiracy under 42 U.S.C. §§ 
+1983 and 1986, predicated on 18 U.S.C. §§ 241 and 242.  
+COUNT IX: Municipal Liability (Against Defendant Matagorda County)  
+60. Plaintiff incorporates the factual allegations above. Matagorda County is 
+
+
+=== PAGE 34 ===
+liable because the constitutional violations were caused by its official  
+32 
+3:25-cv-00253  
+custom of fabricating government records (Paragraphs 45-47). Under 
+Monell v. Department of Social Services, 436 U.S. 658, 690-91 (1978), a 
+municipality is liable when its official policy or custom causes the violation. 
+This custom is established by:  
+Judicial Policy Maker:  
+On November 18, 2019, Defendant Judge Jason Sanders (the elected JP 1 
+judicial policymaker) pled Nolo Contendere to the criminal offense of 
+TAMPER WITH GOVERNMENTAL RECORD in Case No. 2019-0108 
+(Dkt. 38, 38-1, 38-2)  
+Law Enforcement Policy Maker:  
+On June 25, 2021, Sheriff Frank "Skipper" Osborne—the Final 
+Policymaker for the Matagorda County Sheriff's Office—pled GUILTY 
+to ATTEMPT TO COMMIT TAMPER WITH GOVERNMENTAL 
+RECORD in Case No. 20-130-283 (Dkt. 38, 38-1, 38-2)  
+Defendant Gonzales's fabrication directly mirroring that conduct, proving 
+subordinate officers operate under the same custom.  
+The fabricated May 16 docket proves the custom extends through the judiciary; 
+Riley's false "technical issues" proves it extends through administrative staff; the 
+blank magistrate signature proves it extends to the magistration process itself. 
+Under Pembaur v. City of Cincinnati, 475 U.S. 469, 480-81 (1986), the final 
+policymakers' own criminal convictions for the same conduct establish the 
+custom was not merely tolerated but was the chosen course of action at the 
+highest levels of county government.  
+SUMMARY OF LIABILITY  
+
+
+=== PAGE 35 ===
+33 
+3:25-cv-00253  
+61. Plaintiff's admission that the registration was ultimately expired is irrelevant 
+to the Fourth Amendment analysis. The Constitution demands that the 
+arresting officer possess objective knowledge of the infraction at the 
+inception of the seizure. An officer cannot have probable cause based on a 
+fact he did not perceive. Whren, 517 U.S. at 813. Because this was a 
+warrantless stop, the defense bears the initial burden of production to 
+articulate the specific, observable facts that led to it. By dismissing the claim 
+based solely on Plaintiff's downstream admission, the defense is relieved of 
+its burden to provide an affidavit, police report, dispatch log, or video 
+proving the officer actually ran the plate or observed the tag prior to 
+activating his emergency lights.  
+62. Even if this Court rules the traffic stop was somehow valid, the 18-hour 
+administrative detention for a fine-only offense violates the Fourteenth 
+Amendment. Under Jauch v. Choctaw County, 874 F.3d 425 (5th Cir. 2017), 
+and Trezevant v. City of Tampa, 741 F.2d 336 (11th Cir. 1984), stripping 
+Plaintiff of liberty for 18 hours for administrative convenience on a fine-only 
+offense constitutes an independent due process violation.  
+63. The unlawfulness of the initial stop infects every subsequent action. An 
+officer cannot rely on facts discovered after the fact to justify a stop that was 
+illegal at its inception.  
+64. The courts therefore can not rely on this same assumption and call it 
+creative or harmless.  
+65. Since the expired registration was NOT visible to the officer when he 
+initiated the stop and no electronic verification was conducted, the stop was 
+
+
+=== PAGE 36 ===
+illegal and unconstitutional from its inception and no subsequent discovery 
+can cure that violation. The false narrative survived only because  
+34 
+3:25-cv-00253  
+Defendants deliberately withheld the body-camera and dash-camera footage 
+that would have contradicted it and fabricated government records to present 
+a facade of lawful process.  
+Defendants operated under a widespread, persistent custom and practice of 
+'blind reliance,' wherein subsequent officers and jail officials accepted and 
+maintained the unlawful custody of citizens based entirely on the assumption 
+that the arresting officer possessed legal justification, deliberately failing to 
+conduct any independent verification or review of probable cause  
+DAMAGES  
+64. As a direct and proximate result of Defendants' unconstitutional violation of 
+constitutionally protected established rights to be actions and civil 
+conspiracy, Plaintiff has suffered severe and ongoing damages:  
+(a) Loss of Liberty: 18 hours of unconstitutional custodial detention; (b) 
+Physical Pain and Suffering: Exacerbation of severe, known physical 
+disabilities (deteriorating shoulders, hips, and knees) due to objectively 
+unreasonable excessive force;  
+(c) Emotional Distress and Mental Anguish: Resulting from the physical 
+assault, unlawful confinement, and malicious abuse of the judicial 
+process;  
+(d) Financial Harm: The extortion of $500.00 in cash for the unlawful 
+tow, the forced sale of a secondary vehicle at a loss to raise ransom 
+funds, and the accumulation of over $900.00 in storage fees without 
+
+
+=== PAGE 37 ===
+due process;  
+35 
+3:25-cv-00253  
+(e) Reputational Damage: The permanent stigma of a fabricated criminal 
+record ("time served" conviction) for an unadjudicated administrative 
+infraction.  
+65. In his Original Complaint, Plaintiff pleaded a compensatory damages 
+baseline relying on Trezevant v. City of Tampa, 741 F.2d 336 (11th Cir. 
+1984), which upheld a $25,000 jury award for a 23-minute unlawful 
+detention. Adjusted for inflation to May 2023, the compensable value of 
+Plaintiff's 18-hour unlawful detention exceeds $3.2 million.  
+PRAYER FOR RELIEF  
+66. WHEREFORE, Plaintiff respectfully requests that this Honorable 
+Court enter judgment in his favor and grant the following relief: (a) 
+Declaratory Relief: A declaration that Defendants' actions violated 
+Plaintiff's rights under the Fourth, Sixth, and Fourteenth Amendments;  
+(b) Injunctive Relief: An order directing Matagorda County to 
+expunge and seal the fabricated May 16, 2023 criminal conviction 
+and all associated records;  
+(c) Compensatory Damages in an amount to be determined by a jury 
+at trial;  
+(d) Punitive Damages against Defendants in their individual 
+capacities, to punish their willful, malicious, and reckless 
+disregard for Plaintiff's constitutional rights and to deter future 
+
+
+=== PAGE 38 ===
+misconduct;  
+(e) Costs and Fees pursuant to 42 U.S.C. § 1988, should counsel be 
+retained; and  
+36 
+3:25-cv-00253  
+(f) Such other and further relief as the Court deems just and proper.  
+IMMUNITY DEFENSES NOT APPLICABLE  
+67. No Defendant is entitled to absolute or qualified immunity, as their 
+conduct violated clearly established statutory and constitutional rights 
+of which any reasonable official would have known:  
+(a) No Absolute Judicial Immunity: Defendant Sanders acted in the 
+"clear absence of all jurisdiction" by imposing a criminal sentence 
+without a formal charging instrument, without a plea, without a signed 
+probable cause determination, and by fabricating a post-dated court 
+docket. Stump v. Sparkman, 435 U.S. 349, 356-57 (1978). His prior 
+criminal conviction for Tampering with Governmental Records 
+demonstrates this was not a judicial error but a pattern of conduct 
+outside lawful judicial function.  
+(b) No Absolute Prosecutorial Immunity: Defendant Chau acted in a 
+civil/administrative capacity at the tow hearing, not as a criminal 
+prosecutor, and actively participated in a conspiracy to suppress 
+evidence. Burns v. Reed, 500 U.S. 478, 486-87 (1991); Buckley v. 
+Fitzsimmons, 509 U.S. 259, 273 (1993)\  
+(c) No Qualified Immunity: Defendants Gonzales, Wamget, Jane Doe, 
+and Riley violated clearly established Fourth and Fourteenth 
+Amendment rights. A reasonable officer would know that arresting 
+
+
+=== PAGE 39 ===
+without probable cause, using excessive force against a non-resisting 
+disabled person, and obstructing access to exculpatory evidence 
+violate clearly established rights. Mote v. Walthall, 902 F.3d 500, 505 
+(5th Cir. 2018); Pearson v. Callahan, 555 U.S. 223, 231 (2009).  
+37 
+3:25-cv-00253  
+Defendant Chau's violation of the Michael Morton Act renders her 
+conduct objectively unreasonable.  
+(d) No Witness Immunity: Defendant Gonzales's perjury was an overt 
+act in furtherance of a broader civil conspiracy to fabricate a false 
+narrative and suppress evidence. Witness immunity does not extend to 
+conspiratorial acts. Dennis v. Sparks, 449 U.S. 24, 28-29 (1980).  
+(e) No Immunity for Buster Jackson: Jackson acted under color of 
+state law when taking actions at the direction of law enforcement, and 
+denied Plaintiff a truthful account of the vehicle's location by 
+knowingly allowing his driver—the only person with firsthand 
+knowledge—to be absent, thereby assisting the County in concealing 
+critical information.  
+JURY DEMAND  
+68. Plaintiff respectfully demands a trial by jury on all issues so triable, 
+pursuant to Rule 38(b) of the Federal Rules of Civil Procedure and the 
+Seventh Amendment.  
+VERIFICATION  
+I, Donald Lynn Thompson, Jr., declare under penalty of perjury under the laws of 
+the United States of America that the foregoing is true and correct to the best of 
+
+
+=== PAGE 40 ===
+my knowledge, information, and belief.  
+Respectfully submitted,  
+/s/ Donald Lynn Thompson Jr.  
+38 
+3:25-cv-00253  
+Donald Lynn Thompson Jr.  
+194 8th Street West  
+Markham, Texas 77456  
+Thompson-v-Matagorda@promto.me  
+Backup: ginnyleethompson430@gmail.com  
+donniethompson430@gmail.com  
+CERTIFICATE OF SERVICE  
+I hereby certify that on May __, 2026, a true and correct copy of the foregoing 
+Plaintiff's FIRST AMENDED COMPLAINT is available for counsel for 
+Defendants, Matagorda County et al., via the PACER electronic filing access 
+portal, in accordance with the Federal Rules of Civil Procedure, for the following 
+named attorneys:  
+Ben Stephens and Kate David  
+HUSCH BLACKWELL LLP  
+600 Travis Street, Suite 2350  
+Houston, Texas 77002  
+Simultaneously a true and correct copy has been sent electronically by email to 
+Defendant Buster Jackson d/b/a Jackson Towing at bjackson99@sbcglobal.net 
+
+
+=== PAGE 41 ===
+and Jackson Towing, 2100 Golden Ave, Bay City, TX 77414.  
+Respectfully,  
+/s/ Donald Lynn Thompson Jr.  
+Donald Lynn Thompson Jr.  
+39 
+3:25-cv-00253  
+194 8th Street West, Markham, Texas 77456  
+
+
+=== PAGE 42 ===
+40 

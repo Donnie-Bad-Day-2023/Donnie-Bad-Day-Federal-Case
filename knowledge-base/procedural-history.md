@@ -4,9 +4,12 @@
 
 | Date | Dkt | Event | Outcome |
 |------|-----|-------|---------|
-| 07/07/2025 | 1 | Original Complaint filed under case 3:25-mc-00017 (miscellaneous; later transferred to 3:25-cv-00253) | Filed |
+| 07/07/2025 | 1 | Original Complaint filed (under 3:25-mc-00017; later transferred to 3:25-cv-00253) | Filed |
+| 01/15/2026 | 26 | Jackson Towing Answer | Filed |
 | 01/29/2026 | 29 | Motion to Dismiss — Matagorda County Defendants (Ben Stephens / Husch Blackwell) | Pending |
 | ~Feb 2026 | 33 | Opposition to Motion to Dismiss — Plaintiff; 58-page brief; key argument: § 502.407(b) remedial provision and 20-day correction window | Filed |
+| 03/04/2026 | 38 | Supplemental Opposition with Exhibits A, B (Sheriff Osborne + Judge Sanders criminal records) | Filed |
+| 03/31/2026 | 3 | Rule 27 Motion — DENIED | DENIED |
 | 04/17/2026 | 41 | Order Referring Case — Judge Brown refers all pretrial matters to Magistrate Andrew M. Edison | Entered |
 | 04/27/2026 | 42 | Magistrate R&R — Recommends: (1) MTD granted; (2) sua sponte dismissal of Jackson Towing; (3) 14 days leave to amend | Filed |
 | 05/05/2026 | 43 | Plaintiff's Objections to R&R — 7 objections; core argument: Magistrate adopted Defendants' framework verbatim, failed 12(b)(6) standard | Filed |
@@ -19,9 +22,14 @@
 ```
 07/07/2025  Original Complaint filed (3:25-mc-00017)
            ↓
+01/15/2026  Jackson Towing Answer (Dkt 26)
 01/29/2026  MTD filed by Matagorda County Defendants
            ↓
 ~Feb 2026   Plaintiff's Opposition (Dkt 33)
+           ↓
+03/04/2026   Supplemental Opposition + Exhibits A,B (Dkt 38)
+            — Sheriff Osborne (2019) + Judge Sanders (2021) criminal records
+03/31/2026  Rule 27 Motion DENIED
            ↓
 04/27/2026  Magistrate Edison R&R → recommends dismissal
            ↓
@@ -33,6 +41,10 @@
             • 2-week deadline to amend: 05/26/2026
            ↓
 05/25/2026  First Amended Complaint filed (Dkt 45) ✓ ON TIME
+            9 counts: I-Unlawful Seizure, II-Unlawful Arrest,
+            III-Unlawful Search, IV-Excessive Force,
+            V-Deprivation of Due Process, VI-Brady/Evidence Suppression,
+            VII-Malicious Prosecution, VIII-Civil Conspiracy, IX-Monell
            ↓
 05/28/2026  Dkt 48 More Definite Statement filed by Finlay
             • ACTIVE — response in progress
@@ -50,18 +62,42 @@
 7. **Rooker-Feldman doctrine** — bars federal review of state court tow hearing judgment
 8. **Jackson Towing: sua sponte dismissal** — insufficient factual allegations to state a claim
 
-## What the Amended Complaint Must Address (Lesson from Dkt 44)
-Plaintiff must allege **specific facts** (not legal conclusions) that:
-- Show probable cause did NOT exist at the inception of the stop
-- Show what the bodycam/dashcam footage would actually reveal
-- Identify the specific custom/policy/practice causing Monell liability
-- Give plausible inference of wrongdoing for each defendant
+## First Amended Complaint — Dkt 45 (05/25/2026) — 9 Counts
+
+| Count | Claim | Defendant(s) | Key Theory |
+|-------|-------|-------------|------------|
+| I | Fourth Amendment — Unlawful Seizure | Gonzales | No reasonable suspicion at inception; physical impossibility of observing sticker at night, 90° angle |
+| II | Fourth Amendment — Unlawful Custodial Arrest | Gonzales | No probable cause; no warrant; no Art. 14.01(b) exception; 2-minute arrest timeline proves no investigation |
+| III | Fourth Amendment — Unlawful Warrantless Search | Gonzales, Jane Doe Deputy | Gant exception doesn't apply (arrestee secured in transport vehicle); Collins v. Virginia (vehicle in private curtilage); no consent |
+| IV | Fourth Amendment — Excessive Force | Gonzales, Wamget | Graham v. Connor: force grossly disproportionate to offense severity; physical disabilities ignored |
+| V | Fourteenth Amendment — Due Process / Jurisdictional Deprivation | Sanders | Clear absence of jurisdiction: JP 1 judge sentencing for JP 4 offense; no charging instrument; fabricated "Nolo Contendere" plea on post-dated docket |
+| VI | Fourteenth Amendment — Brady / Evidence Suppression | Chau, Riley, Judge Finlay | Bodycam/dashcam footage withheld; specific facts footage would show (vehicle location, no plate query, non-resistant demeanor, warrantless search) |
+| VII | Fourth/Fourteenth Amendments — Malicious Prosecution | Gonzales, Sanders, Chau | Castellano v. Fragozo; fabricated May 16 conviction; void ab initio; no probable cause |
+| VIII | Civil Conspiracy (§ 1985(3), § 1986) | All Defendants | Meeting of the minds; overt acts: fabrication of records, suppression of footage, perjured testimony, threat to witness Tina Phillips |
+| IX | Monell Municipal Liability | Matagorda County | County-wide custom of fabricating government records; Sheriff Osborne + Judge Sanders criminal convictions for Tampering with Governmental Records (Dkt 38, 38-1, 38-2) |
+
+## Key Exhibits Referenced in FAC
+- **Exhibit A** — Incident Report #2023-0477
+- **Exhibit B** — Sworn Expired Registration Affidavit (blank judicial signature block)
+- **Exhibit C** — Jail Booking Sheet (19-minute timeline)
+- **Exhibit D** — Tow Inventory (unsigned, not inventoried, wrong location)
+- **Exhibit E** — Register of Actions, Case No. 1-23-TR-0306 (post-dated May 16 conviction)
+- **Exhibit F** — Riley email with exact video timestamps and cost calculation ($104.26)
+
+## What the FAC Cured (vs. Original Complaint)
+- **Specific facts** instead of legal conclusions for each count
+- **Vehicle description discrepancies** documented: "2-door sedan" (impossible — no such model), "said pickup" (impossible — Chrysler never made a Sebring pickup)
+- **Blank probable cause signature block** — no magistrate ever reviewed
+- **Specific facts bodycam footage would show** (per Dkt 44's requirement)
+- **Monell theory backed by criminal records of final policymakers**: Sheriff Osborne (2021) + Judge Sanders (2019) — both convicted of Tampering with Governmental Records
+- **Michael Morton Act** claim (Tex. Code Crim. Proc. Ann. art. 39.14) against Chau
+- **Heck argument**: May 16 conviction is void ab initio — entered in absentia after plaintiff already released
 
 ## Current Status
-- Dkt 45 (FAC) filed — 9 counts
+- Dkt 45 (FAC) filed — 9 counts, 42 pages, specific facts for every claim
 - Dkt 48 (More Definite Statement) from Finlay — active, needs response
 - Jackson Towing: dismissed but answered (Dkt 26) — procedural status with court unclear
-- Doe deputies: never served
+- Doe deputies: never served — Jane Doe deputy (female on scene) now identified but not served
 
 ## Tags
 `#procedural-history` `#live`
