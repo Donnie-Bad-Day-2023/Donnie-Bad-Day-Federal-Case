@@ -30,12 +30,22 @@ A complete § 1983 civil rights litigation toolkit:
 | Defendant Counsel | Benjamin Riley Stephens, Husch Blackwell LLP |
 | Statute | 42 U.S.C. § 1983 |
 | Claims | Unlawful arrest, fabricated prosecution, Brady violations, Monell liability |
-| Current Key Docket | Dkt 45 (First Amended Complaint, filed 05/25/2026); Dkt 48 (More Definite Statement, filed 05/28/2026, active development) |
+| Current Key Docket | Dkt 45 (First Amended Complaint, filed 05/25/2026, 9 counts); Dkt 48 (Plaintiff's Notice of Total Substitution, filed 05/28/2026) |
 | Jackson Towing Answer | Dkt 26 (filed 01/15/2026) |
 | Corrected Complaint Date | 08/08/2025 |
 | Rule 27 Motion | Dkt 3, denied 03/31/2026 |
 | Supplemental Opposition | Dkt 38 (filed 03/04/2026) with exhibits |
 | Unexecuted Service | Doe deputies — never served |
+
+## Core Legal Theories (Fixed — Do Not Alter)
+
+1. **Observation ≠ Verification (Fourth Amendment — the threshold violation):** Deputy's 22:20 observation of the vehicle gives a reason to initiate a stop. Texas law requires VERIFICATION of the alleged violation before probable cause exists. No verification occurred before 22:22 custody — no plate check, no registration status check, no confirmation the sticker was still expired. Custody was taken BEFORE any verification occurred. This defeats probable cause for both the stop and the arrest.
+
+2. **Expired Registration ≠ Probable Cause:** The Sworn Affidavit (Exhibit B) states registration expired January 2022. The stop was May 14, 2023 — 15 months later. The vehicle could have been registered in the interim. No follow-up inquiry was made. This is the probable cause document cited to justify the stop.
+
+3. **Class C Misdemeanor → Citation Required, Not Custodial Arrest:** 502.407 TCCP is Subtitle A. § 543.003 applies to Subtitle C only. Article 14.06(b) C.C.P. allows citation and release for Class C. No citation was offered. No exceptions to custodial arrest were present.
+
+4. **Fruit of the Poisonous Tree:** If the stop was unlawful (no probable cause), everything that followed is tainted — the search, the arrest, the tow, the booking sheet, the post-dated conviction.
 
 ## Operating Principles
 
