@@ -30,6 +30,12 @@ All case documents. Documents are shared via Google Drive links only — no loca
 |----------|----------------|-------------|-------------------|
 | (pending) | 38 | Supplemental Opposition exhibits | (pending) |
 
+## Source Documents (Plaintiff's Account)
+
+| Document | Date | Google Drive Link |
+|----------|------|-------------------|
+| Case Facts (Plaintiff's Full Account) | 2025 | https://docs.google.com/document/d/1o2mJsaxEYqDfLz4UUER9sR_0h3zkpDR0ynSYSzoc21Q/edit?usp=sharing |
+
 ## Drafts (Working Documents)
 
 | Document | Status | Notes |
