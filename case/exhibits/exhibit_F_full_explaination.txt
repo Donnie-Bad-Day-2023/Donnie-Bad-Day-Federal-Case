@@ -1,0 +1,141 @@
+Exhibit F — Riley Email: Footage Suppression
+
+Evidence
+
+Case: Donald Lynn Thompson Jr. v. Matagorda County et al.
+
+Case No.: 3:25-cv-00253 — USDC S.D. Tex., Galveston Division
+
+Document Summary
+
+Email from Defendant Michaela Riley (Records/ID Clerk, Matagorda County Sheriff's Office) dated June 15,
+
+2023, establishing the specific timestamps of body and dash camera footage that was intact nine days before
+
+the tow hearing — and subsequently suppressed.
+
+Key Evidentiary Facts
+
+The footage existed and was intact: Riley's email confirms footage existed for 3 officers and 1 dashcam as of
+
+June 15, 2023 — nine days before the June 22, 2023 tow hearing. She provided specific minute counts for
+
+each recording.
+
+The footage timestamps:
+
+Body cam footage per video: 14:11 + 14:50 + 14:11 + 21:14 minutes
+
+Total minutes: 64.26 minutes across 4 recordings
+
+Cost quoted: $104.26 ($10 per recording + $1 per minute)
+
+"Technical issues" was false: Riley returned Plaintiff's $105.00 payment on June 20, 2023 — two days before
+
+the hearing — claiming "technical issues" with the system prevented her from producing the recordings. But
+
+she had already confirmed the footage existed and provided exact minute counts on June 15. You cannot
+
+quote exact minute counts for footage that has "technical issues." The footage was suppressed, not
+
+unavailable.
+
+The financial barrier: Riley's demand for $104.26 was an unauthorized, arbitrary financial barrier. Plaintiff's
+
+IFP (in forma pauperis) status had already been granted by JP4 Judge Finlay. The fee demand was not waived
+
+despite documented indigency. Email Content
+
+From: Michaela Riley <records@co.matagorda.tx.us>
+
+To: donniethompson430@gmail.com
+
+BCC: Mike Glaspie <MGlaspie@co.matagorda.tx.us>
+
+Date: 06/15/2023 08:32 AM
+
+Subject: RECORDS REQUEST
+
+Good Morning,
+
+*Second Notification* (First Notification was sent on June 7th)
+
+In reference to your records request I have no problem not redacting your information out of the reports but
+
+they will need to be picked up in person to verify your identity.
+
+Additionally there is a charge to receive body cam footage:
+
+It is $10 dollars for each recording and a 1 dollar for every minute
+
+3 officers and one dashcam video = $40
+
+Minutes per video (14.11 + 14.50 + 14.11 + 21.14 = 64.26)
+
+Bringing your total to 104.26 for the body cam recordings. I will need to receive payment before I can release
+
+the videos to you.
+
+If you have any questions please contact me directly.
+
+Thank you,
+
+Michaela Riley
+
+Records/ID Clerk
+
+Matagorda County Sheriff's Office
+
+CONFIDENTIALITY NOTICE: This email message, including any attachments, is for the sole use of the intended
+
+recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure
+
+or distribution is prohibited. If you are not the intended recipient, please contact the sender by return email
+
+and destroy all copies of the original message.
+
+Plaintiff's Reply — June 16, 2023
+
+From: Donnie Thompson <donniethompson430@gmail.com>
+
+To: records@co.matagorda.tx.us
+
+Date: Fri, Jun 16, 2023 at 5:15 PM
+
+"ok thank you, I will be in Monday to make arrangements to pick up the information." What Happened Next
+
+On approximately June 20, 2023 — two days before the hearing — Riley returned Plaintiff's $105.00 payment
+
+and stated the recordings could not be produced due to "technical issues." No explanation was provided for
+
+why specific minute counts had been quoted five days earlier if the system was experiencing technical issues.
+
+The footage was not produced before or during the June 22, 2023 tow hearing. Judge Finlay denied Virginia
+
+Thompson's oral motion to compel production and continue the hearing.
+
+Strategic Significance
+
+This email is the factual anchor for Count VI (Suppression of Exculpatory Evidence) against Defendant Riley. It
+
+proves:
+
+1. The footage existed as of June 15, 2023 with exact minute counts.
+
+2. The footage was not produced before the June 22 tow hearing.
+
+3. The "technical issues" claim was false — you cannot quote exact footage timestamps for recordings that
+
+are technically inaccessible.
+
+4. The financial barrier was unauthorized given Plaintiff's IFP status.
+
+The five specific things the footage would have shown (per ¶57 of the First Amended Complaint): vehicle
+
+location in Tina Phillips's driveway; proximity duration between vehicles; absence of any plate query; Plaintiff's
+
+non-resistant demeanor; and the warrantless search of the secured vehicle.
+
+Controlling authority: Brady v. Maryland, 373 U.S. 83 (1963); Tex. Code Crim. Proc. Ann. art. 39.14 (Michael
+
+Morton Act); Burns v. Reed, 500 U.S. 478 (1991) (administrative role = no prosecutorial immunity).
