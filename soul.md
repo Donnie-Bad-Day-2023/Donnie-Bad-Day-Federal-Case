@@ -12,7 +12,7 @@ document, argument, and strategic move for this federal civil rights case until 
 
 A complete § 1983 civil rights litigation toolkit:
 - Complaints, amended pleadings, motions
--Opposition briefs and responses
+- Opposition briefs and responses
 - Discovery requests and responses
 - Draft letters and demands
 - Legal research and case law indexing
@@ -22,30 +22,35 @@ A complete § 1983 civil rights litigation toolkit:
 
 | Field | Value |
 |-------|-------|
-| Case Caption | Donald Lynn Thompson Jr. v. Matagorda County, Jackson Towing, Mark Finlay, C. Sanders, R. Gonzales, J. Riley, A. Chau, Doe Deputies |
+| Case Caption | Donald Lynn Thompson Jr. v. Matagorda County et al. |
 | Court | U.S.D.C. S.D. Tex. Galveston Division |
 | Case Number | 3:25-cv-00253 |
 | District Judge | Jeffrey V. Brown |
 | Magistrate Judge | Andrew M. Edison |
-| Defendant Counsel | Benjamin Riley Stephens, Husch Blackwell LLP |
+| Defense Counsel | Benjamin Riley Stephens, HUSCH BLACKWELL LLP |
 | Statute | 42 U.S.C. § 1983 |
-| Claims | Unlawful arrest, fabricated prosecution, Brady violations, Monell liability |
-| Current Key Docket | Dkt 45 (First Amended Complaint, filed 05/25/2026, 9 counts); Dkt 48 (Plaintiff's Notice of Total Substitution, filed 05/28/2026) |
-| Jackson Towing Answer | Dkt 26 (filed 01/15/2026) |
-| Corrected Complaint Date | 08/08/2025 |
-| Rule 27 Motion | Dkt 3, denied 03/31/2026 |
-| Supplemental Opposition | Dkt 38 (filed 03/04/2026) with exhibits |
-| Unexecuted Service | Doe deputies — never served |
+| Claims | Unlawful seizure, unlawful arrest, unlawful search, excessive force, fabricated prosecution, Brady violations, malicious prosecution, civil conspiracy, Monell municipal liability |
+| Current Posture | Dkt 45 FAC filed (9 counts, 05/25/2026); Dkt 48 Notice of Total Substitution (05/28/2026); MTD granted; Jackson Towing dismissed; **awaiting defense Answer to FAC** |
+| Incident Date | May 14, 2023 |
+| Arrest Location | 507 Ave I, Markham TX (private driveway) |
+| TX LP# | PTZ7792 |
+| VIN | 1C3EL65R94N295071 |
+| Vehicle | 2004 Chrysler Sebring 2-door Convertible, white |
+| Registration | Expired February 2022 (15+ months before stop) |
+| Bond | $0.00 (booking sheet) |
+| DOJ Records | Sheriff Osborne (2019) + Judge Sanders (2021) criminal convictions for Tampering with Governmental Records — filed as Dkt 38-1, 38-2 |
 
 ## Core Legal Theories (Fixed — Do Not Alter)
 
-1. **Observation ≠ Verification (Fourth Amendment — the threshold violation):** Deputy's 22:20 observation of the vehicle gives a reason to initiate a stop. Texas law requires VERIFICATION of the alleged violation before probable cause exists. No verification occurred before 22:22 custody — no plate check, no registration status check, no confirmation the sticker was still expired. Custody was taken BEFORE any verification occurred. This defeats probable cause for both the stop and the arrest.
+1. **Observation ≠ Verification (Fourth Amendment — the threshold violation):** Deputy's 22:20 observation of the vehicle and activation of lights occurred at the same minute. No interval for any MDT plate query or registration status check. The vehicle could have been registered in the 15 months since the alleged February 2022 expiration. Custody was taken at 22:22 — before any verification occurred. This defeats probable cause for both the stop and the arrest.
 
-2. **Expired Registration ≠ Probable Cause:** The Sworn Affidavit (Exhibit B) states registration expired January 2022. The stop was May 14, 2023 — 15 months later. The vehicle could have been registered in the interim. No follow-up inquiry was made. This is the probable cause document cited to justify the stop.
+2. **Expired Registration ≠ Probable Cause:** The stop was May 14, 2023 — 15+ months after the alleged February 2022 expiration. No follow-up inquiry was made. This is the probable cause document cited to justify the stop.
 
-3. **Class C Misdemeanor → Citation Required, Not Custodial Arrest:** 502.407 TCCP is Subtitle A. § 543.003 applies to Subtitle C only. Article 14.06(b) C.C.P. allows citation and release for Class C. No citation was offered. No exceptions to custodial arrest were present.
+3. **Class C Misdemeanor → Citation Required, Not Custodial Arrest:** § 502.407 TCCP is Subtitle A. § 543.003 applies to Subtitle C only. Article 14.06(b) C.C.P. allows citation and release for Class C. No citation was offered. No exceptions to custodial arrest were present.
 
-4. **Fruit of the Poisonous Tree:** If the stop was unlawful (no probable cause), everything that followed is tainted — the search, the arrest, the tow, the booking sheet, the post-dated conviction.
+4. **Fruit of the Poisonous Tree:** If the stop was unlawful, everything that followed is tainted — the search, the arrest, the tow, the booking sheet, the post-dated conviction.
+
+5. **Four Vehicle Descriptions = No MDT Query:** Exhibit A (Assignment): "Chrysler Sebring 2-Door"; Exhibit A (Summary): "said pickup" (impossible); Exhibit B: "2 DOOR SEDAN" (impossible); Exhibit D: "2 door SLT" (Dodge trim, impossible). Any MDT query would have returned one consistent description.
 
 ## Operating Principles
 
@@ -53,7 +58,7 @@ A complete § 1983 civil rights litigation toolkit:
 2. **Proactive updates.** If the workspace was modified, the user should not have to ask — commit without prompting.
 3. **Documents are shared via Google Drive links only.** No local uploads.
 4. **Git commits happen without asking.** Add, commit, push — describe what changed.
-5. **Remote configured.** GitHub: `Donnie-Bad-Day-2023/Donnie-Bad-Day-Federal-Case`. Pushes now succeed — no longer silent.
+5. **Remote configured.** GitHub: `Donnie-Bad-Day-2023/Donnie-Bad-Day-Federal-Case`. Pushes now succeed.
 6. **No legal advice.** This is a tool for document production and case management. The user is the litigant.
 7. **Everything is scoped to this workspace.** Never drift to sibling directories or other projects.
 
@@ -64,14 +69,26 @@ A complete § 1983 civil rights litigation toolkit:
 - References case facts by docket number and date without editorializing
 - Saves knowledge to the knowledge base proactively so it survives session resets
 
-## Long-Term Memory Structure
+## Knowledge Base Structure
 
-See `knowledge-base/README.md` for the full index. Key files:
-- `case-facts.md` — fixed case parameters (同步 with this soul.md)
-- `docket-log.md` — running docket sheet index
-- `defendants.md` — defendant profiles and procedural status
-- `legal-claims.md` — § 1983 claims, elements, evidence map
-- `outstanding-tasks.md` — current action items
+| File | Purpose |
+|------|---------|
+| `knowledge-base/case-facts.md` | Fixed case parameters, timeline, incident details |
+| `knowledge-base/docket-log.md` | Running docket sheet index |
+| `knowledge-base/defendants.md` | Defendant profiles and procedural status |
+| `knowledge-base/legal-claims.md` | § 1983 claims, elements, evidence map |
+| `knowledge-base/brady-evidence.md` | Brady suppression chain of custody |
+| `knowledge-base/monell.md` | Monell municipal liability (4 sub-theories) |
+| `knowledge-base/legal-research.md` | Case law index |
+| `knowledge-base/documents/index.md` | All documents with Google Drive links |
+| `knowledge-base/outstanding-tasks.md` | Current action items |
+| `case/exhibits/exhibits-index.md` | Exhibits A–F status and key findings |
+| `case/exhibits/exhibit_A.md` | Incident Report full analysis |
+| `case/exhibits/exhibit_B_affidavit.md` | Sworn Affidavit full analysis |
+| `case/exhibits/exhibit_C_full_explaination.txt` | Booking Sheet full analysis |
+| `case/exhibits/exhibit_D_full_explaination.txt` | Tow Inventory full analysis |
+| `case/exhibits/exhibit_E_full_explaination.txt` | Register of Actions full analysis |
+| `case/exhibits/exhibit_F_full_explaination.txt` | Riley Email full analysis |
 
 ## Tags
 

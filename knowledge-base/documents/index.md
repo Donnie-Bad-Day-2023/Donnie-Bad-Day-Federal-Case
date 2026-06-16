@@ -34,16 +34,20 @@ All case documents. Documents are shared via Google Drive links only — no loca
 |----------|------|-------------------|
 | Case Facts (Plaintiff's Full Account) | 2025 | https://docs.google.com/document/d/1o2mJsaxEYqDfLz4UUER9sR_0h3zkpDR0ynSYSzoc21Q/edit?usp=sharing |
 
-## Exhibits
+## Exhibits (FAC Dkt 45)
 
-|| Exhibit | Description | Source | Status |
-||---------|-------------|--------|--------|
-| A | Incident Report #2023-0477 | https://docs.google.com/document/d/1Ah4-fbEEjjv8oXj5L7l1YICJ5318R70sfGX6UYVtoF0/edit?usp=sharing | PARTIAL — Google Docs PDF is low-res thumbnail; original scan needed |
-| B | Sworn Expired Registration Affidavit | (needed) | NOT YET OBTAINED |
-| C | Jail Booking Sheet | (needed) | NOT YET OBTAINED |
-| D | Tow Inventory | (needed) | NOT YET OBTAINED |
-| E | Register of Actions (Case No. 1-23-TR-0306) | (needed) | NOT YET OBTAINED |
-| F | Riley Email with Video Timestamps | (needed) | NOT YET OBTAINED |
+All exhibits fully extracted and documented in `case/exhibits/`.
+
+| Exhibit | Document | Key Evidence | File |
+|---------|----------|--------------|------|
+| A | Incident Report #2023-0477 | Simultaneous 2220 timestamp; "said pickup" internal contradiction; 4 vehicle descriptions across docs | `case/exhibits/exhibit_A.md`, `case/exhibits/exhibit_A_incident_report.md` |
+| B | Sworn Expired Registration Affidavit | Blank judicial PC signature block; "2 DOOR SEDAN" (impossible model); private property location | `case/exhibits/exhibit_B_affidavit.md` |
+| C | Jail Booking Sheet | 19-min window (2222–2239); 7.6-mi transport in 11 min; $0.00 bond; ON VIEW arrest type | `case/exhibits/exhibit_C_full_explaination.txt` |
+| D | Tow Inventory | Unsigned, undated, wrong address (107 vs. 507 Ave I); "2 door SLT" (4th vehicle description) | `case/exhibits/exhibit_D_full_explaination.txt` |
+| E | Register of Actions, Case 1-23-TR-0306 | ALL events post-dated 05/16/2023 (day after release); Nolo Contendere plea entered absentia | `case/exhibits/exhibit_E_full_explaination.txt` |
+| F | Riley Email (Open Records) | Exact footage timestamps (14:11 + 14:50 + 14:11 + 21:14 = 64:26 min); $104.26 cost; "technical issues" false | `case/exhibits/exhibit_F_full_explaination.txt` |
+
+Full index: `case/exhibits/exhibits-index.md`
 
 ## Tags
 `#documents` `#docket` `#exhibits`

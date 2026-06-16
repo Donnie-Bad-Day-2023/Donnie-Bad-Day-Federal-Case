@@ -9,189 +9,148 @@
 | District Judge | Jeffrey V. Brown |
 | Magistrate Judge | Andrew M. Edison |
 | Statute | 42 U.S.C. § 1983 |
-| Date Filed | 2025 |
-| Corrected Complaint Date | 08/08/2025 |
+| Original Filing | 07/07/2025 (filed under 3:25-mc-00017; later transferred to 3:25-cv-00253) |
 
 ## Incident Date
-**May 14, 2023** — approx. 22:17 (exact start of interaction)
+**May 14, 2023** — observation/stop initiated at **2220 hours** (10:20 PM)
 
 ## Incident Location
-Markham, Texas — 500 block of Ave I / 6th Street corner, in front of Tina Phillips' residence (friend's driveway, private property)
+**507 Ave I, Markham, TX 77456** — Tina Phillips's private residential driveway. Vehicle was on private property, not a public roadway. (Exhibit C: Arrest Location; Exhibit D: wrong address 107 Ave I listed.)
 
-## Parties
-
-### Plaintiff
+## Plaintiff
 **Donald Lynn Thompson Jr.** — pro se litigant
-- At time of incident: 56 years old, 200+ lbs
+- DOB: 02/28/1966 (age 56 at time of arrest)
+- Height: 5'9" / Weight: 195 lbs / Race: W/M
+- Address at time: 194 8th St, Markham, TX 77456
 - In filing stages for disability (shoulder deterioration, arthritis in hips/knees)
-- Owned 2004 2-door Chrysler Sebring Convertible, white with black soft top (registration expired Feb 2022)
-- Wallet left at home — not carrying ID, insurance, or registration at time of stop
+- Owned 2004 Chrysler Sebring 2-door Convertible, white with black soft top
+- Wallet left at home — no ID, insurance, or registration at time of stop
 
-### Arresting Officer
-**Deputy Raymond Gonzales** — Matagorda County Sheriff's Office
-- Testified at tow hearing: "reads the transportation code at minimum once a week"
-- Other officers on scene: J. Wamget (incident report identifies), one female deputy (3rd on scene)
-
-### Defendants
-1. **Matagorda County** — municipal entity (Monell defendant)
-2. **Jackson Towing Services** — entity, answered Dkt 26 (owner: Buster Jackson)
-3. **Mark Finlay** — JP4 Judge, presided over tow hearing
-4. **C. Sanders** — JP1 Justice of the Peace (Jason Sanders), magistrate at jail
-5. **R. Gonzales** — Deputy Raymond Gonzales, arresting officer
-6. **J. Riley** — Ms. Riley, Sheriff's Office records clerk
-7. **A. Chau** — Jennifer Chau, County Attorney
-8. **Doe Deputies** — unexecuted service, never served
-
-### Defendant Counsel
-- **Benjamin Riley Stephens** — Husch Blackwell LLP
+## Arresting Officer
+**Deputy Raymond Gonzales #4844** — Matagorda County Sheriff's Office, Patrol Division, Night Shift, Unit 220
+- Other officer on scene: Deputy J. Wamget #4842
+- Report printed: 06/20/2023 13:47 by RILEY, M
 
 ## Charge
-**502.407 Texas Transportation Code** — expired registration (Class C misdemeanor, Subtitle A)
-- No citation was ever offered
-- No drivers license check, no insurance check, no plate check run prior to arrest
-- Plaintiff was yanked from vehicle and immediately placed under custodial arrest
+**Texas Transportation Code § 502.407** — expired registration (Class C misdemeanor, Subtitle A)
+- No citation was offered
+- No plate check, no registration check, no insurance check run prior to arrest
+- Plaintiff yanked from vehicle and placed under custodial arrest immediately
 
 ## Timeline — May 14–15, 2023
 
 | Time | Event |
 |------|-------|
-| ~22:17 | Plaintiff leaves house at 194 8th Street West, Markham TX |
-| ~22:17–22:20 | Plaintiff makes multi-turn trip (8th St → Ave H → 6th St → Ave I); sees parked sheriff vehicle; makes U-turn observation; turns left onto Ave I |
-| 22:20 | Deputy Gonzales OBSERVES vehicle AND activates overhead lights — simultaneously |
-| 22:20 | **LEGAL SIGNIFICANCE — Observation ≠ Verification:** The incident report states "OBSERVED a 2 door White in color Chrysler Sebring with an expired registration of February 2022 traveling south on Ave I." An observation provides only a reason to initiate a stop — it does NOT establish probable cause. Texas law requires VERIFICATION of the alleged violation before probable cause exists. The deputy's observation at 22:20 is the REASON TO STOP, not proof of the violation. HOW he observed the expired sticker at night, 90° angle, sticker on far side of vehicle, no street lights, is NOT articulated in the report. |
-| 22:22 | **VERIFICATION NEVER OCCURRED — Plaintiff arrested approximately 2 minutes after lights activation.** There was no time interval between 22:20 and 22:22 for any verification of the expired registration to occur. Deputy never ran the plate, never checked registration status, never confirmed the sticker was still expired. The vehicle could have been registered in the 15 months since the alleged February 2022 expiration. Custody was taken BEFORE any verification occurred — this defeats probable cause for the arrest. |
-| 22:22–22:39 | Searched, cuffed, placed in patrol vehicle; deputies search plaintiff's vehicle with flashlights |
-| 22:39 | Booked into Matagorda County jail, Bay City TX |
-| ~22:40 | Vehicle towed from Tina Phillips' driveway to Jackson Towing Services |
-| ~16:23, 5/15/2023 | Plaintiff released — 18 hrs 1 min in custody |
-| 5/16/2023 | Record of Action created by judge/staff — absent plaintiff — shows charge, plea, disposition entered |
-| 5/28/2023 | Open records request submitted to Sheriff's Office |
-| 6/7/2023 | Plaintiff retrieves vehicle from Jackson Towing — $500 cash |
-| 6/15/2023 | Sheriff's office emails re: records ready |
-| 6/20/2023 | Ms. Riley prints documents — incident report shows TWO different vehicle descriptions; notarized probable cause document has BLANK judicial review section |
-| 6/22/2023 | Tow hearing before JP4 Judge Mark Finlay — bodycam footage NOT provided despite prior request; CA (Jennifer Chau) participating via Zoom; deputy lies under oath; tow hearing lost |
-| ~4/20/2025 | Plaintiff discovers legal issues with stop — research reveals arrest was not procedurally legal |
+| 22:20 | Deputy Gonzales OBSERVES vehicle AND activates overhead lights — **simultaneous** (no interval for verification) |
+| 22:22 | Plaintiff placed in custody — 2 minutes from lights activation |
+| 22:22–22:39 | Searched, cuffed, placed in patrol vehicle; vehicle searched with flashlights |
+| 22:39 | Booked into Matagorda County Sheriff's Jail, Bay City TX |
+| ~23:00 | Vehicle towed to Jackson Services (7.6 miles, ~11 min transport) |
+| 16:23, 5/15/2023 | Plaintiff released — **18 hrs 1 min** in custody |
+| 05/16/2023 | Register of Actions created — all events (plea, judgment, case filing) post-dated to this date, absent plaintiff |
+| 05/28/2023 | Open records request submitted to Sheriff's Office |
+| 06/07/2023 | Plaintiff retrieves vehicle from Jackson Towing — $500 cash |
+| 06/15/2023 | Sheriff's office emails re: records ready; Riley provides exact footage timestamps |
+| 06/20/2023 | Ms. Riley prints incident report and booking sheet — 36 days after release |
+| 06/22/2023 | Tow hearing before JP4 Judge Mark Finlay — bodycam footage NOT produced; motion to compel denied |
+
+## Booking Sheet Data (Exhibit C)
+
+| Field | Value |
+|-------|-------|
+| Arrest Date | 05/14/2023 |
+| Arrest Time | 22:22 |
+| Booking Time | 22:39 |
+| Arrest Location | 507 Ave I |
+| Arrest Type | **ON VIEW** (Gonzales claims direct observation) |
+| Charge | Expired Registration (TRF), TRC 502.407, Class C |
+| Bond Amt | **$0.00** |
+| Arresting Officer | R. Gonzales |
+| Supervisor | R. Becerra |
+| Miranda Officer | (blank) |
+| SID | 03647076 |
+| FBI | 601531KA4 |
+| Vehicle | 2004 Chrysler Sebring |
+| Towing Company | Jackson Services, 9th & Ave H, Markham TX |
+
+## Vehicle
+- **Make/Model:** 2004 Chrysler Sebring 2-door Convertible
+- **Color:** White with black soft top
+- **VIN:** 1C3EL65R94N295071 (from Exhibit D)
+- **TX LP#:** PTZ7792
+- **Registration:** Expired (January or February 2022 — see note below)
+
+> **Note on registration date:** Exhibit B (Sworn Affidavit) states expired "as of February 2022." Exhibit A (Incident Report) states "Expired Registration from February 2022." These are consistent. However, the stop occurred May 14, 2023 — 15+ months later. The vehicle could have been registered in the interim. No follow-up inquiry was made. This is a core probable cause defect.
+
+## Vehicle Description Contradictions (4 versions across 2 documents)
+
+| Document | Description | Problem |
+|----------|-------------|---------|
+| Exhibit A — Incident Report (Assignment) | "2004, Chrysler, Sebring, 2-Door" | Correct model |
+| Exhibit A — Incident Report (Summary) | "said pickup" | **IMPOSSIBLE** — Chrysler never made a Sebring pickup |
+| Exhibit B — Sworn Affidavit | "2 DOOR SEDAN" | **IMPOSSIBLE** — 2004 Sebring was a coupe/convertible, not a sedan |
+| Exhibit D — Tow Inventory | "2 door SLT" | **IMPOSSIBLE** — "SLT" is a Dodge trim designation, not Chrysler |
+
+**No MDT plate query was run.** Any query would have returned a consistent, correct description.
 
 ## Tow Hearing — June 22, 2023 (JP4 before Judge Mark Finlay)
 - County Attorney Jennifer Chau attended via Zoom
-- Deputy Gonzales testified: lied about vehicle location ("middle of the road"), claimed knowledge of Transportation Code
-- Plaintiff's wife (Virginia Thompson) asked for bodycam footage to be compelled — overruled, denied
+- Deputy Gonzales testified: vehicle was "in the middle of the road" (false — it was in a private driveway)
+- Plaintiff's wife (Virginia Thompson) asked for bodycam footage to be compelled — overruled
 - Towing company representative (Buster Jackson) present but driver who picked up vehicle was NOT present
-- Judge Finlay ruled: "officer has discretion to arrest and tow" — based solely on deputy's word, no evidence
+- Judge Finlay ruled: "officer has discretion to arrest and tow" — based solely on deputy's word
 - No appeal offered by Judge Finlay
 
-## Key Legal Issues Discovered 2025
+## Key Legal Issues
 
-### 1. No Reasonable Suspicion / No Probable Cause Articulated
-- Deputy's incident report does not explain HOW he observed the expired registration sticker at night, from a 90° angle, with the sticker on the far side of the vehicle turning away from him, no street lights
-- Report contains two different vehicle descriptions, printed 6/20/2023 by Ms. Riley
-- The notarized probable cause document has a BLANK judicial review section — NO judicial review ever done
+### 1. Simultaneous Timestamp — No Verification Interval
+The incident report states "observation" and "activation of emergency lights" occurred at the **same minute — 2220 hours.** No interval exists for any MDT plate query, registration status check, or any form of verification. Custody was taken 2 minutes after lights activation. This defeats probable cause for both the stop and the arrest.
 
-### 2. Class C Misdemeanor — Citation Required, Not Custodial Arrest
-- 502.407 is Subtitle A (not Subtitle C)
-- Texas Transportation Code § 543.003 applies to Subtitle C offenses only
+### 2. No Reasonable Suspicion Articulated
+The report does not explain HOW Gonzales observed the expired sticker at night, from a 90° angle, with the sticker on the far side of the vehicle turning away from him, no street lights present.
+
+### 3. Class C Misdemeanor — Citation Required, Not Custodial Arrest
+- § 502.407 is Subtitle A (not Subtitle C)
+- Texas TCCP § 543.003 applies to Subtitle C only
 - Article 14.06(b) C.C.P. allows citation and release for Class C misdemeanors
-- Plaintiff was never offered a citation, never offered opportunity to correct the offense within 20 days
-- No refusal to sign, no intoxication, no warrant — all factors that would justify full custodial arrest were absent
+- No citation offered; no 20-day remedial window offered
+- No Art. 14.01(b) exceptions present (no refusal to sign, no intoxication, no warrant)
 
-### 3. Wrong Judge — Jurisdiction Problem
-- Offense occurred in PCT 4 (Judge Finlay's jurisdiction)
-- Judge Sanders (JP1) conducted magistrate function without jurisdiction over the offense
-- Judge Sanders gave "time served" — creating a criminal charge — denying Judge Finlay the opportunity to dismiss under the 20-day remedial provision
+### 4. Wrong Judge — Jurisdiction
+- Offense occurred in JP4's precinct (Markham)
+- Judge Sanders (JP1) conducted magistrate function and imposed "time served" — without jurisdiction over the offense
+- No charging instrument, no information, no citation ever filed by a prosecutor
 
-### 4. No Prosecutor Involvement — No Charges Filed
-- Booking sheet is the only case-initiating document
-- No information, no citation, no indictment ever filed
-- Record of Action created by judge/staff in plaintiff's absence — charge, plea, disposition entered retroactively on 5/16/2023
-- 18 hours 1 minute in custody with zero legal authority
+### 5. Fabricated Post-Dated Conviction
+- Register of Actions created 05/16/2023 — the day after plaintiff's physical release
+- All events (plea, judgment, case filing) are dated 05/16/2023
+- Nolo Contendere plea entered **absentia** — without plaintiff present orpleading
+- Case No. 1-23-TR-0306 did not exist at the time of release
 
-### 5. Brady Violation — Bodycam Footage Withheld
-- Plaintiff and wife repeatedly requested bodycam and dashcam footage from Sheriff's Office
-- Ms. Riley took $105, then returned it — said technical issues prevented release
-- County Attorney Chau participated in tow hearing knowing footage was withheld
-- Judge Finlay denied motion to compel footage — ruling made without key evidence
-- Footage would show actual location of vehicle at time of tow
+### 6. Brady Violation — Bodycam Footage Suppressed
+- Open records request 05/28/2023; $105 paid to Sheriff's office
+- Riley confirmed exact footage timestamps (64:26 total) on 06/15/2023
+- Riley returned payment 06/20/2023 citing "technical issues" — 2 days before tow hearing
+- Motion to compel denied by Judge Finlay at tow hearing
+- CA Chau participated knowing footage was withheld
 
-### 6. Vehicle Towed from Private Property Without Consent
-- Tina Phillips (property owner) told Deputy Gonzales the vehicle could stay — he refused
+### 7. Vehicle Towed from Private Property Without Consent
+- Tina Phillips (property owner) told Deputy Gonzales the vehicle could stay
 - Tina told to "go back inside or go to jail for interference"
-- Vehicle held 24 days, accumulated $900+ in fees, released only after $500 cash payment
+- Vehicle held 24 days; $500 cash paid to retrieve; $900+ accumulated fees
 
-## Constitutional Claims
+## Exhibits Summary (A–F)
 
-| Claim | Basis | Facts |
-|-------|-------|-------|
-| Unlawful seizure/stop | 4th/14th Amend. | No reasonable suspicion; no probable cause; stop initiated without lawful basis |
-| False arrest | 4th/14th Amend. | Custodial arrest for Class C with no citation, no warrant, no exceptions present |
-| Fabricated prosecution | 14th Amend. | Booking sheet created after release; no prosecutor; "phantom charge" |
-| Brady violation | 14th Amend. | Bodycam footage withheld; CA participated in suppressing it; motion to compel denied |
-| Excessive force | 4th Amend. | Physically yanked from low vehicle; forced against convertible top; shoulder ignored |
-| Cruel and unusual punishment | 8th Amend. | 18 hrs in jail without charge, trial, or commitment for Class C; "time served" sentence |
-| Excessive fine | 8th Amend. | Vehicle held 24 days, $900+ fees, no notice, no hearing |
-| Monell | § 1983 | Policy/custom of unlawful arrests, failure to train on Subtitle A procedures, ratification |
+| Exhibit | Document | Core Evidence |
+|---------|----------|---------------|
+| A | Incident Report #2023-0477 | Simultaneous 2220 timestamp; "said pickup" impossibility; 4 vehicle descriptions |
+| B | Sworn Expired Registration Affidavit | Blank judicial PC signature; "2 DOOR SEDAN" impossibility; private property location |
+| C | Jail Booking Sheet | 19-min window; $0.00 bond; ON VIEW arrest type; 7.6-mi in 11 min |
+| D | Tow Inventory | Unsigned, undated, wrong address (107 vs. 507); "2 door SLT" impossibility |
+| E | Register of Actions, 1-23-TR-0306 | ALL events post-dated 05/16; Nolo Contendere absentia; no case existed at release |
+| F | Riley Email | Exact footage timestamps; $104.26 cost; "technical issues" false |
 
-## Evidence Status
-- Incident report: INCOMPLETE — two vehicle descriptions, no probable cause articulation, blank judicial review
-- Booking sheet: INCOMPLETE — blank fields requiring judicial/administrative review
-- Tow inventory: INCOMPLETE — unsigned, undated, wrong location (107 Ave I vs. 500 block)
-- Bodycam/dashcam: WITHHELD — never produced despite paid request
-- Notarized probable cause document: BLANK judicial review section — never reviewed by any judge
-
-## Exhibits (OCR from FAC-embedded images)
-
-### Exhibit A — Incident Report #2023-0477 (Deputy R. Gonzales #4844, Unit 220)
-- **Page 4 of 4 only** — earlier pages not captured
-- **TX LP#: PTZ7792** (confirmed from exhibit summary)
-- **Officers on scene:** Deputy R. Gonzales #4844 + Deputy J. Wamget #4842
-- **Simultaneous timestamp — 2220 hours:** Observation AND activation of emergency lights occurred at the **same minute.** No interval for any MDT plate query or verification. Proves no verification occurred before stop initiated.
-- **Vehicle description contradictions (4 versions across documents):**
-  1. Assignment: "White in color, 2004, Chrysler, Sebring, 2-Door" (correct)
-  2. Summary: "said pickup" ← IMPOSSIBLE — Chrysler never made a Sebring pickup
-  3. Exhibit B (Affidavit): "2 DOOR SEDAN"
-  4. Exhibit D (Tow Inventory): "2 door SLT"
-  → Internal contradiction proves **no MDT plate query was run** before stop
-- Summary field (partial): "head red and blue lights on [vehicle]... approached about the driver's side and gave the reason for the traffic stop to the driver Donald Lynn Thompson (W/M DOB 02/28/1966). While [Thompson was] verbally aggressive, [Deputy] advised Thompson to [step out of the] vehicle. [Deputy] patted down Thompson for weapons..."
-- Vehicle towed by Mason Services at approximately 2300 hours to Matagorda County Sheriff's Jail
-- Bodycam and video available for this call (per report)
-- Disposition: Cleared by arrest
-- Signature: Deputy R. Gonzales #4844
-
-### Exhibit B — Sworn Expired Registration Affidavit (Deputy B. Gonzales #4844)
-- Affiant: Donald Lynn Thompson
-- Vehicle: 2004 WHITE [FORD pickup]
-- Stated registration expired **as of JANUARY 2022**
-- Sworn to and subscribed: **May 14, 2023**
-- Attesting officer: Deputy B. Gonzales #4844
-- **CRITICAL DISCREPANCY**: The traffic stop occurred **May 14, 2023** — over 15 months after the alleged January 2022 expiration. An expired registration from January 2022 does not establish probable cause for a stop on May 14, 2023. The vehicle could have been registered in the 15-month interim. This is the probable cause document cited to justify the stop.
-- Blank judicial signature/review block on its face
-
-### Exhibit C — Jail Booking Sheet
-- Arrest: 05/14/2023 22:22
-- Charge: "Expired Registration"
-- Bond: $500
-- Arraignment set: 05/15/2023 08:00
-
-### Exhibit D — Tow Inventory
-- Unsigned, Bates-stamped MATAGORDA SHERIFF'S OFFICE
-- Vehicle location listed as "HOLD: 2301 Hwy 60" — NOT the private driveway at 3430 CR 192
-
-### Exhibit E — Register of Actions, Case No. 1-23-TR-0306
-- Shows May 16, 2023 conviction entered **absentia** via Nolo Contendere plea
-- No attorney present
-- Post-dated to the date of the tow hearing (not the arrest date)
-
-### Exhibit F — Riley Email
-- Sent to DA Christee Bennet
-- "dashboard and body camera footage will not be made available"
-- Video timestamps show vehicle parked at 3430 CR 192, not "middle of the road"
-
-## Critical Discrepancies
-
-### Discrepancy 1 — Exhibit B: Expired Registration Date
-The Sworn Affidavit (Exhibit B) states the vehicle's registration expired **January 2022**. The traffic stop occurred **May 14, 2023** — more than 15 months later. This is the probable cause document. An expired registration from January 2022 does not establish that the registration was still expired on May 14, 2023. The vehicle could have been registered during the intervening 15 months. No follow-up inquiry was made. This defeats probable cause for the stop.
-
-### Discrepancy 2 — Vehicle Location
-Deputy Gonzales testified at the tow hearing that the vehicle was "in the middle of the road." Exhibit F (Riley email) timestamps and Exhibit D (Tow Inventory) contradict this — vehicle was at 3430 CR 192 / 2301 Hwy 60 (private property). Bodycam footage was withheld.
+Full analysis: `case/exhibits/exhibits-index.md`
 
 ## Tags
 `#case-facts` `#固定` `#may-14-2023` `#markham-texas`

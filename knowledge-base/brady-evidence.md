@@ -7,36 +7,68 @@ Brady v. Maryland, 373 U.S. 83 (1963): The prosecution must disclose all favorab
 
 | Item | Description | Request Date | Status |
 |------|-------------|-------------|--------|
-| Bodycam footage | Deputy Gonzales' body-worn camera — would show actual vehicle location at time of stop and tow | 5/28/2023 (open records request) | WITHHELD — never produced |
-| Dashcam footage | Patrol vehicle dashcam — would corroborate or contradict deputy testimony | 5/28/2023 (open records request) | WITHHELD — never produced |
+| Bodycam (Gonzales) | Would show actual vehicle location at time of stop | 05/28/2023 | WITHHELD |
+| Bodycam (Wamget) | Would corroborate or contradict deputy testimony | 05/28/2023 | WITHHELD |
+| Bodycam (3rd officer) | Additional officer on scene | 05/28/2023 | WITHHELD |
+| Dashcam | Patrol vehicle dashcam | 05/28/2023 | WITHHELD |
+
+**Total footage:** 64 minutes 26 seconds across 4 recordings
+**Footage timestamps (per Riley email, 06/15/2023):** 14:11 + 14:50 + 14:11 + 21:14 minutes
 
 ## Chain of Custody — Footage
 
-1. **5/28/2023** — Plaintiff submits open records request to Sheriff's Office for all records including video evidence
-2. **6/15/2023** — Sheriff's office emails: records ready
-3. **6/16/2023** — Plaintiff goes to Sheriff's office; asks Ms. Riley about fee waiver (IFP status)
-4. Ms. Riley says plaintiff needs something from County Attorney; plaintiff goes to CA Jennifer Chau's office
-5. County Attorney refuses fee waiver; says "that's not our problem"
-6. Plaintiff borrows money, returns to Sheriff's office — pays $105 to Ms. Riley
-7. Ms. Riley says "2 hours" to compile
-8. Plaintiff returns 2 hours later — **Ms. Riley returns all money** citing "technical issues" with the recording system
-9. Plaintiff receives only: arrest sheet, incident report, inventory page, notarized expired registration document
-10. **6/22/2023 — Tow hearing** — bodycam footage still not produced; motion to compel denied by Judge Finlay
+| Date | Event |
+|------|-------|
+| 05/14/2023 | Arrest occurs; bodycam/dashcam recordings created |
+| 05/28/2023 | Plaintiff submits open records request to Sheriff's Office |
+| 06/07/2023 | Plaintiff retrieves vehicle from Jackson Towing — $500 cash |
+| 06/15/2023 | Sheriff's office emails: records ready; Riley provides **exact footage timestamps** (14:11 + 14:50 + 14:11 + 21:14 = 64:26 min); quotes cost at **$104.26** |
+| 06/16/2023 | Plaintiff goes to Sheriff's office; asks Riley about fee waiver (IFP status granted by JP4) |
+| 06/16/2023 | Plaintiff goes to CA Chau's office; fee waiver refused; CA says "that's not our problem" |
+| 06/16/2023 | Plaintiff borrows money, returns to Sheriff's office; pays **$105** to Riley |
+| 06/16/2023 | Riley says "2 hours" to compile |
+| ~06/16/2023 | Plaintiff returns; **Riley returns all money** citing "technical issues" with recording system |
+| 06/20/2023 | Riley prints documents (incident report, booking sheet) — 36 days after release |
+| 06/22/2023 | **Tow hearing** — bodycam footage still not produced; Virginia Thompson's oral motion to compel denied by Judge Finlay; CA Chau objects |
+| ~4/20/2025 | Plaintiff discovers legal issues with stop |
 
-## Why This Is Brady Material
+## Why "Technical Issues" Is False
 
-**Favorable:** The footage is exculpatory in that it would show the actual location of the vehicle at the time of the stop and tow — directly contradicting Deputy Gonzales' testimony that the vehicle was "in the middle of the road."
+Riley confirmed exact minute counts on 06/15/2023:
+- Recording 1: **14 minutes 11 seconds**
+- Recording 2: **14 minutes 50 seconds**
+- Recording 3: **14 minutes 11 seconds**
+- Recording 4: **21 minutes 14 seconds**
+- **Total: 64 minutes 26 seconds**
 
-**Suppressed:** Sheriff's office (Ms. Riley), County Attorney (Jennifer Chau), and Judge Finlay all knew footage was requested and was being withheld. No effort was made to produce it before the tow hearing.
+You cannot quote exact timestamps for recordings that have "technical issues." The footage was suppressed, not unavailable.
 
-**Prejudice:** The tow hearing was decided solely on Deputy Gonzales' testimony. Without the footage, plaintiff had no way to contradict his false testimony. Motion to compel was denied. Tow hearing lost.
+## Financial Barrier — Unauthorized
+
+- Riley demanded **$104.26** ($10/recording + $1/minute)
+- Plaintiff's IFP status had been granted by JP4 Judge Finlay
+- Fee demand was not waived despite documented indigency
+- This was an unauthorized, arbitrary financial barrier to exculpatory evidence
+
+## What the Footage Would Have Shown (per FAC ¶57)
+
+1. **Vehicle location at time of stop** — private driveway (507 Ave I) vs. Deputy Gonzales' testimony that it was "in the middle of the road"
+2. **Proximity duration between vehicles** — would show whether any plate query occurred
+3. **Absence of any MDT plate query** — any query would appear on screen
+4. **Plaintiff's non-resistant demeanor** — directly contradicting Gonzales' "verbally aggressive" characterization
+5. **Warrantless search of the secured vehicle** — search occurred while plaintiff was cuffed in patrol vehicle
 
 ## Defendants Implicated in Suppression
-- **Ms. Riley (J. Riley)** — Sheriff's Office records clerk; took $105, returned money, never produced footage
-- **Jennifer Chau (A. Chau)** — County Attorney; participated in tow hearing knowing footage was withheld; objected to plaintiff's motion to compel
-- **Matagorda County** — institutional failure to maintain and produce bodycam/dashcam recordings
+
+| Defendant | Role |
+|-----------|------|
+| J. Riley (Michaela Riley) | Took $105, returned money, confirmed timestamps then claimed technical issues |
+| A. Chau (Jennifer Chau) | County Attorney; refused fee waiver; participated in tow hearing knowing footage withheld; objected to motion to compel |
+| Judge Mark Finlay | Denied motion to compel footage at tow hearing; ruling made without key evidence |
+| Matagorda County | Institutional failure to maintain and produce bodycam/dashcam recordings |
 
 ## Impact on Prosecution
+
 - No footage = no evidence to contradict false testimony
 - Tow hearing lost on false premise
 - 18 hours of unlawful detention cannot be challenged without the footage
