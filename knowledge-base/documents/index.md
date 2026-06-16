@@ -34,11 +34,16 @@ All case documents. Documents are shared via Google Drive links only — no loca
 |----------|------|-------------------|
 | Case Facts (Plaintiff's Full Account) | 2025 | https://docs.google.com/document/d/1o2mJsaxEYqDfLz4UUER9sR_0h3zkpDR0ynSYSzoc21Q/edit?usp=sharing |
 
-## Drafts (Working Documents)
+## Exhibits
 
-| Document | Status | Notes |
-|----------|--------|-------|
-| Response to More Definite Statement | DRAFT | Mislabeled — Dkt 48 is actually plaintiff's own Notice of Total Substitution, not a defense filing. No defense MDS exists in the record as of filing date. |
+|| Exhibit | Description | Source | Status |
+||---------|-------------|--------|--------|
+| A | Incident Report #2023-0477 | https://docs.google.com/document/d/1Ah4-fbEEjjv8oXj5L7l1YICJ5318R70sfGX6UYVtoF0/edit?usp=sharing | PARTIAL — Google Docs PDF is low-res thumbnail; original scan needed |
+| B | Sworn Expired Registration Affidavit | (needed) | NOT YET OBTAINED |
+| C | Jail Booking Sheet | (needed) | NOT YET OBTAINED |
+| D | Tow Inventory | (needed) | NOT YET OBTAINED |
+| E | Register of Actions (Case No. 1-23-TR-0306) | (needed) | NOT YET OBTAINED |
+| F | Riley Email with Video Timestamps | (needed) | NOT YET OBTAINED |
 
 ## Tags
-`#documents` `#docket`
+`#documents` `#docket` `#exhibits`

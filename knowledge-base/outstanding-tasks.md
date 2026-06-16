@@ -3,17 +3,20 @@
 Current action items. Check and update at end of every session.
 
 ## Active
-- [ ] Draft response to Dkt 48 More Definite Statement (defendant Mark Finlay's request for more definite statement)
-- [ ] File response to Dkt 48 with the court
+- [ ] Obtain original scanned Exhibit A (Incident Report #2023-0477) — Google Docs PDF is thumbnail only
+- [ ] Obtain Exhibits B–F (original scanned documents)
 - [ ] Serve Doe deputies (unexecuted service — never served)
-- [ ] Track Jackson Towing's Dkt 26 Answer for affirmative defenses and deadlines
+- [ ] Track defense Answer to FAC (defendants have 21 days from service of FAC to respond)
+- [ ] Monitor PACER for new defense filings
 
 ## Blocked
 - [ ] Monell discovery: policy/custom/practice evidence from Matagorda County
 - [ ] Brady evidence compilation: withheld exculpatory/impeachment materials
 
 ## Completed This Session
-- Created soul.md and knowledge base structure
+- Exhibit A extracted — Google Docs PDF is low-res thumbnail; original scan needed
+- Updated knowledge base with exhibit status
+- Dkt 48 is plaintiff's Notice of Total Substitution (not a defense MDS) — no defense MDS exists in record
 
 ## Tags
 `#tasks` `#live`
