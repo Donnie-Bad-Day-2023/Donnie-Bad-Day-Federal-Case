@@ -16,7 +16,7 @@ All case documents. Documents are shared via Google Drive links only — no loca
 |----------|-------|------|-------------|-------------------|
 | Rule 27 Motion | 3 | — | DENIED 03/31/2026 | (pending) |
 | Motion to Dismiss | 29 | 01/29/2026 | GRANTED 05/12/2026 | https://docs.google.com/document/d/1hxZFttcAsfQ1_WpyCCcOf1wOvFtoHpxYLJk0he_vfPg/edit?usp=sharing |
-| Supplemental Opposition | 38 | 03/04/2026 | — | (pending) |
+|| Supplemental Authority (Dkt 38-1) | 38 | 03/04/2026 | — | https://docs.google.com/document/d/1ot4CkaDACm87EFSRE0bTaFsRrJDoh7cF1hZlUYGG__A/edit?usp=sharing |
 | Opposition to MTD | 33 | ~Feb 2026 | — | https://docs.google.com/document/d/1qdxYyK0pr8UbGWtngqI8iyIinNC1q76lN00J-KcBNsQ/edit?usp=sharing |
 | Objections to R&R | 43 | 05/05/2026 | Overruled 05/12/2026 | https://docs.google.com/document/d/15WHQ1ulEUxMRQ9f2E-dN5fhijf84Dq5ETSAj2z0pms0/edit?usp=sharing |
 | Order Adopting R&R | 44 | 05/12/2026 | Adopted | https://docs.google.com/document/d/1JFid7vlW_DPUIujdrtnKrXultF0LVTjq410K-CYHUFw/edit?usp=sharing |
@@ -36,7 +36,7 @@ All case documents. Documents are shared via Google Drive links only — no loca
 
 ## Exhibits (FAC Dkt 45)
 
-All exhibits fully extracted and documented in `case/exhibits/`.
+Exhibits A–F are embedded as low-resolution thumbnail images in the FAC PDF and cannot be OCR'd from the FAC alone. Original source documents needed — send as Google Drive links or direct file attachments.
 
 | Exhibit | Document | Key Evidence | File |
 |---------|----------|--------------|------|

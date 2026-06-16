@@ -8,7 +8,7 @@
 | 01/15/2026 | 26 | Jackson Towing Answer | Filed |
 | 01/29/2026 | 29 | Motion to Dismiss — Matagorda County Defendants (Ben Stephens / Husch Blackwell) | Pending |
 | ~Feb 2026 | 33 | Opposition to Motion to Dismiss — Plaintiff; 58-page brief; key argument: § 502.407(b) remedial provision and 20-day correction window | Filed |
-| 03/04/2026 | 38 | Supplemental Opposition with Exhibits A, B (Sheriff Osborne + Judge Sanders criminal records) | Filed |
+|| 03/04/2026 | 38 | **Notice of Supplemental Authority + Request for Judicial Notice** — Plaintiff; Exhibit A references Sheriff Osborne in support of Matagorda County Defendant; 2 pages (p.2 blank) | Filed |
 | 03/31/2026 | 3 | Rule 27 Motion — DENIED | DENIED |
 | 04/17/2026 | 41 | Order Referring Case — Judge Brown refers all pretrial matters to Magistrate Andrew M. Edison | Entered |
 | 04/27/2026 | 42 | Magistrate R&R — Recommends: (1) MTD granted; (2) sua sponte dismissal of Jackson Towing; (3) 14 days leave to amend | Filed |
@@ -27,8 +27,9 @@
            ↓
 ~Feb 2026   Plaintiff's Opposition (Dkt 33)
            ↓
-03/04/2026   Supplemental Opposition + Exhibits A,B (Dkt 38)
-            — Sheriff Osborne (2019) + Judge Sanders (2021) criminal records
+03/04/2026   Dkt 38 Notice of Supplemental Authority (Plaintiff)
+            — Exhibit A: Sheriff Osborne cited in support of Matagorda County Defendant
+            — 2 pages (page 2 blank)
 03/31/2026  Rule 27 Motion DENIED
            ↓
 04/27/2026  Magistrate Edison R&R → recommends dismissal
