@@ -1,27 +1,99 @@
-# EXHIBIT A — Incident Report #2023-0477
+Exhibit A — Incident Report #2023-0477
 
-## Source
-Google Drive: `https://docs.google.com/document/d/1Ah4-fbEEjjv8oXj5L7l1YICJ5318R70sfGX6UYVtoF0/edit?usp=sharing`
+Case: Donald Lynn Thompson Jr. v. Matagorda County et al.
 
-## Extraction Status
-**PARTIAL** — The Google Docs PDF contains only a description/summary of the Incident Report, not the original scanned document. The embedded image in the PDF is a low-resolution thumbnail (312×460 px). The actual scanned Incident Report must be obtained separately.
+Case No.: 3:25-cv-00253 — USDC S.D. Tex., Galveston Division
 
-## Content (from Google Docs text layer)
-The document describes:
+Document Summary
 
-> Defendant Deputy Raymond Gonzales's Incident Report documenting the May 14, 2023 traffic stop, arrest, and vehicle description. This report states that the "observation" of expired registration and the activation of emergency lights occurred at the same minute (2220 hours), fails to describe how the registration status was verified, and identifies the vehicle as a "pickup" — a classification inconsistent with a 2004 Chrysler Sebring and inconsistent with the Sworn Affidavit's description of a "2 DOOR SEDAN."
+Defendant Deputy Raymond Gonzales's Incident Report documenting the May 14, 2023 traffic stop, arrest,
 
-## Key Discrepancies Noted in FAC
-1. **Timing inconsistency**: Report claims "observation" of expired registration AND activation of emergency lights both occurred at 2220 hours — same minute, no interval described
-2. **Vehicle misclassification**: Report calls vehicle a "pickup"; actual vehicle is a 2004 Chrysler Sebring (2-door sedan)
-3. **No verification method stated**: Report fails to describe how registration status was verified
-4. **Arrest documentation**: Report documents the traffic stop, arrest, and vehicle description
+and vehicle description.
 
-## Files
-- `exhibit_A_raw.png` — 312×460 px low-res thumbnail extracted from PDF
-- `exhibit_A_3x.png` — 1836×2376 px page render (text overlay present)
-- `exhibit_A_inpainted.png` — image processing attempt (unreadable)
-- `exhibit_A_ocr.txt` — OCR output of 3x render (reads text overlay, not exhibit)
+Key Evidentiary Facts
 
-## Action Required
-**Original scanned Incident Report #2023-0477 needed** — request from plaintiff or obtain via discovery/tax records subpoena to Matagorda County SO.
+The simultaneous timestamp: This report states that the "observation" of expired registration and the
+
+activation of emergency lights occurred at the same minute — 2220 hours. No documented interval exists
+
+between observation and activation, meaning Gonzales cannot establish that he verified the registration status
+
+before initiating the stop.
+
+The vehicle description contradiction: The Assignment section of this report identifies the vehicle as a "2-
+
+door White in color Chrysler Sebring" — consistent with the actual vehicle. However, the Summary section
+
+refers to a traffic stop on "said pickup" — a classification that is factually impossible. Chrysler does not
+
+manufacture a Sebring pickup truck. This internal contradiction within the same document proves that no
+
+MDT (mobile data terminal) plate query was run, because any such query would have returned the correct
+
+vehicle description.
+
+The third description: The Sworn Affidavit (Exhibit B) describes the same vehicle as a "2 DOOR SEDAN" — a
+
+third distinct description. Two official documents produce three irreconcilable vehicle descriptions.
+
+Incident Report Content
+
+Case No.: 2023-0477
+
+Officer: GONZALES, R (Deputy R. Gonzales #4844, Unit 220)
+
+ASSIGNMENT: On Sunday, May 14th, 2023 at approximately 2220 hours, I, Deputy Raymond Gonzales,
+
+#4844, a licensed Peace Officer in the State of Texas, employed by the Matagorda County Sheriff Office,
+
+assigned to the Patrol Division on night shift as a Patrol Deputy observed a White in color, 2004, Chrysler,
+
+Sebring, 2-Door, bearing TXLP# PTZ7792 to be traveling south bound on Avenue I, Markham, Matagorda
+
+County, Texas 77456 with an Expired Registration from February 2022.
+
+OFFICERS ON SCENE: Deputy J. Wamget #4842 SUMMARY: At approximately 2220 hours, I initiated my overhead red and blue lights on my marked patrol
+
+unit #220 to conduct a traffic stop on said pickup and gained compliance at 507 Avenue I, Markham,
+
+Matagorda County, Texas 77456. I approached about the driver's side area, announced myself as a Peace
+
+Officer, and gave the reason for the traffic stop to the driver/sole occupant, identified as Donald Lynn
+
+Thompson (W/M DOB 02/28/1966). While speaking to Thompson, Thompson began to get verbally
+
+aggressive, I advised Thompson to exit said vehicle and place his hands on said vehicle. I patted down
+
+Thompson for weapons in which none were found.
+
+I placed Thompson into custody at 2222 hours for Expired Registration Class c.
+
+Jackson Services made pick up of said vehicle at approximately 2300 hours.
+
+Thompson was transported to the Matagorda County Sheriff's Jail and booked in without further incident.
+
+Audio and video are available for this call.
+
+DISPOSITION: Cleared by arrest.
+
+Deputy R. Gonzales #4844
+
+Unit 220
+
+Printed: Tuesday, Jun 20, 2023 — 13:47 — RILEY, M — Page 4 of 4
+
+Strategic Significance
+
+This document is the foundation of the 2220 question. The defense must produce a plate query record with a
+
+metadata timestamp prior to 2220 to establish that Gonzales possessed verified knowledge of the expired
+
+registration before activating his lights. No such document exists in the record. The simultaneous timestamp,
+
+combined with three contradictory vehicle descriptions across two documents, proves no verification
+
+occurred.
+
+Controlling authority: Terry v. Ohio, 392 U.S. 1 (1968); Whren v. United States, 517 U.S. 806 (1996); Illinois v.
+
+Gates, 462 U.S. 213 (1983).
