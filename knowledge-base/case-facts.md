@@ -139,8 +139,17 @@ Markham, Texas — 500 block of Ave I / 6th Street corner, in front of Tina Phil
 
 ## Exhibits (OCR from FAC-embedded images)
 
-### Exhibit A — Incident Report #2023-0477 (Deputy R. Gonzales #4844)
+### Exhibit A — Incident Report #2023-0477 (Deputy R. Gonzales #4844, Unit 220)
 - **Page 4 of 4 only** — earlier pages not captured
+- **TX LP#: PTZ7792** (confirmed from exhibit summary)
+- **Officers on scene:** Deputy R. Gonzales #4844 + Deputy J. Wamget #4842
+- **Simultaneous timestamp — 2220 hours:** Observation AND activation of emergency lights occurred at the **same minute.** No interval for any MDT plate query or verification. Proves no verification occurred before stop initiated.
+- **Vehicle description contradictions (4 versions across documents):**
+  1. Assignment: "White in color, 2004, Chrysler, Sebring, 2-Door" (correct)
+  2. Summary: "said pickup" ← IMPOSSIBLE — Chrysler never made a Sebring pickup
+  3. Exhibit B (Affidavit): "2 DOOR SEDAN"
+  4. Exhibit D (Tow Inventory): "2 door SLT"
+  → Internal contradiction proves **no MDT plate query was run** before stop
 - Summary field (partial): "head red and blue lights on [vehicle]... approached about the driver's side and gave the reason for the traffic stop to the driver Donald Lynn Thompson (W/M DOB 02/28/1966). While [Thompson was] verbally aggressive, [Deputy] advised Thompson to [step out of the] vehicle. [Deputy] patted down Thompson for weapons..."
 - Vehicle towed by Mason Services at approximately 2300 hours to Matagorda County Sheriff's Jail
 - Bodycam and video available for this call (per report)
