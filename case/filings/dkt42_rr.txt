@@ -1,0 +1,330 @@
+
+=== PAGE 1 ===
+Case 3:25-cv-00253 Document 42 Filed 04/27/26 in TXSD Page 1 of 8 
+United States District Court  
+Southern District of Texas  
+ENTERED  
+UNITED STATES DISTRICT 
+COURT  SOUTHERN 
+DISTRICT OF TEXAS  
+GALVESTON DIVISION  
+April 27, 2026  
+Nathan Ochsner, Clerk  
+§   
+D
+O
+N
+A
+L
+D 
+L
+Y
+N
+N 
+T
+H
+O
+M
+P
+S
+O
+N
+, 
+J
+R
+.
+,  
+§   
+§   
+Plaintiff.   
+§   
+§   
+V.   
+§   
+§   
+M
+A
+T
+A
+G
+O
+R
+D
+A 
+C
+O
+U
+N
+T
+Y
+, 
+e
+t 
+a
+l
+.
+,  
+§   
+§   
+Defendants.   
+CIVIL ACTION NO. 3:25-cv-000253   
+
+
+=== PAGE 2 ===
+MEMORANDUM AND RECOMMENDATION   
+Pending before me is the Matagorda County Defendants’ motion to dismiss  
+the claims asserted against them by Plaintiff Donald Thompson.1 See Dkt. 29.  
+Having reviewed the briefing, the record, and the applicable law, I recommend 
+that  the motion be granted. I also recommend that the court sua sponte dismiss 
+the  remaining defendant, Buster Jackson d/b/a Jackson Towing Services. Before 
+the  court enters final judgment, however, I recommend that Thompson be given 
+14  days from the adoption of this memorandum and recommendation to amend 
+his  complaint.   
+BACKGROUND2  
+“On May 14, 2023, [Thompson] was operating a vehicle with expired  
+registration in Markham, Texas, when he was stopped [and arrested] by”  
+Defendant Deputy Raymond Gonzales. Dkt. 1 at 6. Gonzales handcuffed, arrested,  
+and transported Thompson to the Matagorda County Jail where he was detained  
+for approximately 18 hours.   
+1 The Matagorda County Defendants are Matagorda County, Texas; Jennifer Chau, the  
+Matagorda County Attorney; Judge Jason Sanders, Justice of the Peace Precinct 1; Judge  
+Mark Finlay, Justice of the Peace Precinct 4; Matagorda County Sheriff’s Deputy  
+Raymond Gonzales; Matagorda County Sheriff’s Department; Matagorda County  
+Attorney’s Office; Michaela Riley; and unknown John and Jane Does alleged to be  
+employed by the Matagorda County Sheriff’s Department.   
+2 These facts, which I accept as true, are taken from Thompson’s complaint. See Dkt. 1.   
+Case 3:25-cv-00253 Document 42 Filed 04/27/26 in TXSD Page 2 of 8 
+On May 15, 2023, Defendant Judge Jason Sanders, Justice of the Peace for  
+Precinct 1, conducted a magistration and entered a disposition of time served  
+against Thompson.   
+On June 22, 2023, a vehicle tow hearing was held before Defendant Judge  
+Mark Finlay, Justice of the Peace for Precinct 4.3 Defendant County Attorney  
+Jennifer Chau appeared at the hearing, as did a representative of Defendant 
+
+
+=== PAGE 3 ===
+Buster  Jackson d/b/a Jackson Services. During the hearing, Thompson’s wife 
+requested  the body-worn and dash camera footage of Thompson’s arrest. Judge 
+Finlay  denied the request and ruled that the tow was lawful. Michaela Riley, a 
+records  clerk, denied Thompson’s request for access to body camera and dash 
+camera  footage.   
+On July 2, 2025, Thompson instituted this lawsuit against Jackson and the  
+Matagorda County Defendants. Thompson asserts five causes of action:  (1) 
+unlawful arrest and detention against Gonzales and Judge Sanders in their  
+individual capacities; (2) deprivation of due process against Chau, Riley, Judge  
+Finlay, and Judge Sanders in their individual capacities; (3) malicious 
+prosecution  against Chau, Judge Finlay, and Judge Sanders in their individual 
+capacities;  
+(4) civil conspiracy to violate constitutional rights against all 
+defendants; and  (5) Monell liability against Matagorda County. The Matagorda 
+County Defendants  have moved to dismiss under Rule 12(b)(6) for failure to state 
+a claim.   
+LEGAL STANDARD   
+A defendant may move to dismiss a complaint when a plaintiff fails “to state  
+a claim upon which relief can be granted.” Fed. R. Civ. P. 12(b)(6). “To survive a  
+motion to dismiss, a complaint must contain sufficient factual matter, accepted as  
+true, to ‘state a claim to relief that is plausible on its face.’” Ashcroft v. Iqbal, 556  
+U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570  
+(2007)). “A claim has facial plausibility when the plaintiff pleads factual content   
+3 Thompson does not allege that his vehicle was towed in connection with his arrest.  
+Construing all facts in Thompson’s favor, however, I presume that to be the case.   
+2   
+Case 3:25-cv-00253 Document 42 Filed 04/27/26 in TXSD Page 3 of 8 
+that allows the court to draw the reasonable inference that the defendant is liable  
+for the misconduct alleged.” Iqbal, 556 U.S. at 678. “The plausibility standard is  
+not akin to a ‘probability requirement,’ but it asks for more than a sheer 
+possibility  that a defendant has acted unlawfully.” Id. (quoting Twombly, 550 
+
+
+=== PAGE 4 ===
+U.S. at 556).  Conversely, “when the allegations in a complaint, however true, 
+could not raise a  claim of entitlement to relief, this basic deficiency should be 
+exposed at the point  of minimum expenditure of time and money by the parties 
+and the  court.” Twombly, 550 U.S. at 558 (cleaned up).   
+When evaluating a Rule 12(b)(6) motion, I accept “all well-pleaded facts as  
+true and view[] those facts in the light most favorable to the plaintiff.” Cummings  
+v. Premier Rehab Keller, P.L.L.C., 948 F.3d 673, 675 (5th Cir. 2020) (quotation  
+omitted). I “do not, however, accept as true legal conclusions, conclusory  
+statements, or naked assertions devoid of further factual enhancement.” Benfield  
+v. Magee, 945 F.3d 333, 336–37 (5th Cir. 2019) (cleaned up). “Threadbare recitals  
+of the elements of a cause of action, supported by mere conclusory statements, do  
+not suffice.” Iqbal, 556 U.S. at 678. The Fifth Circuit “hold[s] pro se plaintiffs to a  
+more lenient standard than lawyers when analyzing complaints, but pro se  
+plaintiffs must still plead factual allegations that raise the right to relief above the  
+speculative level.” Chhim v. Univ. of Tex. at Austin, 836 F.3d 467, 469 (5th Cir.  
+2016); see also Twombly, 550 U.S. at 555.   
+ANALYSIS   
+The central dispute in this case is whether it was lawful for Gonzales to 
+arrest  
+Thompson for an expired registration. Thompson concedes in his 
+complaint that  his registration was expired. See Dkt. 1 at 4. There is ample 
+authority, from the  United States Supreme Court down to the lowest courts, 
+stating that: “If an officer  has probable cause to believe that an individual has 
+committed even a very minor  criminal offense in his presence, he may, without 
+violating the Fourth Amendment,  arrest the offender.” Atwater v. City of Lago 
+Vista, 532 U.S. 318, 354 (2001); see  also State v. Gray, 158 S.W.3d 465, 469 
+(Tex. Crim. App. 2005) (“[A]n arrest for a   
+3   
+Case 3:25-cv-00253 Document 42 Filed 04/27/26 in TXSD Page 4 of 8 
+minor traffic offense is not an unreasonable seizure under the Fourth  
+Amendment.”); Jaycox v. Pyle, No. 6:18-cv-00016, 2021 WL 1140865, at *6 (S.D.  
+
+
+=== PAGE 5 ===
+Tex. Mar. 25, 2021) (“The failure to display proper vehicle registration through a  
+valid registration sticker . . . [is] lawful grounds for arrest under Texas law.”);  
+Hodnett v. State, No. 05-01-01323-CR, 2002 WL 31845821, at *2 (Tex. App.—  
+Dallas Dec. 20, 2002, pet. ref’d) (“When an officer has probable cause to believe a  
+person is committing an offense, even a traffic offense, an officer can reasonably  
+arrest that person.”).   
+Against this mountain of authority, Thompson argues that “courts in those  
+cases were not presented with the argument that the Legislature’s specific 
+remedial  provision for expired registration [in Texas Transportation Code § 
+502.407]  
+supersedes general arrest authority.”4 Dkt. 33 at 7. I appreciate 
+Thompson’s  creativity, but Thompson overlooks that, under Texas law, speeding, 
+use of a  wireless communication device, or a violation of the open container law 
+“are the  only offenses for which issuance of a written notice to appear is 
+mandatory.” Tex.  
+Transp. Code § 543.004(c) (emphasis added). Whatever 
+prohibition against arrest  Thompson believes is implied by § 502.407 cannot 
+stand in the face of the plain  language of § 543.004, which articulates exactly 
+three offenses for which officers  may not make an arrest, none of which is an 
+expired registration. Accordingly,  Gonzales committed no constitutional violation 
+by arresting Thompson.   
+In any event, Gonzales is “shielded from liability for civil damages [under  
+the qualified immunity doctrine] if [his] actions did not violate clearly established  
+statutory or constitutional rights of which a reasonable person would have  
+known.” Hope v. Pelzer, 536 U.S. 730, 739 (2002) (quotation omitted). “A right is  
+clearly established only if the right’s contours were sufficiently definite that any  
+reasonable official in the defendant’s shoes would have understood that he was   
+4 Under § 502.407 a justice of the peace may “dismiss a charge of driving with an expired  
+motor vehicle registration if the defendant . . . remedies the defect not later than the 
+20th  working day after the date of the offense or before the defendant’s first court 
+appearance  date, whichever is later.” Tex. Transp. Code § 502.407(b)(1)(A).   
+4   
+Case 3:25-cv-00253 Document 42 Filed 04/27/26 in TXSD Page 5 of 8 
+
+
+=== PAGE 6 ===
+violating it.” Mote v. Walthall, 902 F.3d 500, 505 (5th Cir. 2018) (quotation  
+omitted). “[T]he salient question . . . is whether the state of the law” at the time of  
+the incident provided Gonzales with “fair warning that [his] alleged treatment of  
+[Thompson] was unconstitutional.” Hope, 536 U.S. at 741. Thompson bears a  
+heavy burden because a right is clearly established only if relevant precedent has  
+“placed the statutory or constitutional question beyond debate.” Ashcroft v. al 
+Kidd, 563 U.S. 731, 741 (2011). Accordingly, even if Thompson’s theory is correct  
+(it is not), his argument is so novel that Gonzales would be entitled to qualified  
+immunity anyway.   
+As for Judges Sanders and Finlay, they are unquestionably entitled to  
+absolute judicial immunity for their actions as judges. See Stump v. Sparkman,  
+435 U.S. 349, 356–57 (1978) (“A judge will not be deprived of immunity because  
+the action he took was in error, was done maliciously, or was in excess of his  
+authority; rather, he will be subject to liability only when he has acted in the clear  
+absence of all jurisdiction.” (cleaned up)). Despite the crystal-clear law on this  
+point, Thompson contends that “[t]he imposition of criminal punishment for an  
+administrative infraction that was never formally charged, never pled to, and 
+never  adjudicated on the merits raises a serious question as to whether Judge 
+Sanders  acted within any cognizable jurisdiction.” Dkt. 33 at 13. Not so. The 
+Texas Code of  Criminal Procedure clearly states that justices and judges of the 
+justice and  municipal courts “shall credit the defendant for time served in jail.” 
+Tex. Code  Crim. Proc. Ann. art. 45A.251(d). Thus, Judge Sanders acted well 
+within his  jurisdiction when he credited Thompson’s time served toward the fine 
+for an  expired registration. As for Judge Finlay, Thompson contends only that his 
+actions  were wrong, not that they were outside Judge Finlay’s jurisdiction.5 
+Accordingly,  both judges are entitled to absolute judicial immunity.   
+5 To the extent that Thompson seeks to relitigate the proceedings before either Judge  
+Sanders or Judge Finlay, the Rooker–Feldman doctrine bars federal courts from  
+exercising jurisdiction over “cases brought by state-court losers complaining of injuries  
+caused by state-court judgments rendered before the district court proceedings   
+
+
+=== PAGE 7 ===
+5   
+Case 3:25-cv-00253 Document 42 Filed 04/27/26 in TXSD Page 6 of 8 
+Likewise, County Attorney Chau is entitled to immunity. Defendants  
+contend that Chau is entitled to absolute prosecutorial immunity. See Dkt. 29 at 6.  
+Thompson argues that she is not entitled to prosecutorial immunity because she  
+appeared at a purely administrative tow hearing, not a criminal hearing. I need 
+not  decide whether Chau is entitled to prosecutorial immunity because, in any 
+event,  she is entitled to qualified immunity. No reasonable attorney would think 
+that she  is violating any constitutional right simply by participating in a tow 
+hearing,  objecting to evidence, and soliciting testimony. See Mote, 902 F.3d at 
+505.6   
+The records clerk, Riley, is also entitled to qualified immunity. No  
+reasonable official would think that simply refusing to waive fees for accessing  
+bodycam footage, directing someone to another office, and citing technical issues  
+are violations of any constitutional right. See Dkt. 1 at 10. Indeed, Thompson does  
+not seriously contest Riley’s qualified immunity in his response brief, arguing only  
+that “the qualified immunity analysis is premature at this stage.” Dkt. 33 at 16. It  
+is not; Riley is entitled to qualified immunity.   
+As for the Matagorda County Attorney’s Office and Sheriff’s Department,  
+Thompson “acknowledges the legal principle that sub-entities of a county” are 
+non jural entities, and that his claims against the County Attorney’s Office and the  
+Sheriff’s Department “are effectively claims against the County.” Id. at 26.   
+As for Matagorda County, Thompson cannot establish a constitutional  
+violation that would give rise to Monell liability. Gonzales acted lawfully when he  
+arrested Thompson for an expired registration; Sanders acted lawfully when he  
+credited Thompson’s time served toward the fine for an expired registration; and  
+Chau did nothing more than appear at a tow hearing on the County’s behalf.  
+Because Thompson cannot establish a constitutional violation, his claims against   
+commenced and inviting district court review and rejection of those judgments.” Exxon  
+
+
+=== PAGE 8 ===
+Mobil Corp. v. Saudi Basic Indus. Corp., 544 U.S. 280, 284 (2005).  6 In addition to 
+Chau’s immunity, her conduct, made during the course of representing  Matagorda 
+County, is “exempt[] from a conspiracy charge under section 1985.” Heffernan  v. 
+Hunter, 189 F.3d 405, 413 (3d Cir. 1999).   
+6   
+Case 3:25-cv-00253 Document 42 Filed 04/27/26 in TXSD Page 7 of 8 
+Matagorda County must be dismissed. See Romero v. City of Grapevine, 888 
+F.3d  170, 178 (5th Cir. 2018) (holding that claims against a municipality “cannot  
+survive” where the plaintiff “failed to demonstrate” a constitutional violation);  
+Whitley v. Hanna, 726 F.3d 631, 648 (5th Cir. 2013) (“All of Whitley’s inadequate  
+supervision, failure to train, and policy, practice, or custom claims fail without an  
+underlying constitutional violation.”).   
+Lastly, I must address Jackson. There are only two references to Jackson in  
+the complaint: (1) “Defendant JACKSON TOWING SERVICES is a private towing  
+company operating in Matagorda County and may be served through its 
+registered  agent”; and (2) “Chau . . . permitted testimony from a Jackson Towing  
+representative who lacked any firsthand knowledge of the towing circumstances 
+or  vehicle location.” Dkt. 1 at 3, 5. These are not factual allegations that allow me 
+to  draw the reasonable inference that Jackson is liable for any misconduct. See 
+Iqbal,  556 U.S. at 678. Thus, I recommend that the court sua sponte dismiss 
+Thompson’s  claims against Jackson. See Carroll v. Fort James Corp., 470 F.3d 
+1171, 1177 (5th  Cir. 2006) (“As a general rule, a district court may dismiss a 
+complaint on its own  for failure to state a claim.”).   
+* * *   
+ Although I am recommending dismissal of all Thompson’s claims, Fifth  Circuit 
+precedent requires that Thompson be given leave to amend. See Ass’n of  Am. 
+Physicians & Surgeons Educ. Found. v. Am. Bd. of Internal Med., 103 F.4th  383, 
+394 (5th Cir. 2024) (“Normally, plaintiffs facing a motion to dismiss go  through a 
+process of receiving briefing from the movant, conducting research and  
+submitting opposing briefing to the district court, and finally receiving a ruling  
+identifying potential flaws in their original complaint.”).   
+CONCLUSION   
+
+
+=== PAGE 9 ===
+For the reasons discussed above, I recommend that the Matagorda County  
+Defendants’ motion to dismiss (Dkt. 29) be granted. I also recommend that the  
+court sua sponte dismiss Thompson’s claims against Jackson. Before the court   
+7   
+Case 3:25-cv-00253 Document 42 Filed 04/27/26 in TXSD Page 8 of 8 
+enters final judgment, however, I recommend that Thompson be given two weeks  
+from the adoption of this memorandum and recommendation to file an amended  
+complaint.   
+The parties have 14 days from service of this Memorandum and  
+Recommendation to file written objections. See 28 U.S.C. § 636(b)(1)(C); Fed. R.  
+Civ. P. 72(b)(2). Failure to file timely objections will preclude appellate review of  
+factual findings and legal conclusions, except for plain error.   
+SIGNED this day of April 2026.   
+   
+______________________________   
+ANDREW M. EDISON   
+UNITED STATES MAGISTRATE JUDGE   
+
+
+=== PAGE 10 ===
+8   

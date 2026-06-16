@@ -1,0 +1,155 @@
+
+=== PAGE 1 ===
+Case 3:25-cv-00253 Document 44 Filed 05/12/26 in TXSD Page 1 of 5 
+United States District Court  
+Southern District of Texas  
+ENTERED  
+UNITED STATES DISTRICT 
+COURT SOUTHERN 
+DISTRICT OF TEXAS 
+GALVESTON DIVISION  
+May 12, 2026  
+Nathan Ochsner, Clerk  
+DONALD LYNN THOMPSON, JR.,  
+§  
+§  
+Plaintiff.  
+§  
+§  
+V.  
+§  
+§  
+MATAGORDA COUNTY, et al.,  
+§  
+§  
+Defendants.   
+§  
+CIVIL ACTION NO. 3:25-cv-00253  
+ORDER ADOPTING MAGISTRATE JUDGE’S   
+MEMORANDUM AND RECOMMENDATION   
+On April 17, 2026, all pretrial matters in this case were referred to United  
+States Magistrate Judge Andrew M. Edison under 28 U.S.C. § 636(b)(1). Dkt. 41.  
+Judge Edison filed a memorandum and recommendation on April 27, 2026,  
+recommending that the Matagorda County Defendants’ motion to dismiss  (Dkt. 
+
+
+=== PAGE 2 ===
+29) be granted; that the court sua sponte dismiss the plaintiff’s claims against  
+Jackson Towing Services; and that the plaintiff be given the opportunity to file an  
+amended complaint. Dkt. 42.   
+On May 5, 2026, the plaintiff filed his objections to the memorandum and  
+recommendation. Dkt. 43. In accordance with 28 U.S.C. § 636(b)(1)(C), this court  
+is required to “make a de novo determination of those portions of the [magistrate  
+judge’s] report or specified proposed findings or recommendations to which  
+objection [has been] made.” After conducting this de novo review, the court may  
+“accept, reject, or modify, in whole or in part, the findings or recommendations  
+made by the magistrate judge.” Id.; see also Fed. R. Civ. P. 72(b)(3).  
+Case 3:25-cv-00253 Document 44 Filed 05/12/26 in TXSD Page 2 of 5 
+The court has carefully considered the objections; the memorandum and  
+recommendation; the pleadings; and the record. The court accepts Judge Edison’s  
+memorandum and recommendation and adopts it as the opinion of the court.   
+The plaintiff objects that Judge Edison failed to credit the plaintiff’s  
+allegation that the traffic stop in question was conducted without probable cause.  
+Dkt. 43 at 2. “The question of probable cause is a mixed question of law and of 
+fact.  Whether the circumstances alleged to show it probable are true, and existed, 
+is a  matter of fact; but whether, supposing them to be true, they amount to a 
+probable  cause, is a question of law.” Stewart v. Sonneborn, 98 U.S. 187, 194 
+(1878)  
+(quotation omitted). Thus, the conclusory statement that a stop was conducted  
+without probable cause is a legal conclusion that the court is not required to 
+
+
+=== PAGE 3 ===
+accept  as true. See Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (“[T]he tenet that 
+a court  must accept as true all of the allegations contained in a complaint is 
+inapplicable  to legal conclusions.”). The plaintiff’s first objection is overruled. The 
+plaintiff will  be afforded the opportunity to amend his complaint. To survive 
+another motion to  dismiss, the plaintiff must allege facts that, when accepted as 
+true, support the  notion that the stop was conducted without probable cause.   
+The plaintiff objects that Texas Transportation Code § 502.407(b) “is a state 
+created liberty and property interest protected by the Due Process Clause.” Dkt. 43  
+at 3. Not so. Section 502.407(b) vests justices of the peace and municipal court  
+judges with discretion to dismiss a charge of driving with an expired registration.  
+See Tex. Transp. Code § 502.407(b) (“A justice of the peace or municipal court   
+2  
+Case 3:25-cv-00253 Document 44 Filed 05/12/26 in TXSD Page 3 of 5 
+judge having jurisdiction of the offense may . . . .” (emphasis added)). Such  
+permissive language “cannot reasonably be taken to encourage the expectancy of  
+the right to [be free from arrest for an expired registration].” Williams v. Briscoe,  
+641 F.2d 274, 276–77 (5th Cir. Unit A 1981) (holding that a statute does not create  
+a protectable liberty interest where the decisionmaker is vested with discretion);  
+see also Olim v. Wakinekona, 461 U.S. 238, 249 (1983) (holding that where a  
+statute “place[s] no substantive limitations on official discretion and thus create[s]  
+no liberty interest entitled to protection under the Due Process Clause”). The  
+plaintiff’s second objection is overruled.   
+The plaintiff objects that Judge Edison was wrong to grant absolute  
+
+
+=== PAGE 4 ===
+immunity to Judge Sanders because Texas Code of Criminal Procedure Art.  
+45A.251(d) “provides that a justice of the peace ‘may assess a fine’ after a 
+defendant  ‘enters a plea’ or is found guilty.” Dkt. 43 at 4. The words “may assess a 
+fine” and  “enters a plea” do not appear anywhere in Art. 45A.251(d). In fact, the 
+word “plea”  is completely absent from Art. 45A.251(d). Nor do these words 
+appear in the now  
+superseded Article 45.041, which was the version of the Texas Code of Criminal  
+Procedure in effect on May 15, 2023, the date that Judge Sanders sentenced the  
+plaintiff. Even if such words were in the statute, it would mean only that Judge  
+Sanders erred, not that he acted without jurisdiction. The plaintiff’s third 
+objection  is overruled.   
+The plaintiff objects that Judge Edison failed to accept the plaintiff’s 
+pleaded  facts as true, and that the plaintiff pleaded that Defendants Chau and 
+Riley   
+3  
+Case 3:25-cv-00253 Document 44 Filed 05/12/26 in TXSD Page 4 of 5 
+“knowingly withheld material evidence and intentionally created administrative  
+barriers to cover up an unlawful arrest.” Dkt. 43 at 5 (citing Dkt. 1 ¶¶ 28–29, 46– 
+50). Specifically, the plaintiff complains that Judge Edison failed to credit his  
+allegations that Riley denied his indigency, which made it difficult for the plaintiff  
+to obtain the body camera footage of his arrest, and that Chau withheld footage  
+“that would have shown the legality of the arrest.” Dkt. 1 at 10. Judge Edison has  
+already established why, based on the plaintiff’s own admission that his  
+
+
+=== PAGE 5 ===
+registration was expired, the plaintiff’s arrest was lawful. Thus, the plaintiff must  
+allege specific facts that would be shown on the footage in question to create a  
+plausible inference that any wrongdoing by defendants occurred. The plaintiff’s  
+fourth objection is overruled.   
+Likewise, the plaintiff’s fifth objection is overruled. Judge Edison was  
+correct to dismiss the plaintiff’s Monell and conspiracy claims without an  
+underlying constitutional violation.  
+The plaintiff objects to Judge Edison’s recommendation that the court sua  
+sponte dismiss Defendant Jackson Towing Services, arguing that “the proper  
+remedy is to grant Plaintiff leave to amend.” Dkt. 43 at 6. But Judge Edison  
+recommended that the plaintiff be given leave to amend before the court enters  
+final judgment. Dkt. 42 at 8. Accordingly, the plaintiff’s sixth objection is  
+overruled.  
+Finally, the plaintiff objects that Judge Edison erred by ignoring the  
+plaintiff’s claims against the Doe defendants. The only allegations that the 
+plaintiff   
+4  
+Case 3:25-cv-00253 Document 44 Filed 05/12/26 in TXSD Page 5 of 5 
+makes against the Doe defendants are: (1) “Defendant JOHN DOE DEPUTY is an  
+unknown officer involved in Plaintiff’s transport” and (2) “Defendant JANE DOE  
+DEPUTY is an unknown officer who supervised on scene.” Dkt. 1 at 3. The mere  
+acts of transporting or supervising someone are not facts, standing alone, that  
+would give rise to the plausible inference of wrongdoing. The plaintiff’s seventh  
+
+
+=== PAGE 6 ===
+objection is overruled.   
+It is therefore ordered that:  
+(1) Judge Edison’s memorandum and recommendation (Dkt. 42) is  
+approved and adopted in its entirety as the holding of the court;   
+(2) The Matagorda County Defendants’ motion to dismiss (Dkt. 29) is  
+granted;  
+(3) Defendant Jackson Towing Services is sua sponte dismissed from this  
+action for failure to state a claim; and  
+(4) Plaintiff Donald Lynn Thompson, Jr. has two weeks from the date of  
+this order to file an amended complaint.  
+SIGNED on Galveston Island this 12th day of May 2026.  
+______________________________  
+JEFFREY VINCENT BROWN  
+UNITED STATES DISTRICT JUDGE  
+5  

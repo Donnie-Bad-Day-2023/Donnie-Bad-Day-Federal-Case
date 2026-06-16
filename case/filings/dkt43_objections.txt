@@ -1,0 +1,342 @@
+
+=== PAGE 1 ===
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 1 of 10 
+IN THE UNITED STATES DISTRICT COURT  
+FOR THE SOUTHERN DISTRICT OF TEXAS  
+GALVESTON DIVISION  
+DONALD LYNN THOMPSON, JR., Civil Action No. 3:25-cv-00253  
+Plaintiff,  
+v.  
+MATAGORDA COUNTY, et al.,  
+Defendants.  
+PLAINTIFF'S OBJECTIONS TO MAGISTRATE JUDGE ANDREW M. EDISON'S 
+MEMORANDUM AND RECOMMENDATION  
+The record before this Court consists of four documents: the Original Complaint (Dkt. 
+1), the Defendants' Motion to Dismiss (Dkt. 29), Plaintiff's Response in Opposition 
+(Dkt. 33), and the Memorandum and Recommendation (Dkt. 42). A direct comparison 
+of these documents reveals a single, dispositive defect: the Magistrate Judge did not 
+evaluate the Complaint under the governing 12(b)(6) standard. Instead, he adopted 
+the Defendants' contested legal conclusions verbatim, quoted their authority without 
+acknowledging Plaintiff's distinctions, and resolved every disputed question of law 
+and fact against the Plaintiff at the pleading stage.  
+Each of the seven objections below identifies a specific manifestation of this 
+structural failure.  
+I. GOVERNING STANDARD  
+Pursuant to the Order Referring Case (Dkt. 41), Judge Jeffery V. Brown 
+
+
+=== PAGE 2 ===
+referred this matter to Magistrate Judge Andrew M. Edison to issue a Memorandum 
+and Recommendation  
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 2 of 10 
+(Dkt. 42), which recommends dismissal of Plaintiff's Original Complaint (Dkt. 1). 
+Plaintiff timely files these Objections.  
+Under Federal Rule of Civil Procedure 72(b)(3) and 28 U.S.C. § 636(b)(1), the 
+District Judge must determine de novo any part of the magistrate judge's disposition 
+that has been properly objected to. A Rule 12(b)(6) review requires absolute judicial 
+neutrality: the Court must accept all well-pleaded facts as true and draw all 
+reasonable inferences in the Plaintiff's favor. Ashcroft v. Iqbal, 556 U.S. 662, 678 
+(2009). The Magistrate Judge abandoned this standard. As the objections below 
+demonstrate, he adopted the Defendants' Motion to Dismiss (Dkt. 29) as the 
+framework for his analysis and ignored Plaintiff's explicit rebuttals (Dkt. 33).  
+II. OBJECTIONS  
+Objection 1: The Magistrate Judge Adopted Defendants' Retroactive 
+Justification for the Seizure, Ignoring Plaintiff's Pleaded Facts.  
+Plaintiff explicitly pleaded that the seizure and detention were "conducted 
+without probable cause" (Dkt. 1, ¶39). At the 12(b)(6) stage, the Magistrate was 
+required to accept this fact as true. Instead, he adopted the Defendants' logical 
+fallacy: that the arrest was lawful simply because the registration was expired (Dkt. 
+29, p. 10). Plaintiff warned the Court that Defendants were "assuming the conclusion 
+they are required to prove" (Dkt. 33, p. 8). The Magistrate nonetheless ruled: "The 
+central dispute in this case is whether it was lawful for Gonzales to arrest Thompson 
+for an expired registration. Thompson concedes in his complaint that his registration 
+was expired." (Dkt. 42, p. 3).  
+
+
+=== PAGE 3 ===
+This is a failure of the 12(b)(6) standard and a violation of the Fourth 
+Amendment. Under well-established Fourth Amendment law, the legality of a seizure 
+must be justified at its inception; an officer may not initiate a stop based on facts that 
+become known only after the stop has occurred, and probable cause must exist at the 
+time of the seizure, not be reconstructed after the fact. By relying on Plaintiff's 
+post-incident admission to cure the  
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 3 of 10 
+officer's lack of probable cause prior to the stop, the Magistrate permitted 
+unconstitutional retroactive justification.  
+Moreover, the Magistrate conflated two distinct Fourth Amendment inquiries: 
+(1) whether probable cause existed to initiate the stop, and (2) whether probable 
+cause existed to effect a custodial arrest. The existence of an expired registration 
+does not establish that Deputy Gonzales observed it before activating his lights, nor 
+does it establish that a custodial arrest was authorized under Texas law for a 
+non-jailable Class C misdemeanor. These are separate constitutional questions that 
+the M&R impermissibly collapsed into a single, defense-favorable conclusion.  
+Objection 2: The Magistrate Judge Ignored Plaintiff's Fourteenth 
+Amendment Due Process Claim by Analyzing § 502.407 Solely Through 
+the Defendants' Fourth Amendment Lens.  
+The Magistrate (Dkt. 42, p. 4) analyzed Texas Transportation Code § 502.407 
+solely to determine whether an officer can arrest for expired registration, mirroring the 
+Defendants' argument. He completely ignored Plaintiff's Fourteenth Amendment Due 
+Process claim (Dkt. 1, ¶22; Dkt. 33, pp. 4-6). Section 502.407(b) grants a citizen the 
+statutory right to remedy an expired registration within 20 working days, resulting in 
+dismissal. Plaintiff pleaded he was denied this opportunity and immediately given a 
+
+
+=== PAGE 4 ===
+criminal disposition of "time served" (Dkt. 1, ¶21-22).  
+The statutory right created by § 502.407(b)—the right to remedy the defect 
+within 20 working days and receive a dismissal—is a state-created liberty and 
+property interest protected by the Due Process Clause. It is well-established that 
+statutory entitlements create property interests protected by due process. Judge 
+Sanders's imposition of "time served" affirmatively extinguished this statutory right. 
+The arbitrary denial of a state-created statutory right violates the Due Process 
+Clause.  
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 4 of 10 
+The Magistrate characterized Plaintiff's § 502.407 argument as merely 
+"creative" (Dkt. 42, p. 4) rather than addressing it on its legal merits. A plaintiff's 
+reliance on the plain text of a statute is not "creative"—it is the most traditional form of 
+legal argument. The Legislature enacted § 502.407's remedial framework for the 
+precise situation at issue in this case. Dismissing the argument without legal analysis 
+is error.  
+Objection 3: The Magistrate Judge Ignored Pleaded Facts to Grant Absolute 
+Immunity for Acts Taken in the Clear Absence of Jurisdiction.  
+The Magistrate (Dkt. 42, p. 5) concluded Judge Sanders "acted well within his 
+jurisdiction when he credited Thompson's time served" under Texas Code of Criminal 
+Procedure Art. 45A.251(d). This ruling violates the 12(b)(6) standard because the 
+statute, by its own terms, requires a prerequisite that Plaintiff alleges did not occur. 
+Article 45A.251(d) provides that a justice of the peace "may assess a fine" after a 
+defendant "enters a plea" or is found guilty. Tex. Code Crim. Proc. Art. 45A.251(d). 
+Plaintiff explicitly pleaded that Judge Sanders entered this disposition "without a plea, 
+and without advising Plaintiff of his rights" (Dkt. 1, ¶21). The Magistrate was required 
+
+
+=== PAGE 5 ===
+to accept as true that no plea occurred. Instead, he applied a statute that, on its own 
+terms, requires a prerequisite that Plaintiff alleges did not occur—and resolved that 
+factual dispute in the Defense's favor.  
+A judge who unilaterally imposes a criminal sentence on an unadjudicated 
+citizen acts in the "clear absence of all jurisdiction" and is stripped of absolute 
+immunity. Stump v. Sparkman, 435 U.S. 349, 356-57 (1978). The Magistrate 
+improperly resolved this factual dispute in favor of the Defense at the pleading stage.  
+Objection 4: The Magistrate Judge Rewrote Plaintiff's Complaint to Grant 
+Qualified Immunity.  
+Rather than accepting Plaintiff's facts as true, the Magistrate sanitized the 
+Defendants' conduct, stating Chau was "simply participating in a tow hearing" and 
+Riley was "simply  
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 5 of 10 
+refusing to waive fees" (Dkt. 42, p. 6). Plaintiff did not plead they "simply participated." 
+Plaintiff pleaded they knowingly withheld material evidence and intentionally created 
+administrative barriers to cover up an unlawful arrest (Dkt. 1, ¶28-29, 46-50).  
+At the 12(b)(6) stage, a court may not rewrite the complaint to minimize 
+alleged constitutional violations. A court evaluating a motion to dismiss does not 
+weigh the evidence or make credibility determinations, and may not recast the 
+plaintiff's allegations to minimize their constitutional significance. By recharacterizing 
+deliberate suppression as mere participation, the Magistrate engaged in precisely the 
+recasting that the 12(b)(6) standard forbids.  
+Objection 5: The Dismissal of the Monell and Conspiracy Claims Rests on 
+the Same Structural Failure.  
+Because the Magistrate abandoned the 12(b)(6) standard to erroneously 
+
+
+=== PAGE 6 ===
+dismiss 
+the 
+underlying 
+Fourth 
+and 
+Fourteenth 
+Amendment 
+claims, 
+his 
+recommendation to dismiss the Monell and Conspiracy claims (Dkt. 42, pp. 6-7) 
+automatically collapses. These derivative claims survive or fall with the underlying 
+constitutional violations. Additionally, the Magistrate ignored Plaintiff's pleaded facts 
+that Judge Sanders and County Attorney Chau acted as final policymakers for the 
+County (Dkt. 1, ¶68-73)—a recognized basis for municipal liability. Assuming no 
+constitutional violation to defeat derivative claims is the opposite of the standard of 
+review on a motion to dismiss.  
+Objection 6: The Magistrate Judge Erred in Recommending Sua Sponte 
+Dismissal of Jackson Towing Services Without Notice or Opportunity to 
+Amend. The Magistrate recommended sua sponte dismissal of Defendant Jackson 
+Towing Services (Dkt. 42, p. 7). The Fifth Circuit strictly holds that a district court errs 
+in dismissing a claim sua sponte without giving the plaintiff notice and an opportunity 
+to respond. Plaintiff pleaded that Jackson Towing was a participant in the events (Dkt. 
+1, ¶15, 26) and part of the  
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 6 of 10 
+overarching civil conspiracy (Count IV). If the Court finds the allegations against 
+Jackson Towing insufficient, the proper remedy is to grant Plaintiff leave to amend, 
+not sua sponte dismissal.  
+Objection 7: The Magistrate Judge Erred by Completely Ignoring the Claims 
+Against the Unidentified "John Doe" and "Jane Doe" Deputies.  
+Plaintiff named "JOHN DOE DEPUTY, Transport Deputy" and "JANE DOE 
+DEPUTY, On-Scene Supervisor" as defendants in their individual and official 
+capacities (Dkt. 1, ¶12-13), pleading that multiple deputies participated in the unlawful 
+seizure, the transportation, and the subsequent search of Plaintiff's vehicle. The 
+
+
+=== PAGE 7 ===
+Defendants' Motion to Dismiss (Dkt. 29) failed to address their specific conduct. 
+Consequently, the M&R (Dkt. 42) omits any 12(b)(6) analysis regarding their actions.  
+The use of Doe defendants in civil rights actions is well-established and 
+permits the plaintiff, through discovery, to identify the specific individuals whose 
+conduct violated his constitutional rights. See Fed. R. Civ. P. 15(c) (relation back of 
+amendments changing party names). Dismissing these defendants without any legal 
+analysis or opportunity for discovery to ascertain their identities is reversible error.  
+III. VERBATIM ADOPTION: COMPARATIVE TABLE  
+The following table illustrates the M&R's reliance on the Defendants' Motion. For 
+every contested issue, the M&R adopts the Defense position, relies on Defense 
+authority, and reaches the Defense conclusion.  
+Issue  
+Dkt. 29 (Defense Motion)  
+Dkt. 42 (M&R) 
+1  
+Arrest for expired registration is categorically 
+lawful. Dkt. 29 at 3. 
+Adopts same premise, citing Atwater. Dkt. 42 at 
+3-4. 
+2  
+Cites Jaycox, Hodnett, 
+Dominguez-Ramil, Blake. Dkt. 29 at 3-4. 
+Cites same cases. No acknowledgment of 
+Dkt. 33 distinctions. Dkt. 42 at 4. 
+ 
+ 
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 7 of 10 
+Issue  
+Dkt. 29 (Defense Motion)  
+Dkt. 42 (M&R) 
+3  
+“Plaintiff’s arrest was lawful.” Dkt. 29 at 4.  
+“Gonzales committed no constitutional 
+violation.” Identical logic. Dkt. 42 at 4. 
+4  
+Suppressed evidence immaterial 
+because arrest “legal.” Dkt. 29 at 4. 
+Never addresses evidence suppression  
+independently. 
+5  
+Judges entitled to absolute immunity under 
+Stump. Dkt. 29 at 5-6. 
+“Unquestionably entitled to absolute 
+judicial immunity.” Same authority. 
+Dkt. 42 at 5. 
+
+
+=== PAGE 8 ===
+6  
+Chau entitled to prosecutorial immunity 
+under Imbler. Dkt. 29 at 6-7.  
+Riley entitled to qualified immunity. Dkt. 29 at 
+7-8. 
+“County Attorney Chau is entitled to 
+immunity.” Same authority. No 
+engagement with  
+administrative-hearing distinction. Dkt. 42 at 6.  
+“Records clerk Riley is also entitled to 
+qualified immunity.” Same reasoning. 
+Dkt. 42 at 6. 
+7  
+Monell fails because no underlying violation. 
+Dkt. 29 at 11-13. 
+“Cannot establish a constitutional 
+violation, so claims against County must 
+be dismissed.” Same circular reasoning. 
+Dkt. 42 at 6-7. 
+8  
+County Attorney’s Office and Sheriff’s 
+Dept. are non-jural under Darby. Dkt. 29 
+at 8-9. 
+Treats claims as against County. Only 
+concession 
+is 
+Plaintiff’s 
+own 
+acknowledgment in Dkt. 33. Dkt. 42 at 6. 
+ 
+ 
+IV. THE STRUCTURAL PATTERN  
+Three features of the M&R confirm that the Magistrate Judge did not independently 
+evaluate the legal questions presented.  
+A. Citation Pattern. The M&R cites Dkt. 29 repeatedly and favorably. It cites 
+Dkt. 33 only twice: once to dismiss Plaintiff's § 502.407 argument as "creative," and 
+once to mischaracterize Plaintiff's qualified-immunity argument as a failure to contest 
+immunity. Dkt. 42 at 4, 6. It never cites Dkt. 33 for the purpose of engaging with its 
+arguments. This pattern reveals that the M&R treated the Defense motion as its 
+primary source and Plaintiff's opposition as basically nonexistent or just an 
+afterthought.  
+B. Logical Structure. The Defense motion follows a single logical chain: (1) 
+the arrest was lawful; (2) therefore all officials are immune; (3) therefore no 
+underlying violation exists;  
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 8 of 10 
+(4) therefore all derivative claims fail. The M&R follows this exact chain. It does not 
+
+
+=== PAGE 9 ===
+independently evaluate each claim; it applies the Defense's logical structure and 
+reaches the Defense's conclusions. This is adoption, not adjudication.  
+C. Standard Applied. On a motion to dismiss, the Court must accept the 
+plaintiff's factual allegations as true and draw all reasonable inferences in the 
+plaintiff's favor. Iqbal, 556 U.S. at 678. The M&R states this standard but does not 
+apply it. It accepts the Defense's legal conclusions as true (the arrest was lawful; 
+probable cause existed; immunity applies) and draws all inferences in the Defense's 
+favor. The Complaint alleges that the stop and arrest were without probable cause, 
+that due process was violated, and that evidence was suppressed. Dkt. 1 at 6-10. 
+These allegations must be accepted as true at this stage. The M&R assumes they 
+are false and builds its analysis on that assumption.  
+V. CONCLUSION AND PRAYER FOR RELIEF  
+The Magistrate Judge characterizes Plaintiff's reliance on the plain text of the law as 
+"creativity" (Dkt. 42, p. 4).  
+But it requires impermissible judicial "creativity" to retroactively invent probable 
+cause, to recharacterize the deliberate suppression of evidence as an innocent glitch, 
+and to grant absolute immunity for a criminal sentence imposed without a plea. The 
+M&R is not a neutral 12(b)(6) evaluation; it is a verbatim adoption of the Defendants' 
+flawed Motion to Dismiss.  
+WHEREFORE, Plaintiff respectfully requests that this Court:  
+1. Conduct a de novo review of each objection raised herein;  
+2. REJECT the Magistrate Judge's Memorandum and Recommendation 
+(Dkt. 42) in its entirety;  
+3. DENY the Defendants' Motion to Dismiss (Dkt. 29);  
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 9 of 10 
+4. GRANT Plaintiff leave to file a First Amended Complaint to address 
+
+
+=== PAGE 10 ===
+any perceived pleading deficiencies and to incorporate additional factual 
+allegations; 5. Allow this matter to proceed to discovery;  
+6. Reassign any further referral of this matter to a different Magistrate 
+Judge, as the record establishes that Magistrate Judge Edison adopted the 
+Defendants' legal framework as his own (see Section III, Comparative 
+Table; Section IV, Structural Pattern), making further referrals to him 
+inappropriate; and  
+7. Grant such other and further relief as the Court deems just and 
+proper. Respectfully submitted on May 5, 2026  
+/s/ Donald Lynn Thompson Jr.  
+Donald Lynn Thompson Jr.  
+PO Box 521  
+Markham, Texas 77456  
+Email: Thompson-V-Matagorda@proton.me  
+Backup: ginnyleethompson430@gmail.com  
+donniethompson430@gmail.com  
+CERTIFICATE OF SERVICE  
+I hereby certify that on May 5, 2026, a true and correct copy of the foregoing 
+PLAINTIFF'S OBJECTIONS TO MAGISTRATE JUDGE ANDREW M. EDISON'S 
+MEMORANDUM AND RECOMMENDATION is available for counsel for Defendants, 
+Matagorda County et al., via the Court's CM/ECF system electronic filing access 
+portal, in accordance with the Federal Rules of Civil Procedure. For the following 
+named attorneys:  
+Case 3:25-cv-00253 Document 43 Filed 05/05/26 in TXSD Page 10 of 10 
+
+
+=== PAGE 11 ===
+Ben Stephens and Kate David With  
+HUSCH BLACKWELL LLP  
+600 Travis Street, Suite 2350  
+Houston, Texas 77002  
+Attorneys for Matagorda County Defendants  
+Respectfully,  
+/s/ Donald Lynn Thompson Jr.  
+Donald Lynn Thompson Jr.  
+PO Box 521  
+Markham, Texas 77456  
+Email: Thompson-V-Matagorda@proton.me  
+Backup: ginnyleethompson430@gmail.com  
+donniethompson430@gmail.com  
