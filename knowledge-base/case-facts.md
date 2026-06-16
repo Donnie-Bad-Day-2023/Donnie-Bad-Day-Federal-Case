@@ -57,9 +57,9 @@ Markham, Texas — 500 block of Ave I / 6th Street corner, in front of Tina Phil
 |------|-------|
 | ~22:17 | Plaintiff leaves house at 194 8th Street West, Markham TX |
 | ~22:17–22:20 | Plaintiff makes multi-turn trip (8th St → Ave H → 6th St → Ave I); sees parked sheriff vehicle; makes U-turn observation; turns left onto Ave I |
-| 22:20 | Deputy Gonzales activates overhead lights — no prior stop or contact |
-| 22:20 | Incident report states: "OBSERVED a 2 door White in color Chrysler Sebring with an expired registration of February 2022 traveling south on Ave I" — HOW he observed this at night, 90° angle, no street lights, sticker on far side of vehicle, is NOT articulated in report |
-| 22:22 | Plaintiff arrested — approximately 2 minutes from lights activation |
+| 22:20 | Deputy Gonzales OBSERVES vehicle AND activates overhead lights — simultaneously |
+| 22:20 | **LEGAL SIGNIFICANCE — Observation ≠ Verification:** The incident report states "OBSERVED a 2 door White in color Chrysler Sebring with an expired registration of February 2022 traveling south on Ave I." An observation provides only a reason to initiate a stop — it does NOT establish probable cause. Texas law requires VERIFICATION of the alleged violation before probable cause exists. The deputy's observation at 22:20 is the REASON TO STOP, not proof of the violation. HOW he observed the expired sticker at night, 90° angle, sticker on far side of vehicle, no street lights, is NOT articulated in the report. |
+| 22:22 | **VERIFICATION NEVER OCCURRED — Plaintiff arrested approximately 2 minutes after lights activation.** There was no time interval between 22:20 and 22:22 for any verification of the expired registration to occur. Deputy never ran the plate, never checked registration status, never confirmed the sticker was still expired. The vehicle could have been registered in the 15 months since the alleged February 2022 expiration. Custody was taken BEFORE any verification occurred — this defeats probable cause for the arrest. |
 | 22:22–22:39 | Searched, cuffed, placed in patrol vehicle; deputies search plaintiff's vehicle with flashlights |
 | 22:39 | Booked into Matagorda County jail, Bay City TX |
 | ~22:40 | Vehicle towed from Tina Phillips' driveway to Jackson Towing Services |

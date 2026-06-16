@@ -8,9 +8,11 @@
   3. Deputy had no lawful basis to initiate the stop
 - **Defendants:** R. Gonzales (Deputy Raymond Gonzales), Doe Deputies
 - **Key Facts:**
-  - Deputy activated lights at 22:20 — no prior contact or observation of violation
+  - Deputy activated lights at 22:20 — simultaneous with observation of the vehicle
+  - **Observation ≠ Verification — the core Fourth Amendment violation:** An observation provides only a reason to initiate a stop. Texas law requires VERIFICATION of the alleged violation BEFORE probable cause exists. The deputy's 22:20 observation is the reason-to-stop, not proof of the violation.
+  - **Verification never occurred:** There was no time interval between 22:20 (observation/lights) and 22:22 (custody) for any verification — no plate check, no registration check, no confirmation the sticker was still expired. The vehicle could have been registered in the 15 months since the alleged February 2022 expiration.
   - Plaintiff's vehicle was traveling lawfully; no speeding, no erratic driving, no evasive maneuvers
-  - Deputy's incident report does NOT articulate HOW he observed the expired registration sticker at night, 90° angle, sticker on far side of vehicle, no street lights
+  - Deputy's incident report does NOT articulate HOW he observed the expired registration sticker at night, 90° angle, sticker on far side of vehicle turning away from him, no street lights
   - Report contains two different vehicle descriptions (Chrysler Sebring vs. "Sebring pickup") — suggests fabrication or inconsistency
   - This is the threshold issue: if the stop was unlawful, everything that followed is fruit of the poisonous tree
 
@@ -26,7 +28,7 @@
   - Plaintiff was physically yanked from his vehicle, door opened from outside (broken interior handle)
   - No citation offered; no opportunity to correct registration within 20-day remedial window
   - Arrest effectuated in approximately 2 minutes from lights activation — no investigation occurred
-  - Deputy never positioned to verify registration before initiating stop (vehicles at 90° angle, night, no street lights)
+  - **Verification-before-custody rule violated:** Deputy never positioned to verify registration before custody was taken. The 22:20 observation/lights activation and 22:22 custody were approximately 2 minutes apart — insufficient time for any plate check, registration status check, or confirmation the sticker was still expired. Custody was imposed BEFORE any verification occurred, defeating probable cause for the arrest.
 
 ## Claim 3: Fabricated Prosecution
 - **Constitutional Basis:** Fourteenth Amendment due process
