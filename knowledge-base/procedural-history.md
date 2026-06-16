@@ -15,7 +15,7 @@
 | 05/05/2026 | 43 | Plaintiff's Objections to R&R — 7 objections; core argument: Magistrate adopted Defendants' framework verbatim, failed 12(b)(6) standard | Filed |
 | 05/12/2026 | 44 | Order Adopting R&R — Judge Brown: de novo review, overrules all 7 objections. MTD granted. Jackson Towing dismissed. **2-week deadline to amend: 05/26/2026** | **ENTERED** |
 | 05/25/2026 | 45 | First Amended Complaint — 9 counts filed within deadline | **FILED ON TIME** |
-| 05/28/2026 | 48 | More Definite Statement — filed by Mark Finlay (via counsel Ben Stephens) | **ACTIVE — needs response** |
+| 05/28/2026 | 48 | **Notice of Total Substitution of First Amended Complaint** — Plaintiff's own filing explaining the FAC is a complete structural rewrite (not track-changes); provides Court a guide to changes | **FILED** |
 
 ## Procedural Posture Summary
 
@@ -46,8 +46,9 @@
             V-Deprivation of Due Process, VI-Brady/Evidence Suppression,
             VII-Malicious Prosecution, VIII-Civil Conspiracy, IX-Monell
            ↓
-05/28/2026  Dkt 48 More Definite Statement filed by Finlay
-            • ACTIVE — response in progress
+05/28/2026  Dkt 48 Notice of Total Substitution (Plaintiff's own filing)
+            Explains FAC is complete rewrite, not redline;
+            provides structural change guide for the Court
 ```
 
 ## Key Legal Rulings So Far
@@ -76,6 +77,13 @@
 | VIII | Civil Conspiracy (§ 1985(3), § 1986) | All Defendants | Meeting of the minds; overt acts: fabrication of records, suppression of footage, perjured testimony, threat to witness Tina Phillips |
 | IX | Monell Municipal Liability | Matagorda County | County-wide custom of fabricating government records; Sheriff Osborne + Judge Sanders criminal convictions for Tampering with Governmental Records (Dkt 38, 38-1, 38-2) |
 
+## Dkt 48 — Notice of Total Substitution (05/28/2026)
+Filed by Plaintiff. Not a More Definite Statement from Finlay — that is a mislabeling. Dkt 48 is Plaintiff's own Notice explaining:
+- FAC is a **complete structural rewrite**, not a track-changes/redline document
+- Factual restructuring: legal conclusions replaced with precise physical/geometric/temporal facts
+- Evidentiary integration: Exhibits A-F embedded directly into factual narrative
+- Reframing of claims: non-suable departments removed; individual liability focused on active participants; Monell anchored to judicially noticed convictions
+
 ## Key Exhibits Referenced in FAC
 - **Exhibit A** — Incident Report #2023-0477
 - **Exhibit B** — Sworn Expired Registration Affidavit (blank judicial signature block)
@@ -84,20 +92,12 @@
 - **Exhibit E** — Register of Actions, Case No. 1-23-TR-0306 (post-dated May 16 conviction)
 - **Exhibit F** — Riley email with exact video timestamps and cost calculation ($104.26)
 
-## What the FAC Cured (vs. Original Complaint)
-- **Specific facts** instead of legal conclusions for each count
-- **Vehicle description discrepancies** documented: "2-door sedan" (impossible — no such model), "said pickup" (impossible — Chrysler never made a Sebring pickup)
-- **Blank probable cause signature block** — no magistrate ever reviewed
-- **Specific facts bodycam footage would show** (per Dkt 44's requirement)
-- **Monell theory backed by criminal records of final policymakers**: Sheriff Osborne (2021) + Judge Sanders (2019) — both convicted of Tampering with Governmental Records
-- **Michael Morton Act** claim (Tex. Code Crim. Proc. Ann. art. 39.14) against Chau
-- **Heck argument**: May 16 conviction is void ab initio — entered in absentia after plaintiff already released
-
 ## Current Status
 - Dkt 45 (FAC) filed — 9 counts, 42 pages, specific facts for every claim
-- Dkt 48 (More Definite Statement) from Finlay — active, needs response
+- Dkt 48 filed — Notice of Total Substitution (own filing)
+- **No active defense More Definite Statement exists in the record as of filing date**
 - Jackson Towing: dismissed but answered (Dkt 26) — procedural status with court unclear
-- Doe deputies: never served — Jane Doe deputy (female on scene) now identified but not served
+- Doe deputies: never served
 
 ## Tags
 `#procedural-history` `#live`

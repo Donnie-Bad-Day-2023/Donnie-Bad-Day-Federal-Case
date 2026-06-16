@@ -8,7 +8,7 @@ All case documents. Documents are shared via Google Drive links only — no loca
 |----------|-------|------|-------------------|
 | Original Complaint | 1 | 07/07/2025 | https://docs.google.com/document/d/1LP9NW0IfRIMvLGJpbAPOCY6QlfN4VNRqHdpYbTnMk4I/edit?usp=sharing |
 | First Amended Complaint | 45 | 05/25/2026 | https://docs.google.com/document/d/1S-MqeLXFuWT-CetZbZoytxh-Uy1jdFmFrws19_Dqm4I/edit?usp=sharing |
-| More Definite Statement | 48 | 05/28/2026 | (pending — Google Drive link needed) |
+| Notice of Total Substitution (Dkt 48) | 48 | 05/28/2026 | https://docs.google.com/document/d/1O26e20j8vDWffw-I-MRh9BRZFF_6m9NqvG8PE4uyxoc/edit?usp=sharing |
 
 ## Motions
 
@@ -38,7 +38,7 @@ All case documents. Documents are shared via Google Drive links only — no loca
 
 | Document | Status | Notes |
 |----------|--------|-------|
-| Response to More Definite Statement | DRAFT | In progress |
+| Response to More Definite Statement | DRAFT | Mislabeled — Dkt 48 is actually plaintiff's own Notice of Total Substitution, not a defense filing. No defense MDS exists in the record as of filing date. |
 
 ## Tags
 `#documents` `#docket`
