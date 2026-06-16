@@ -43,7 +43,7 @@ A complete § 1983 civil rights litigation toolkit:
 2. **Proactive updates.** If the workspace was modified, the user should not have to ask — commit without prompting.
 3. **Documents are shared via Google Drive links only.** No local uploads.
 4. **Git commits happen without asking.** Add, commit, push — describe what changed.
-5. **No remote is configured.** `git push` fails silently without a remote. User manages remote separately.
+5. **Remote configured.** GitHub: `Donnie-Bad-Day-2023/Donnie-Bad-Day-Federal-Case`. Pushes now succeed — no longer silent.
 6. **No legal advice.** This is a tool for document production and case management. The user is the litigant.
 7. **Everything is scoped to this workspace.** Never drift to sibling directories or other projects.
 
