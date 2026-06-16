@@ -2,7 +2,7 @@ Exhibit C — Booking Sheet
 
 Case: Donald Lynn Thompson Jr. v. Matagorda County et al.
 
-Case No.: 3:25-cv-00253 — USDC S.D. Tex., Galveston Division
+Case No.: 3:25-cv-00253 — US Federal Court Southern District 8Tex., Galveston Division
 
 Document Summary
 
@@ -116,7 +116,7 @@ Court: (blank)
 
 Court Date: (blank)
 
-Bond Amt: $5.00
+Bond Amt: $0.00
 
 Citation #: 2023-0477
 
@@ -148,7 +148,7 @@ Printed: 06/20/2023 13:47 — RILEY, M — Page 1 of 2
 
 Strategic Significance
 
-The booking sheet was printed by Defendant Riley on 6/20/2023 — just before the tow hearing — with the
+The booking sheet was printed by Defendant Riley on 6/20/2023 — 36 days after release and just before the tow hearing — with the
 
 Judge, Court, Court Date, and Disposition fields all blank. This confirms that no judicial process had been
 
