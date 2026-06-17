@@ -12,8 +12,8 @@ A formal policy directly causes a constitutional violation.
 ### 2. Widespread Custom (Primary Theory Here)
 A persistent, widespread practice that is so well-settled as to constitute custom.
 - **Dkt 38 Exhibits A & B** establish this at the policymaker level:
-  - **Sheriff Frank "Skipper" Osborne** (Final Policymaker — Law Enforcement): Case No. 20-130-283, 130th Dist. Court — **GUILTY plea** to Attempt to Commit Tamper with Governmental Record (TPC § 37.10), June 25, 2021
-  - **Judge Jason Sanders** (Final Policymaker — Judiciary): Case No. 2019-0108, Matagorda County Court — **NOLO CONTENDERE plea** to Tamper with Governmental Record (TPC § 37.10), November 18, 2019
+  - **Sheriff Frank "Skipper" Osborne** (Final Policymaker — Law Enforcement): Case No. 20-130-283, 130th Dist. Court — **GUILTY plea** to Attempt to Commit Tamper with Governmental Record (TPC § 37.10), **June 25, 2021**
+  - **Judge Jason Sanders** (Final Policymaker — Judiciary): Case No. 2019-0108, Matagorda County Court — **NOLO CONTENDERE plea** to Tamper with Governmental Record (TPC § 37.10), **November 18, 2019**
   - Both are County Final Policymakers whose criminal conduct = official custom of the County
   - This is NOT subordinate officer misconduct — it is policymaker-level criminal conduct establishing the custom directly
 
@@ -43,8 +43,8 @@ Pembaur v. City of Cincinnati, 475 U.S. 469, 480-81 (1986): A municipality is li
 - Judge Sanders: final policymaker for JP court records and ministerial functions
 
 ## Connected Criminal Cases
-- **Case No. 20-130-283** (Sheriff Osborne) — 130th District Court, Matagorda County
-- **Case No. 2019-0108** (Judge Sanders) — Matagorda County Court
+- **Case No. 20-130-283** (Sheriff Osborne) — 130th District Court, Matagorda County — GUILTY plea, June 25, 2021
+- **Case No. 2019-0108** (Judge Sanders) — Matagorda County Court — NOLO CONTENDERE plea, November 18, 2019
 
 ## Key Distinction from Romero / Whitley
 Romero v. City of Grapevine and Whitley v. Hanna require an underlying constitutional violation to sustain Monell liability. Here, the criminal records of the Final Policymakers themselves establish the custom — the custom IS the constitutional violation at the policymaker level.

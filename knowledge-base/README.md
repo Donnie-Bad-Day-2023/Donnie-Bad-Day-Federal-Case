@@ -15,14 +15,14 @@ authoritative reference — update it the moment anything changes.
 | `brady-evidence.md` | Brady material: withheld evidence, chain of custody, impact on prosecution |
 | `monell.md` | Monell municipal liability: policy/custom/practice, failure to train, ratification |
 | `legal-research.md` | Case law citations, legal rules, research notes |
-| `documents/index.md` | Index of all case documents with Google Drive links |
+| `procedural-history.md` | Full timeline of filings, rulings, and procedural posture |
+| `brady-evidence.md` | Withheld bodycam/dashcam footage, suppression chain |
 
 ## Update Rules
 
 - **`docket-log.md`** — update immediately after any new filing
 - **`outstanding-tasks.md`** — update at end of every session
 - **`case-facts.md`** — update only when a fact permanently changes (e.g., new service, new defendant)
-- **`documents/index.md`** — update whenever a new document is created or linked
 
 ## Tags
 

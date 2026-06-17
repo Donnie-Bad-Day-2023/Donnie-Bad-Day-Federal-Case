@@ -130,7 +130,7 @@
   1. **Express Policy:** Full custodial arrest for Subtitle A traffic offenses regardless of circumstances — bypasses 20-day remedial function and citation-and-release mandate
   2. **Widespread Custom:** Persistent practice of claiming "observed expired registration" as pretext without any articulated factual basis for how the observation was made
   3. **Failure to Train:** No training on Subtitle A vs. Subtitle C distinctions; no training on Brady obligations; no training on citation-and-release requirements for Class C misdemeanors
-  4. **Ratification:** Sheriff Osborne (2019 conviction) + Judge Sanders (2021 conviction) for Tampering with Governmental Records — Dkt 38-1, 38-2; County Attorney Chau ratified conduct at tow hearing
+  4. **Ratification:** Sheriff Osborne (2021 conviction — Case No. 20-130-283, GUILTY plea June 25, 2021) + Judge Sanders (2019 conviction — Case No. 2019-0108, NOLO CONTENDERE November 18, 2019) for Tampering with Governmental Records — Dkt 38-1, 38-2; County Attorney Chau ratified conduct at tow hearing
 - **See also:** `monell.md`
 
 ## Tags

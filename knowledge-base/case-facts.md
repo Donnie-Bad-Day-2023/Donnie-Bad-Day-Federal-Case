@@ -20,7 +20,7 @@ Traffic stop, unlawful arrest, fabricated criminal prosecution, Brady violations
 
 | Time | Event |
 |------|-------|
-| ~22:17 | Plaintiff departs Tina Phillips' residence, 507 Ave I, Bay City TX |
+| ~22:20 | Plaintiff departs Tina Phillips' residence, 507 Ave I, Bay City TX |
 | ~22:20 | Deputy Gonzales activates emergency lights behind plaintiff's vehicle |
 | ~22:22 | Plaintiff arrested, handcuffed, shoulder injury sustained |
 | ~22:39 | Plaintiff booked into Matagorda County Jail |

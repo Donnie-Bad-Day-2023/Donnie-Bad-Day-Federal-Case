@@ -8,7 +8,7 @@
 
 ## What This Is
 
-This is the litigation workspace for Donald L. Thompson Jr.'s federal civil rights action under 42 U.S.C. § 1983. The case arises from events on April 14, 2023: a traffic stop, wrongful tow, unlawful arrest, and fabricated state prosecution.
+This is the litigation workspace for Donald L. Thompson Jr.'s federal civil rights action under 42 U.S.C. § 1983. The case arises from events on May 14, 2023: a traffic stop, unlawful arrest, fabricated criminal prosecution, Brady violations, and Monell municipal liability.
 
 ## File Structure
 
@@ -61,7 +61,7 @@ Plaintiff: Donald Lynn Thompson Jr.
 Email: Thompson-v-Matagorda@proton.me
 194 8th Street West, Markham TX 77456
 
-Defense counsel: Ben Stephens / Kate David
+Defense counsel: Benjamin Riley Stephens (Husch Blackwell)
 HUSCH BLACKWELL LLP, 600 Travis Street Suite 2350, Houston TX 77002
 
 ## How to Use This Workspace
