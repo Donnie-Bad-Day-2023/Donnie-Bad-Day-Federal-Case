@@ -56,6 +56,12 @@ There is no cause or case number that is assigned to this document
 Exhibit C (Booking Sheet): 
 Logs a 19-minute window between the lights, arrest in Markham, and booking in Bay City (7.6 miles away), which is a physical impossibility for investigating a possible violation and completing a 12-minute commute
 
+Exhibit D Inventory 
+Evidence of an Unlawful Warrantless Search
+Destroys this defense because it is unsigned, undated, and contains no items inventoried in the sections designated for valuables or accessories
+ introducing a fourth contradictory description of the vehicle involved
+The "SLT" Trim Package: In this document, the vehicle—previously described as a 2-door Sebring (Exhibit A), a "said pickup" (Exhibit A), and a 2-door sedan (Exhibit B)—is now described as a "2 door SLT”
+
 Exhibit E (Register of Actions): 
 Proves the State of Texas did not have a criminal case filed against the Plaintiff Ever.  
 However, May 16, the day after the Plaintiff was released; JP 1 judge Sanders entered into the county docket system a record which shows a conviction entered in absentia for a man already released on May 15, 2023.
