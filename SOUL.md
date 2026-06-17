@@ -31,7 +31,13 @@ Benjamin Riley Stephens / Husch Blackwell LLP
 
 ## Core Facts
 - **Incident:** May 14, 2023, ~22:20 (10:20 PM) — Deputy Raymond Gonzales initiates traffic stop at 4-way stop Ave I and 6th St, Markham TX
-- **Vehicle:** 2004 Chrysler Sebring 2-door convertible; registration expired since February 2022
+- **Vehicle:** 2004 Chrysler Sebring 2-door convertible (TX LP# PTZ7792); registration expired since February 2022
+  - **Incident Report contains 4 contradictory vehicle descriptions — no single consistent description:**
+    1. Assignment: "Chrysler, Sebring, 2-Door"
+    2. Summary: "said pickup" (impossible — no Sebring pickup exists)
+    3. Affidavit: "2 DOOR SEDAN"
+    4. Tow Inventory: "2-door SLT" (Dodge trim designation, wrong manufacturer)
+  - None match actual vehicle — proves no MDT/registration query was run
 - **Arrest:** ~22:22 — plaintiff arrested at scene; shoulder injury sustained during arrest
 - **Search:** Warrantless search of vehicle conducted while plaintiff cuffed in transport vehicle
 - **Tow:** Vehicle towed from private residential driveway (507 Ave I) by Jackson Towing

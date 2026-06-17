@@ -26,7 +26,13 @@
 ## Critical Facts
 - **Incident date:** May 14, 2023, ~22:20 (10:20 PM)
 - **Stop basis:** Deputy Gonzales claims expired registration — geometrically impossible to observe driver's-side sticker at night from perpendicular passenger-side angle
-- **Vehicle:** 2004 Chrysler Sebring 2-door convertible; registration expired since February 2022
+- **Actual vehicle:** 2004 Chrysler Sebring 2-door convertible (TX LP# PTZ7792); registration expired since February 2022
+- **Incident Report vehicle descriptions (BRADY — 4 contradictions):**
+  1. Assignment section: "Chrysler, Sebring, 2-Door"
+  2. Summary section: "said pickup" ← impossible (Chrysler makes no Sebring pickup)
+  3. Sworn Affidavit: "2 DOOR SEDAN"
+  4. Tow Inventory: "2-door SLT" ← SLT is a Dodge trim, not Chrysler
+  - No consistent description matching actual vehicle — proves no MDT/registration query run
 - **Arrest:** ~22:22 at scene (not at tow lot); shoulder injury sustained; 3 officers on scene for Class C offense
 - **Tow:** Vehicle towed from private residential driveway (507 Ave I) without consent to Jackson Towing; $500 cash
 - **Booking:** 22:39 at Matagorda County Jail; $0.00 bond; **no charges at booking**
