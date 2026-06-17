@@ -23,35 +23,145 @@
 | Towing | Buster Jackson / Jackson Towing | **Dismissed** sua sponte (Dkt 44) |
 | Defense Counsel | Benjamin Riley Stephens | Husch Blackwell LLP, 600 Travis #2350, Houston TX |
 
-## Critical Facts
-- **Incident date:** May 14, 2023, ~22:20 (10:20 PM)
-- **Stop basis:** Deputy Gonzales claims expired registration — geometrically impossible to observe driver's-side sticker at night from perpendicular passenger-side angle
-- **Actual vehicle:** 2004 Chrysler Sebring 2-door convertible (TX LP# PTZ7792); registration expired since February 2022
-- **Incident Report vehicle descriptions (BRADY — 4 contradictions):**
-  1. Assignment section: "Chrysler, Sebring, 2-Door"
-  2. Summary section: "said pickup" ← impossible (Chrysler makes no Sebring pickup)
-  3. Sworn Affidavit: "2 DOOR SEDAN"
-  4. Tow Inventory: "2-door SLT" ← SLT is a Dodge trim, not Chrysler
-  - No consistent description matching actual vehicle — proves no MDT/registration query run
-- **Arrest:** ~22:22 at scene (not at tow lot); shoulder injury sustained; 3 officers on scene for Class C offense
-- **Tow:** Vehicle towed from private residential driveway (507 Ave I) without consent to Jackson Towing; $500 cash
-- **Booking:** 22:39 at Matagorda County Jail; $0.00 bond; **no charges at booking**
-- **Release:** 16:23 (next day) — ~18 hours detained; no formal charges ever filed
-- **Magistration:** Judge Jason Sanders (JP1) appeared at jail, said "we're gonna get you outta here with time served" — no charging instrument, no plea, no jurisdiction (JP1 sentencing for JP4 offense)
-- **State conviction:** May 16, 2023 — entered **day after** physical release; absentia plea; void ab initio
-- **Federal complaint filed:** July 7, 2025 (under 3:25-mc-00017; transferred to 3:25-cv-00253)
-- **MTD granted:** May 12, 2026 — with leave to amend
-- **FAC filed:** May 25, 2026 — 9 counts
-- **Notice of Substitution filed:** May 28, 2026
-- **No defense responsive pleading on record** as of filing date
+## Critical Facts — Exhibit-by-Exhibit Breakdown
+
+### Exhibit A — Incident Report #2023-0477 (Deputy Raymond Gonzales)
+**Filed by:** Deputy R. Gonzales #4844, Unit 220, Matagorda County Sheriff's Office (Night Shift)
+**Date of events:** May 14, 2023
+
+**Fatal Defect 1 — Simultaneous timestamp:**
+Gonzales's report states "observation" of expired registration AND activation of emergency lights occurred at the **exact same minute — 2220 hours.** No interval for verification. This means he cannot establish he verified the registration before initiating the stop — any lawful stop requires the officer to have observed the violation at inception, not after the fact.
+
+**Fatal Defect 2 — Four irreconcilable vehicle descriptions (proves no MDT query run):**
+1. **Assignment section:** "White in color, 2004, Chrysler, Sebring, 2-Door, TX LP# PTZ7792"
+2. **Summary section:** "said pickup" ← **IMPOSSIBLE** — Chrysler never manufactured a Sebring pickup
+3. **Sworn Affidavit (Exhibit B):** "2004, White, Chrysler, **2 DOOR SEDAN**" ← impossible body style
+4. **Tow Inventory (Exhibit D):** "2004 Chrys Sebring **2-door SLT**" ← SLT is a Dodge trim designation, not Chrysler's
+
+**Three officers on scene:** Deputy R. Gonzales #4844 (reporting), Deputy J. Wamget #4842, Jane Doe Deputy (never identified, never served).
+
+---
+
+### Exhibit B — Sworn Expired Registration Affidavit (Deputy Raymond Gonzales)
+**Filed as:** The charging instrument for the state case 1-23-TR-0306
+**Printed:** June 20, 2023 by Defendant Michaela Riley — 37 days after arrest, 2 days before tow hearing
+
+**Fatal Defect 1 — Impossible vehicle description:**
+Describes vehicle as "2004, White in Color, Chrysler, **2 DOOR SEDAN**." The 2004 Chrysler Sebring was produced only as a 2-door coupe and a convertible — **neither is classified as a sedan.** This description is physically impossible and proves the affidavit was not prepared from direct observation or verified records.
+
+**Fatal Defect 2 — Private property location:**
+States vehicle was operated "at 507 AVENUE I" — a **private residential driveway.** Directly contradicts any claim the offense was committed on a public roadway in the officer's presence.
+
+**Fatal Defect 3 — Blank probable cause signature block:**
+The judicial probable cause finding line is **completely blank — no magistrate signed it, no judicial review of probable cause was ever conducted.** Makes the entire prosecution void for lack of lawful charging instrument.
+
+**Additional note:** The affidavit is dated "14TH DAY OF MAY, 2022" — a year error. The charging instrument itself contains a scrivener's error.
+
+---
+
+### Exhibit C — Jail Booking Sheet (Matagorda County Jail)
+**Arrest:** 22:22 | **Booking:** 22:39 | **Bond:** $0.00 | **Arrest Type:** ON VIEW
+
+**Fatal timeline contradictions:**
+- 2220 hrs: Emergency lights activated (Gonzales's report)
+- 2222 hrs: Plaintiff arrested and placed in custody
+- 2239 hrs: Booked into Matagorda County Jail — **19 minutes after lights activated**
+- **7.6-mile transport** from Markham to Bay City completed in ~11 minutes (avg 41 mph+)
+- **~8 minutes on scene** between 2222 and 2239 — physically insufficient for: approaching vehicle, identifying driver, explaining stop reason, conducting search, completing arrest procedure
+
+**Missing signatures:** No arresting officer signature block completed. No judge, court, court date, or disposition listed.
+
+**Key admission:** "ON VIEW" arrest type = Gonzales claims he directly observed the offense. This directly contradicts the simultaneous 2220 timestamp in Exhibit A.
+
+---
+
+### Exhibit D — Vehicle Inventory Report (unsigned, undated)
+**Wrong address listed:** Vehicle is listed as seized from **107 Ave I** — the actual stop location was **507 Ave I.** These are different addresses. This is not a clerical error — it is evidence the inventory was not prepared at the scene and was fabricated after the fact.
+
+**Fourth vehicle description:** "2004 Chrys Sebring 2-door **SLT**" — SLT is a Dodge Ram trim designation (SLT = Standard Level Trim), has no application to a Chrysler Sebring. This is the **fourth** contradictory description across the official record.
+
+**Nothing was inventoried:** The "Extra Accessories" and "Accessories Removed" sections are completely blank. No inventory was conducted.
+
+**Not signed or dated:** Deputy signature line and date fields are blank. No officer certified this document.
+
+**Authority circled "Arrest":** No warrant, no inventory justification — just "Arrest" circled. Under *Arizona v. Gant*, *Collins v. Virginia*, a warrantless search/seizure on private property requires specific legal justification this document cannot provide.
+
+---
+
+### Exhibit E — Register of Actions, Case 1-23-TR-0306 (Matagorda County Court)
+**Pulled from:** Matagorda County public court records system
+
+**Fatal defect — Post-dated fabrication:**
+Every single event in this register — plea, judgment, new case filing, incident report, booking sheet, order of commitment, release report — is dated **May 16, 2023.**
+
+Plaintiff was:
+- **Arrested:** May 14, 2023
+- **Released:** May 15, 2023 at 16:23 (~18 hours detained)
+- **State case filed:** May 16, 2023 — **the day after physical release**
+
+**The phantom magistration:** When Judge Jason Sanders (JP1) appeared at the jail on May 15 and said "we're gonna get you outta here with time served," there was **no case number, no information filed, no citation issued, no charging instrument.** The Register of Actions proves this — everything is dated 5/16.
+
+**The void conviction:**
+- **Plea:** "Nolo Contendere" — entered **in absentia** without plaintiff's knowledge or presence
+- **Judgment:** "Convicted" — entered **in absentia**
+- **No plea was ever entered by plaintiff**
+
+**Jurisdictional defects:**
+1. Case filed May 16, 2023 — day after Sanders's alleged "sentence" on May 15
+2. The offense occurred in **JP4's precinct** (Markham), not **JP1's precinct** (Sanders) — wrong venue
+3. No information, citation, or indictment filed before "sentencing"
+4. Probable cause signature on Sworn Affidavit (Exhibit B) was never signed
+
+**Financial:** $155 total assessment, $155 paid — all dated 5/16/2023.
+
+---
+
+### Exhibit F — Riley Email / Open Records Correspondence
+**From:** Michaela Riley (Records/ID Clerk, Matagorda County Sheriff's Office)
+**Date:** June 15, 2023
+**Subject:** RECORDS REQUEST
+
+**Footage existed and was intact:** Riley confirmed footage existed for **3 officers and 1 dashcam** as of June 15, 2023 — **9 days before the June 22 tow hearing.** She provided specific minute counts:
+
+| Recording | Minutes |
+|----------|---------|
+| Body cam 1 | 14:11 |
+| Body cam 2 | 14:50 |
+| Body cam 3 | 14:11 |
+| Dash cam | 21:14 |
+| **Total** | **64:26** |
+
+**Cost quoted:** $104.26 ($40 setup + $64.26 at $1/min) — unauthorized financial barrier despite plaintiff's granted IFP status.
+
+**"Technical issues" was a lie:** Riley returned plaintiff's $105 payment on June 20, 2023 — 2 days before the hearing — claiming "technical issues." But she had already confirmed the footage existed and quoted **exact minute counts** on June 15. You cannot quote exact timestamps for footage that has "technical issues" preventing production.
+
+**Footage was suppressed, not unavailable.** The five things it would have shown: vehicle location in Tina Phillips's driveway; proximity duration between vehicles; absence of any plate query; plaintiff's non-resistant demeanor; and the warrantless search of the secured vehicle.
+
+---
+
+## Case Timeline Anchor
+- **May 14, 2023 ~22:20** — Stop initiated; 3 officers present
+- **May 14, 2023 ~22:22** — Plaintiff arrested at scene; shoulder injury
+- **May 14, 2023 22:39** — Booked; $0 bond; no charges filed
+- **May 15, 2023 ~16:23** — Released after ~18 hours; Judge Sanders appears at jail — no case, no charges, no jurisdiction (JP1 presiding over JP4 offense)
+- **May 16, 2023** — Entire state case fabricated retroactively: case filed, plea entered, conviction imposed — all in absentia
+- **June 20, 2023** — Riley prints Exhibits B and C (blank probable cause; blank booking fields) — still blank
+- **June 22, 2023** — Tow hearing; Finlay denies motion to compel footage; Chau shields misconduct; $500 cash paid for tow
+- **July 7, 2025** — Federal complaint filed (under 3:25-mc-00017; transferred to 3:25-cv-00253)
+- **May 12, 2026** — MTD granted with leave to amend
+- **May 25, 2026** — FAC filed (9 counts)
+- **May 28, 2026** — Notice of Substitution filed
 
 ## Brady Evidence Chain
-1. Incident Report #2023-0477 (Gonzales, Exhibit A) — 3 contradictory vehicle descriptions; simultaneous timestamp (2220 = observation + stop); no documented plate query
-2. Sworn Expired Registration Affidavit (Gonzales, Exhibit B) — "2 DOOR SEDAN" (impossible); vehicle at private address (507 Ave I); **blank judicial probable cause signature block**
-3. Jail Booking Sheet (Exhibit C) — 22:39 booking; $0.00 bond; no charges at booking
-4. Tow Inventory (Exhibit D) — unsigned; wrong address (107 vs 507 Ave I); "2 door SLT" — fourth description
-5. Register of Actions Case 1-23-TR-0306 (Exhibit E) — case created May 16, 2023 (day after release)
-6. Riley Email (Exhibit F) — exact footage timestamps (64:26 total); $104.26 quoted; money returned citing "technical issues"
+*(Superseded by the Critical Facts — Exhibit-by-Exhibit Breakdown above. Each exhibit's defects and legal significance are documented in full there.)*
+
+**Quick reference — what each exhibit proves:**
+1. **Exhibit A** — No lawful basis for stop; fabricated vehicle descriptions; simultaneous timestamp
+2. **Exhibit B** — Void charging instrument; blank PC; impossible vehicle description; private property stop
+3. **Exhibit C** — No charges at booking; impossible timeline; "ON VIEW" contradicts Exhibit A
+4. **Exhibit D** — Inventory is a legal nullity; wrong address; fourth vehicle description
+5. **Exhibit E** — Conviction entirely fabricated in absentia; no jurisdiction; wrong venue
+6. **Exhibit F** — 64:26 min of footage suppressed; "technical issues" is a documented lie
 
 ## Legal Standards
 - **Fourth Amendment seizure:** Terry v. Ohio, 392 U.S. 1 (1968); Whren v. United States, 517 U.S. 806 (1996)
