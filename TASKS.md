@@ -3,9 +3,9 @@
 ## Active Tasks
 
 ### HIGH PRIORITY
-- [ ] **Monitor PACER** for defense responsive pleading (MDS or Answer) — not yet filed
+- [ ] **Oppose Dkt 52 MTD** — deadline 07/13/2026; defense argues PC existed for stop using fabricated officer trajectory ("northbound") not in FAC; Four Corners violation
+- [ ] **Monitor PACER** for any reply brief from defense
 - [ ] **Serve Jane Doe Deputy** — never served; need court intervention or MCSO interrogatories to identify
-- [ ] **Prepare Rule 26 initial disclosures** — required after answer filed
 
 ### MEDIUM PRIORITY
 - [ ] **Propound targeted discovery** immediately upon answer — interrogatories + RFPs to Matagorda County (radio logs, tow logs, personnel files, bodycam footage)

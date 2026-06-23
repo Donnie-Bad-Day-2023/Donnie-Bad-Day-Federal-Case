@@ -1,0 +1,42 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+GALVESTON DIVISION
+DONALD LYNN THOMPSON, JR., §
+§
+Plaintiff, §
+§
+v. § Civil Action No.: 3:25-CV-00253
+§
+§
+MATAGORDA COUNTY, et al., §
+§
+Defendants. §
+
+MATAGORDA COUNTY DEFENDANTS' MOTION TO DISMISS
+PLAINTIFF'S AMENDED COMPLAINT
+
+Pursuant to Federal Rule of Civil Procedure 12(b)(6)
+
+I. INTRODUCTION
+In his Amended Complaint, Plaintiff Donald Lynn Thompson, Jr. alleges the same civil rights violations as in his original pleading. Specifically, Plaintiff contends that he was improperly arrested by Deputy Raymond Gonzales for driving with an expired registration and detained for 18 hours. Pl.'s Am. Compl. ¶ 3. Plaintiff then claims that Magistrate Judge Jason Sanders impermissibly entered a disposition of "time served" without properly advising Plaintiff of his rights. Id. ¶ 36. Finally, Plaintiff alleges that his civil rights were violated in the vehicle tow hearing before Judge Mark Finlay. He claims that Judge Mark Finlay erroneously denied his request for certain video evidence to be produced, that County Attorney Jennifer Chau objected to certain lines of questioning, and that Records Clerk Michaela Riley imposed administrative barriers to accessing the evidence despite his indigency. Id. ¶ 40. Plaintiff maintains his suit under 42 U.S.C. §§ 1983, 1985(3), and 1986 and requests $3.2 million in damages.
+
+Judge Edison filed a memorandum and recommendation granting the Matagorda County Defendants' original Motion to Dismiss and giving Plaintiff the opportunity to amend. See generally Mem. & Recommendation, Dkt. No. 42. The district court accepted his recommendation. Order Adopting Magistrate Judge's Mem. & Recommendation, Dkt. No. 44. Although Plaintiff's Amended Complaint provides additional details and factual allegations about the traffic stop, his claims still fail as a matter of law:
+
+1) Plaintiff's allegations, taken as true, do not support the notion that the stop was conducted without probable cause.
+2) Because probable cause for the initial stop existed, Plaintiff's remaining claims should likewise be dismissed.
+
+The Matagorda County Defendants respectfully request that the Court dismiss Plaintiff's claims in their entirety.
+
+II. LEGAL STANDARD
+Pursuant to Fed. R. Civ. P. 12(b)(6), a claim may be dismissed because of a "failure to state a claim upon which relief can be granted." A complaint must contain a "short and plain statement of the claim showing that the pleader is entitled to relief" to give the defendant "fair notice" of what the claims are and the grounds upon which they rest. See Fed. R. Civ. P. 8(a)(2); Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 555 (2007). "A plaintiff's obligation to provide the 'grounds' of his 'entitlement to relief' requires more than labels and conclusions, and a formulaic recitation of the elements of a cause of action will not do . . .." Id. at 555 (internal citations omitted). Legal conclusions "must be supported by factual allegations." Ashcroft v. Iqbal, 556 U.S. 662, 679 (2009). To survive a motion to dismiss, a complaint must contain sufficient factual allegations, accepted as true, "to state a claim to relief that is plausible on its face." Id. at 678 (quoting Twombly, 550 U.S. at 570). "Where a complaint pleads facts that are 'merely consistent with' a defendant's liability, it 'stops short of the line between possibility and plausibility of entitlement to relief.'" Id. (quoting Twombly, 550 U.S. at 557). Conclusory allegations shall not be accepted as true. Kaiser Aluminum & Chem. Sales, Inc. v. Avondale Shipyards, Inc., 677 F.2d 1045, 1050 (5th Cir. 1982).
+
+III. ARGUMENT AND AUTHORITIES
+A. Plaintiff's alleged facts do not support the notion that the stop was conducted without probable cause.
+
+When ruling on the Matagorda County Defendants' original Motion to Dismiss, this Court held that "[t]o survive another motion to dismiss, the plaintiff must allege facts that, when accepted as true, support the notion that the stop was conducted without probable cause." Order Adopting Magistrate Judge's Mem. & Recommendation, Dkt. No. 44, at 2. Plaintiff's Amended Complaint falls short.
+
+As explained by Judge Edison, an officer may arrest an individual if the officer has probable cause to believe that the individual committed even a minor criminal offense in his presence. Mem. & Recommendation, Dkt. No. 42, at 3. Plaintiff argues that it was a "physical, optical, and geometric impossibility for Defendant Gonzales to visually observe the status of Plaintiff's driver's-side registration sticker" based on the parties' locations and the fact that the stop occurred at night. Pl.'s Am. Compl., Dkt. No. 45 ¶ 23. However, Plaintiff's own factual allegations contradict this contention. Plaintiff claims that he was stopped at a 4-way intersection, traveling west. Id. ¶ 22. He then states that Officer Gonzales was traveling north. Id. ¶ 23. Plaintiff argues that this "plac[ed Officer Gonzales's] vehicle at a perpendicular, strict passenger-side orientation relative to Plaintiff's vehicle"; thus, Plaintiff contends, it was impossible for the officer to see Plaintiff's registration sticker on the driver's side of the windshield. Id. Putting aside any arguments regarding whether drivers at four-way traffic stops can only observe the nearest side of a car, Plaintiff's own asserted orientations would place Officer Gonzales as perpendicular to the driver's side of Plaintiff's vehicle, where Plaintiff's expired registration sticker was placed. Additionally, Plaintiff contends that he "executed a lawful left-hand turn to travel southbound." Pl.'s Am. Compl., Dkt. No. 45 ¶ 24. Again taking Plaintiff's allegations as true, when Plaintiff turned left to travel south, he would have directly faced Officer Gonzales, who was traveling north. Officer Gonzales would therefore have had the opportunity to observe Plaintiff's expired registration sticker.
+
+Plaintiff's remaining factual assertions likewise do not support the notion that the stop was conducted without probable cause. Plaintiff complains that Officer Gonzales did not run his license plate to check the status of his registration. Pl.'s Am. Compl., Dkt. No. 45 ¶¶ 26-27. Yet Texas registration stickers contain expiration dates on their face and Plaintiff admits that his registration was expired at the time of the stop.
+
+[REMAINDER OF MTD NOT YET RECEIVED - TO BE EXTRACTED]

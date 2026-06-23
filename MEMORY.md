@@ -147,10 +147,8 @@ Plaintiff was:
 - **May 16, 2023** — Entire state case fabricated retroactively: case filed, plea entered, conviction imposed — all in absentia
 - **June 20, 2023** — Riley prints Exhibits B and C (blank probable cause; blank booking fields) — still blank
 - **June 22, 2023** — Tow hearing; Finlay denies motion to compel footage; Chau shields misconduct; $500 cash paid for tow
+- **June 22, 2026 (Dkt 52):** MTD on FAC filed by Husch Blackwell — argues PC existed for stop; falsely claims officer was "traveling north" (never alleged in FAC); Four Corners violation; 21-day opposition deadline: 07/13/2026
 - **July 7, 2025** — Federal complaint filed (under 3:25-mc-00017; transferred to 3:25-cv-00253)
-- **May 12, 2026** — MTD granted with leave to amend
-- **May 25, 2026** — FAC filed (9 counts)
-- **May 28, 2026** — Notice of Substitution filed
 
 ## Brady Evidence Chain
 *(Superseded by the Critical Facts — Exhibit-by-Exhibit Breakdown above. Each exhibit's defects and legal significance are documented in full there.)*

@@ -16,9 +16,10 @@ Running index of all docket entries. Update immediately after any new filing.
 | 44 | 05/12/2026 | Order Adopting R&R — MTD GRANTED; Jackson Towing DISMISSED; 2-week deadline to amend: 05/26/2026 |
 | 45 | 05/25/2026 | First Amended Complaint (9 counts) — FILED ON TIME |
 | 48 | 05/28/2026 | Plaintiff's Notice of Total Substitution of First Amended Complaint — complete structural rewrite, not a defense MDS |
+| 52 | 06/22/2026 | Matagorda County Defendants' Motion to Dismiss FAC (12(b)(6)) — filed by Husch Blackwell |
 
 ## Pending / Upcoming
-- Defense Answer to FAC — expected (21 days from service of FAC)
+- Plaintiff's Opposition to Dkt 52 MTD — deadline 07/13/2026 (21 days from 06/22)
 - Doe deputies — never served
 
 ## Tags

@@ -1,7 +1,7 @@
 # STRATEGIES — Litigation Game Plan
 
 ## Current Phase
-Post-FAC: Awaiting defense responsive pleading (MDS or Answer). No defense filing on record yet.
+Post-FAC: Dkt 52 MTD filed 06/22/2026. Opposition due 07/13/2026. Defense argument relies on fabricated officer trajectory ("northbound") not in FAC — Four Corners violation.
 
 ## Strategic Objectives
 
