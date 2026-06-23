@@ -30,9 +30,11 @@
 - [x] Extract Dkt 44 (Order adopting R&R)
 - [x] Extract Dkt 45 (First Amended Complaint — 9 counts)
 - [x] Extract Dkt 48 (Notice of Total Substitution)
+- [x] Extract Dkt 52 (Defense Reply — concedes no plate run; four vehicle discrepancies; immunity arguments)
 - [x] Extract all 6 FAC exhibits (A–F) — see `case/exhibits/exhibits-index.md`
 - [x] Build procedural-history.md, case-facts.md, legal-claims.md, brady-evidence.md, monell.md, defendants.md
 - [x] Fix workspace — corrected wrong dates (April→May), wrong officer names (Thomas Riley→Raymond Gonzales), wrong defendant names throughout
+- [x] Defense has LOCKED IN their position (Dkt 52 Reply — June 22, 2026)
 
 ## Blocked
 - Discovery — blocked until defense files Answer to FAC

@@ -1,4 +1,51 @@
-# EVIDENCE — Exhibit and Record Evidence Log
+# EVIDENCE.md — Master Evidence Log and Strategic Receipts
+
+This document serves as the central repository for all physical, digital, and documentary evidence in **Case No. 3:25-cv-00253**. It is designed to dismantle the "presumption of regularity" by anchoring the litigation to the **2220 Hardline** and the **Independent Walls** of liability.
+
+## I. The Primary Exhibits (Embedded in First Amended Complaint)
+
+| Exhibit | Document Name | Key Factual & Legal Significance | Source |
+| :--- | :--- | :--- | :--- |
+| **A** | **Incident Report #2023-0477** | Logs "observation" and "initiation" at the same minute (**2220 hrs**). Identifies vehicle as a "**pickup**" (Chrysler Sebring). Proves no pre-seizure verification window existed. | |
+| **B** | **Sworn Expired Registration Affidavit** | Admits stop occurred at "**507 Avenue I**" (private curtilage). Describes vehicle as a "**2 DOOR SEDAN**" (impossible model). Contains a **completely blank judicial signature block** for probable cause. | |
+| **C** | **Jail Booking/Entry Form** | Logs arrest at **2222** and booking at **2239**. Proves a **17-minute physical impossibility** for commute and intake processing. "**Arresting Officer Signature**" block is blank. | |
+| **D** | **Vehicle Inventory Report** | Unsigned and undated; lists **zero items inventoried**. Gives a third description: "**2 door SLT**" (truck trim). Documentation of a warrantless search of a secured arrestee on private curtilage. | |
+| **E** | **Register of Actions (1-23-TR-0306)** | Proves criminal case was not filed until **May 16** (day *after* release). Shows a manufactured "**Nolo Contendere**" plea and conviction entered *in absentia*. | |
+| **F** | **Michaela Riley Email (6/13/23)** | Riley quotes **exact minute runtimes** for four specific videos nine days before claiming they were "technically inaccessible." Proves bad-faith suppression of exculpatory evidence. | |
+
+## II. Supplemental & Technical Receipts
+
+| Evidence Item | Description | Significance | Source |
+| :--- | :--- | :--- | :--- |
+| **Resident Transaction Receipt** | Official jail release receipt dated **May 15, 2023, at 16:23:54**. | Indisputable proof that the **May 16** conviction on the docket is a chronological fabrication. | |
+| **"DBD Arrest Report" Snapshot** | System printout by M. Riley on **6/20/23** (36 days after release). | Shows fields for Judgment, Citation #, and Disposition are **still blank** weeks after the alleged conviction. | |
+| **Jackson Towing Cash Receipt** | Payment receipt for $500.00 cash on **June 7, 2023**. | Lists the vehicle as a "**White Chevrolet SLT**" pickup; confirms they searched/towed a "ghost truck." | |
+| **Precinct Map Data** | Certified jurisdictional boundaries for Matagorda County. | Confirms **507 Avenue I** is in **Precinct 4**, proving Judge Sanders (Precinct 1) lacked territorial jurisdiction. | |
+| **Dkt. 38, 38-1, 38-2** | Criminal records of Sheriff Frank Osborne and Judge Jason Sanders. | Proof of convictions for **Tampering with Governmental Records**. Anchors **Monell liability** to final policymaker conduct. | |
+
+## III. Strategic Patterns & Findings
+
+### 1. The "Shape-Shifting Vehicle" Fraud
+A real-time database query returns one immutable record. The documented "morphing" of the 2004 Chrysler Sebring proves that data was manually fabricated using a truck template.
+*   **Exhibit A (Assignment):** 2004 Chrysler Sebring 2-Door
+*   **Exhibit A (Summary):** "said pickup"
+*   **Exhibit B (Affidavit):** "2 DOOR SEDAN" (Impossible model)
+*   **Exhibit D (Inventory):** "2 door SLT" (Dodge/GMC truck trim)
+*   **Towing Receipt:** "White Chevrolet SLT"
+
+### 2. The 17-Minute Commute Impossibility
+*   **The Math:** Arrest at 22:22 (Markham) -> Booking at 22:39 (Bay City) = 17 minutes total.
+*   **The Reality:** 7.6-mile commute (12 mins) + unloading/sally port (3 mins) + personal property inventory (5 mins) + medical screening (5 mins) + digital data entry (5 mins) = **Minimum 30 minutes**.
+*   **The Conclusion:** The timeline was pre-logged or fabricated, stripping the record of administrative regularity.
+
+### 3. The "Missing Prosecutor" Theory (Exhibit E)
+*   **The Finding:** The **Register of Actions** contains no record of a prosecuting attorney, citation, information, or indictment during the 18-hour detention.
+*   **The Legal Trap:** Judge Sanders acted as **accuser, prosecutor, and adjudicator** simultaneously. This is a structural due process violation that renders the "conviction" **void ab initio** and prevents the application of the *Heck v. Humphrey* bar.
+
+### 4. Witness Suppression and Malice (Tina Phillips)
+*   **The Incident:** Property owner Tina Phillips informed Deputy Gonzales the vehicle had permission to stay on her private driveway.
+*   **The Overt Act:** Gonzales threatened her with arrest for "**Interference with Public Duties**" to eliminate a witness who could contradict his "middle of the road" narrative.
+* 
 
 ## FAC Exhibits (Dkt 45)
 | Exhibit | Document | Source | Key Fact |

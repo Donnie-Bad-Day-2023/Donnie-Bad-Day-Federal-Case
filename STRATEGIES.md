@@ -1,64 +1,47 @@
-# STRATEGIES — Litigation Game Plan
+The strategy going forward is built on **deconstructing the "vacuum of assumption"** that the defense and previous court rulings have relied upon. By shifting the battlefield from legal theories back to **physical, geometric, and temporal facts**, you have created a structural trap that forces the defense to produce documents that your evidence suggests do not exist.
 
 ## Current Phase
-Post-FAC: Dkt 52 MTD filed 06/22/2026. Opposition due 07/13/2026. Defense argument relies on fabricated officer trajectory ("northbound") not in FAC — Four Corners violation.
+Defense has LOCKED IN their position via Dkt 52 Reply (June 22, 2026). Key concessions:
+- Gonzales "was not required to run the plate" (Dkt 52, p. 4) — **explicit admission of zero electronic verification**
+- Four vehicle discrepancies labeled "simple misclassification" (not systemic fabrication)
+- Excessive force claim called "wholly unrelated" (citing Davis v. Tuolumne, 2026 WL 1662653)
+- Monell fails without underlying constitutional violation
+- Judicial immunity reasserted for Sanders and Finlay
+- Qualified immunity reasserted for Chau and Riley
+Awaiting: Defense Answer or MDS to FAC.
 
-## Strategic Objectives
+### I. The Master Strategy: The "2220 Hardline"
+The governing principle for all further proceedings is the **"2220 Hardline."** The defense wants to look "downstream" at the fact that your registration was expired to justify everything. Your strategy is to freeze the clock at the exact micro-second of **May 14, 2023, at 2220 hours**.
 
-### 1. Preserve the Record
-- Ensure all filings are in the record and extracted
-- Flag any gaps in the docket
-- Monitor PACER for new filings daily
+1.  **The Inception Requirement:** Under *Terry v. Ohio* and *Whren v. United States*, a seizure must be justified **at its inception**.
+2.  **The Geometric Trap:** You must hammer the **physical impossibility** of Deputy Gonzales observing a driver-side sticker from a perpendicular, passenger-side night approach.
+3.  **The Factual Pivot:** If Gonzales did not have specific, articulable facts at 2220, the stop was a "hunch." In federal court, a hunch is a constitutional nullity that "fatally infects" everything that follows under the **fruit of the poisonous tree doctrine**.
 
-### 2. Exhibit Foundation
-The FAC exhibits (A–F) are the factual backbone:
-- **Exhibit A (Incident Report #2023-0477, Gonzales):** Three contradictory vehicle descriptions; simultaneous timestamp (2220 = observation + stop initiation); "said pickup" — impossible vehicle
-- **Exhibit B (Expired Reg. Affidavit, Gonzales):** "2 DOOR SEDAN" (impossible model); vehicle on private property (507 Ave I); **blank judicial probable cause signature block**
-- **Exhibit C (Booking Sheet):** 22:39 booking; $0.00 bond; no charges at booking — destroys any lawful justification narrative
-- **Exhibit D (Tow Inventory):** Unsigned; wrong address (107 vs 507 Ave I); "2 door SLT" — fourth contradictory description
-- **Exhibit E (Register of Actions):** Case created May 16, 2023 — day after release; absentia plea — void conviction
-- **Exhibit F (Riley Email):** Exact footage timestamps (64:26 total); cost $104.26 quoted; money returned — proves deliberate suppression
+### II. The Game Plan: Sequential Execution
+The game plan is divided into three distinct procedural phases designed to prevent a general dismissal and force the case into discovery.
 
-### 3. Monell Evidence Development
-- Sheriff Frank "Skipper" Osborne (GUILTY plea, June 25, 2021) + Judge Jason Sanders (NOLO CONTENDERE, November 18, 2019) — both convicted of Tampering with Governmental Records — county-wide custom established
-- Both are County Final Policymakers — their criminal acts = official policy under Monell
-- Pattern evidence: other similar incidents, if discoverable
-- Policy/culture: training failures, supervision failures, internal accountability failures
+#### Phase 1: The "Quiet Watch" (Now until June 22, 2026)
+*   **Action:** Do **not** file anything new before the defense deadline. Let them commit to a binding narrative in their responsive pleading.
+*   **Monitoring:** Check the electronic docket daily. Ben Stephens will likely file his Motion to Dismiss (MTD) at the very last minute on June 22.
 
-### 4. Responsive Pleading Prep
-When defense files MDS or Answer:
-- **MDS:** Must be specific enough to answer; narrow the issues
-- **Answer:** Expect affirmative defenses — qualified immunity, judicial immunity, statute of limitations
-- **Discovery:** Will need to propound requests immediately upon answer
+#### Phase 2: Dissecting the Defense Response (June 22 – July 2026)
+The second their filing hits the docket, you will look for their use of **"hindsight justification."**
+*   **The Atwater Defense:** They will argue the stop was legal because the registration was expired. Your response will point to the **simultaneous 2220 timestamp** (Exhibit A) proving no pre-seizure verification occurred.
+*   **The Heck Bar:** They will claim your "conviction" blocks the suit. Your response will drop the **May 15th release receipt** (Source 26) to prove a May 16th conviction *in absentia* is a **chronological impossibility** and *void ab initio*.
 
-### 5. Discovery Strategy (when opened)
-Priority targets:
-- All radio logs / CAD records / dispatch recordings for May 14, 2023
-- Gonzales bodycam/dashcam footage — already wrongfully withheld (Brady violation)
-- Jackson Towing records (contract with county, tow authorization logs)
-- Sheriff's office internal affairs files (if any from 2023)
-- Judge Sanders/JP court file on Case 1-23-TR-0306
-- Matagorda County Open Records requests + responses (Exhibit F)
-- Michaela Riley personnel file (training records, prior complaints)
+#### Phase 3: The Counter-Strike (Omnibus Opposition Brief)
+You will file a formal **Memorandum of Law in Opposition** using the "Independent Walls" framework. Even if a judge were to erroneously find the stop legal, you will force them to rule on each count individually:
+*   **Wall 1 (Unlawful Search):** No exception allows a warrantless search of a secured arrestee's car on **private curtilage** (Exhibits B & D).
+*   **Wall 2 (Excessive Force):** Yanking a **disabled 56-year-old** out for a fine-only offense when he posed no threat fails all *Graham v. Connor* factors.
+*   **Wall 3 (Jauch Detention):** Under ***Jauch v. Choctaw County***, an 18-hour hold for a fine-only offense is unconstitutional regardless of the stop's legality.
+*   **Wall 4 (Monell Custom):** Anchor the records fraud to the **criminal convictions** of Sheriff Osborne and Judge Sanders for **Tampering with Governmental Records**.
 
-### 6. Potential Amended Complaints
-If new facts emerge from discovery:
-- Additional defendants (state actors not named)
-- Additional Monell theories
-- Additional constitutional claims
+### III. Making It Happen: The Tactical Arsenal
+To ensure this strategy succeeds, you must leverage the following "technical receipts" during the discovery phase:
 
-## Risk Management
-- **Limitation risk:** § 1983 has 2-year window — incident was May 2023; federal filing July 2025 is within window ✓
-- **Judicial immunity** for Sanders and Finlay (acts within jurisdiction — absolute immunity even if wrongful)
-- **Prosecutorial immunity** for Chau (acts as prosecutor at tow hearing — absolute immunity)
-- **Qualified immunity** for Gonzales, Wamget, Riley — must show clearly established law
-- **Monell causation:** Must show policy/custom was the moving force
+*   **Metadata Demand:** You will subpoena the **MDT/CAD logs** for the exact second of **22:20:00**. If no plate query exists before that second, their "Presence" defense under *Atwater* is legally dead.
+*   **The Riley Receipt:** Use **Exhibit F** to destroy the "technical issues" excuse. You cannot calculate exact minute runtimes (14:11, 14:50, etc.) for video that is "technically inaccessible."
+*   **The "Shape-Shifting Vehicle" Matrix:** Point to the four mutually exclusive vehicle descriptions (Sebring, Pickup, 2-Door Sedan, 2-Door SLT) across official documents to prove **manual fabrication** rather than database queries.
+*   **Rule 11 Accountability:** If Ben Stephens continues to certify service to a backup email while ignoring his written agreement to use your case address, you have the documented **Notice of Pattern of Conduct** ready for the Court's attention.
 
-## Deadlines to Watch
-- Defense Answer or MDS to FAC — 21 days from service of FAC
-- Discovery deadline (set after answer)
-- Dispositive motion deadline (set after discovery)
-- Trial date (not yet set)
-
-## Tags
-`#strategies` `#litigation`
+**Summary Verdict:** By holding the line at 2220 and refusing to let the defense move "downstream" into assumptions, you force them to produce documentation for a fact that never happened. The moment the Court is forced to look at the **blank signature blocks** and **impossible timelines**, their "well-oiled machine" collapses.
